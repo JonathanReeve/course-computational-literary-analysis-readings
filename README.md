@@ -1,10 +1,26 @@
-# rib-sample
+# Computational Literary Analysis Readings
 
-Sample site for the [Rib](https://github.com/srid/rib) static site generator
+This is the website containing course readings for the course Introduction to Computational Literary Analysis, taught at UC-Berkeley in Summer 2020. 
 
-## Prerequisites
+## Repository contents 
 
-First, install the [Nix package manager](https://nixos.org/nix/):
+```
+|-- README.md             -- You're reading it now
+|-- content               -- Contains markdown texts
+|   |-- dubliners.md      -- A markdown text of _Dubliners_
+|   |-- garden-party.md   -- Same for Mansfield's _A Garden Party_
+|   |-- moonstone.md      -- ...and one for Collins's _The Moonstone_
+|-- default.nix           -- Technical stuff
+|-- rib-sample.cabal      -- Haskell project configuration
+`-- src
+    `-- Main.hs           -- Haskell code used to generate the site
+```
+
+## Technical Details 
+
+**Nota bene: students need not do any of this.**
+
+To build this site manually, install the [Nix package manager](https://nixos.org/nix/):
 
 ``` bash
 bash <(curl https://nixos.org/nix/install)
