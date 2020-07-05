@@ -1,4 +1,7 @@
 image: nixos/nix:latest
 
-build:
-  script: "nix-shell --run 'ghcid -T \":main -wS\"'"
+pages:
+  script: "nix-shell --run 'ghcid -T \":main --rebuild-all\"'"
+  artifacts:
+    paths:
+      - dest
