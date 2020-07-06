@@ -2,23 +2,11 @@
 
 This is the website containing course readings for the course Introduction to Computational Literary Analysis, taught at UC-Berkeley in Summer 2020. 
 
-## Repository contents 
-
-```
-|-- README.md             -- You're reading it now
-|-- content               -- Contains markdown texts
-|   |-- dubliners.md      -- A markdown text of _Dubliners_
-|   |-- garden-party.md   -- Same for Mansfield's _A Garden Party_
-|   |-- moonstone.md      -- ...and one for Collins's _The Moonstone_
-|-- default.nix           -- Technical stuff
-|-- rib-sample.cabal      -- Haskell project configuration
-`-- src
-    `-- Main.hs           -- Haskell code used to generate the site
-```
+**Please refer to the course website for more information: https://icla2020.jonreeve.com**
 
 ## Technical Details 
 
-**Nota bene: students need not do any of this.**
+**Nota bene: students need not do any of this. These are just instructions for building the website from scratch.**
 
 To build this site manually, install the [Nix package manager](https://nixos.org/nix/):
 
@@ -36,7 +24,7 @@ cachix use srid
 ```
 
 ## Running
-
+  
 To build and run the site:
 
 ```bash
