@@ -169,7 +169,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ### Unit 1.1 \<2020-07-06\>: Course intro.
 
-  - Lecture: introduction. 
+  - [Lecture: introduction.](https://us.tv/videos/watch/242aa789-de52-4318-a0a6-6568f5623e52)
   - Motivation: what is possible with computational literary analysis?
 
 ### Unit 1.2 \<2020-07-07\>: Installing Python. Python 2 v. 3. Jupyter. Strings.
