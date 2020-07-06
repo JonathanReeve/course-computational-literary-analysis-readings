@@ -4,7 +4,7 @@ before_script:
   - nix-env -iA nixpkgs.wget
 
 pages:
-  script: "nix-shell --run 'ghcid -T \":main --rebuild-all\"'"
+  script: "nix-shell --run 'ghcid --warnings -T \":main --rebuild-all\"'"
   artifacts:
     paths:
       - dest
