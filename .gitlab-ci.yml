@@ -1,5 +1,8 @@
 image: nixos/nix:latest
 
+before_script:
+  - nix-env -iA wget
+
 pages:
   script: "nix-shell --run 'ghcid -T \":main --rebuild-all\"'"
   artifacts:
