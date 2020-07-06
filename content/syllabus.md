@@ -6,18 +6,13 @@ date: 2020-07-06
 
 # Introduction to Computational Literary Analysis, Summer 2020
 
-**NB: this is a draft, and will not be complete until the course start date, 6 July 2020.**
-
-This repository contains course materials for Introduction to Computational Literary Analysis, taught at UC-Berkeley in Summer 2020. 
-
-Please see the course website for more details.
-<https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis>
+If you're not reading this on the course website, you should be: https://icla2020.jonreeve.com
 
 ## Course Details 
 
-  - Instructor: Jonathan Reeve
-  - Summer Session D, 2020 (6 July – 14 August). Fully online this year.
   - DIGHUM 150C: Digital Humanties and Text and Language Analysis
+  - Summer Session D, 2020 (6 July – 14 August). Fully online this year.
+  - Instructor: Jonathan Reeve
   - [Course description via UC-Berkeley](https://classes.berkeley.edu/content/2020-summer-dighum-150c-001-sem-001)
   - Lectures posted asynchronously, Mondays – Thursdays, around 12:00 UTC.
   - Discussion Section A, Mondays, Wednesdays: 19:00 UTC on Zulip
@@ -27,10 +22,11 @@ Please see the course website for more details.
   - Open labs: Fridays, 19:00-21:00 UTC
       - Synchronous, in a videoconference room to be announced
   - Email address: jonathan.reeve@columbia.edu
-  - Course chatroom: <https://cla.zulipchat.com/>
-  - Course readings: TODO
+  - Course chatroom: https://cla.zulipchat.com/
+  - Course website and course readings: https://icla2020.jonreeve.com
+  - Course repository: https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis
 
-[Get Started!](#get-started)
+[Get Started!](#getting-started)
 
 ## Description
 
@@ -85,7 +81,7 @@ To get set up for this course, you will need:
 Now that we have that, let's get started\! First, let's set up a couple of accounts:
 
 1.  Fill out [this short course survey](https://jonreeve.typeform.com/to/fZZbj6CS), so I can keep track of who's who.
-2.  [Create a GitLab account](https://gitlab.com/users/sign_in). Unless you're already well-established there, ****please use your real name (or English name / nickname, etc) as your username****.
+2.  [Create a GitLab account](https://gitlab.com/users/sign_in). Unless you're already well-established there, **please use your real name (or English name / preferred name, etc) as your username**.
 3.  Use that account to log into [our Zulip chatroom](https://cla.zulipchat.com/). (Click "sign up," then "sign up with GitLab.")
 4.  Introduce yourself to everyone in the chatroom.
 5.  Sign up for a user account on [hypothes.is](https://hypothes.is), our annotation platform.

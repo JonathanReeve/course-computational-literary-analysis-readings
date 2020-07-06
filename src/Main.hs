@@ -69,7 +69,7 @@ generateSite = do
       writeHtmlRoute r doc
       pure (r, doc)
   writeHtmlRoute Route_Index articles
- 
+
 -- | Define your site HTML here
 renderPage :: Route a -> a -> Html ()
 renderPage route val = html_ [lang_ "en"] $ do
