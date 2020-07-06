@@ -52,7 +52,7 @@ instance IsRoute Route where
 -- provided by Rib to do the actual generation of your static site.
 main :: IO ()
 main = withUtf8 $ do
-  Rib.run "content" "dest" generateSite
+  Rib.run "content" "dest/icla" generateSite
 
 -- | Shake action for generating the static site
 generateSite :: Action ()
