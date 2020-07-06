@@ -6,16 +6,6 @@ editor: Jonathan Reeve
 rights: Public Domain
 source: Project Gutenberg
 publication-date: 2019
-toc:
-- The Sisters
-- An Encounter
-- Araby
-- Eveline
-- After the Race
-- Two Gallants
-- The Boarding House
-- Clay
-- The Dead
 ---
 
 ## THE SISTERS

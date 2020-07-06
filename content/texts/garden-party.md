@@ -1,5 +1,4 @@
 ---
-layout: narrative
 title: "The Garden Party and Other Stories" 
 author: Katherine Mansfield
 editor: Jonathan Reeve

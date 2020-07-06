@@ -1,10 +1,10 @@
-image: nixos/nix:latest
-
-before_script:
-  - nix-env -iA nixpkgs.wget
-
+image: alpine:latest
 pages:
-  script: "nix-shell --run 'ghcid --warnings -T \":main --rebuild-all\"'"
+  stage: deploy
+  script:
+  - echo 'Nothing to do...'
   artifacts:
     paths:
-      - dest
+    - public
+  only:
+  - master

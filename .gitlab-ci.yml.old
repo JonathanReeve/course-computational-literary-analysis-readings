@@ -1,0 +1,10 @@
+image: nixos/nix:latest
+
+before_script:
+  - nix-env -iA nixpkgs.wget
+
+pages:
+  script: "nix-build && ./result/bin/rib-sample --rebuild-all
+  artifacts:
+    paths:
+      - dest

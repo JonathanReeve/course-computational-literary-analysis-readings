@@ -38,7 +38,7 @@ instance IsRoute Route where
     Route_Index ->
       pure "index.html"
     Route_Article srcPath ->
-      pure $ "texts" </> srcPath -<.> ".html"
+      pure $ srcPath -<.> ".html"
 
 -- | Main entry point to our generator.
 --
@@ -63,13 +63,13 @@ generateSite = do
       writeHtmlRoute r = Rib.writeRoute r . Lucid.renderText . renderPage r
   -- Build individual sources, generating .html for each.
   articles <-
-    Rib.forEvery ["*.md"] $ \srcPath -> do
+    Rib.forEvery ["*.md", "texts/*.md"] $ \srcPath -> do
       let r = Route_Article srcPath
       doc <- Pandoc.parse Pandoc.readMarkdown srcPath
       writeHtmlRoute r doc
       pure (r, doc)
   writeHtmlRoute Route_Index articles
-
+ 
 -- | Define your site HTML here
 renderPage :: Route a -> a -> Html ()
 renderPage route val = html_ [lang_ "en"] $ do
@@ -79,16 +79,31 @@ renderPage route val = html_ [lang_ "en"] $ do
     link_ [rel_ "stylesheet", href_ "https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.7.2/tufte.min.css"]
     style_ [type_ "text/css"] $ C.render pageStyle
   body_ $ do
-    div_ [class_ "header"] $
-      a_ [href_ "/"] "Introduction to Computational Literary Analysis: Readings"
+    header_ [class_ "header"] $ do
+      nav_ $ do
+        a_ [href_ "/"] "Introduction to Computational Literary Analysis"
+        " // "
+        a_ [href_ "/syllabus.html"] "Syllabus"
+        " // "
+        a_ [href_ "https://cla.zulipchat.com"] "Chat"
     h1_ routeTitle
     case route of
-      Route_Index ->
-        div_ [] $ forM_ val $ \(r, src) ->
-          li_ [class_ "pages"] $ do
-            let meta = getMeta src
-            b_ $ a_ [href_ (Rib.routeUrl r)] $ toHtml $ title meta
-            renderMarkdown `mapM_` description meta
+      Route_Index -> do
+        h2_ "Course Info"
+        ul_ [] $ do
+          li_ [ class_ "pages" ] $ a_ [href_ "/syllabus.html"] "Syllabus"
+          li_ [ class_ "pages" ] $ a_ [href_ "https://cla.zulipchat.com"] "Chat"
+        h2_ "Readings"
+        div_ $ do
+          ul_ [] $
+            forM_ val $ \(r, src) -> do
+              let meta = getMeta src
+              let url = Rib.routeUrl r
+              if url /= "/syllabus.html" then
+                li_ [class_ "pages"] $ do
+                  a_ [href_ url] $ toHtml $ title meta
+                  renderMarkdown `mapM_` description meta
+              else ""
       Route_Article _ -> do
         article_ $ do
           details_ [] $ do
@@ -101,7 +116,7 @@ renderPage route val = html_ [lang_ "en"] $ do
  where
     routeTitle :: Html ()
     routeTitle = case route of
-      Route_Index -> "Introduction to Computational Literary Analysis: Readings"
+      Route_Index -> "Introduction to Computational Literary Analysis"
       Route_Article _ -> toHtml $ title $ getMeta val
     renderMarkdown :: Text -> Html ()
     renderMarkdown =
