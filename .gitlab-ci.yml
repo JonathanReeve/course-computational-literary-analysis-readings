@@ -1,7 +1,7 @@
 image: nixos/nix:latest
 
 before_script:
-  - nix-env -iA nixos.wget
+  - nix-env -iA nixpkgs.wget
 
 pages:
   script: "nix-shell --run 'ghcid -T \":main --rebuild-all\"'"
