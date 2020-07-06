@@ -1,5 +1,4 @@
 ---
-layout: narrative
 title: "The Moonstone"
 author: Wilkie Collins
 editor: Jonathan Reeve
