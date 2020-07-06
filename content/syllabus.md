@@ -1,14 +1,12 @@
 ---
-title: Syllabus
+title: "Introduction to Computational Literary Analysis, Summer 2020"
 author: Jonathan Reeve
 date: 2020-07-06
 ---
 
-# Introduction to Computational Literary Analysis, Summer 2020
-
-If you're not reading this on the course website, you should be: https://icla2020.jonreeve.com
-
 ## Course Details 
+
+If you're not reading this on the course website, you could be: https://icla2020.jonreeve.com. 
 
   - DIGHUM 150C: Digital Humanties and Text and Language Analysis
   - Summer Session D, 2020 (6 July – 14 August). Fully online this year.

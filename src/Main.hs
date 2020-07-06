@@ -36,7 +36,7 @@ data Route a where
 instance IsRoute Route where
   routeFile = \case
     Route_Index ->
-      pure "index.html"
+      pure "index2.html"
     Route_Article srcPath ->
       pure $ srcPath -<.> ".html"
 
@@ -83,15 +83,16 @@ renderPage route val = html_ [lang_ "en"] $ do
       nav_ $ do
         a_ [href_ "/"] "Introduction to Computational Literary Analysis"
         " // "
-        a_ [href_ "/syllabus.html"] "Syllabus"
-        " // "
         a_ [href_ "https://cla.zulipchat.com"] "Chat"
+        " // "
+        a_ [href_ "/texts/moonstone.html"] "The Moonstone"
+        " // "
+        a_ [href_ "/index.html#week-1-introduction-to-python-for-text-analysis"] "This Week"
     h1_ routeTitle
     case route of
       Route_Index -> do
         h2_ "Course Info"
         ul_ [] $ do
-          li_ [ class_ "pages" ] $ a_ [href_ "/syllabus.html"] "Syllabus"
           li_ [ class_ "pages" ] $ a_ [href_ "https://cla.zulipchat.com"] "Chat"
         h2_ "Readings"
         div_ $ do
@@ -126,6 +127,7 @@ renderPage route val = html_ [lang_ "en"] $ do
 pageStyle :: Css
 pageStyle = C.body ? do
   -- C.margin (em 4) (pc 20) (em 1) (pc 20)
+  "details > summary" ? C.fontSize (em 1.5)
   ".header" ? do
     C.marginBottom $ em 2
   "li.pages" ? do
