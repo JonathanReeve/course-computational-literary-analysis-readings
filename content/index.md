@@ -174,6 +174,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ### Unit 1.2 \<2020-07-07\>: Installing Python. Python 2 v. 3. Jupyter. Strings.
 
+  - [Lecture 2: Getting Started](https://us.tv/videos/watch/ac6f30c0-1336-4ea0-8463-83f34855e58f)
   - Reading: [*The Moonstone*, First Period, Through Chapter VII](/texts/moonstone.html#prologue)
 
 ### Unit 1.3 \<2020-07-08\>: Working with strings, lists, and dictionaries.
