@@ -179,6 +179,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ### Unit 1.3 \<2020-07-08\>: Working with strings, lists, and dictionaries.
 
+  - [Lecture 3: String Methods and For Loops](https://us.tv/videos/watch/807b10f3-e40a-4fd0-ada0-b849cecb8b11)
   - Reading: [First Period, Through Chapter XI](/texts/moonstone.html#chapter-vii)
 
 ### Unit 1.4 \<2020-07-09\>: Python basics, continued. Homework 1 assigned.
