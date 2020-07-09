@@ -189,7 +189,7 @@ Note: this schedule is subject to some change, so please check the course websit
   - [Lecture 4: If, Lists, Dictionaries](https://us.tv/videos/watch/88b2a638-b10b-4880-bc25-3b7368679a3d)
     - [Notes: If, Lists, Dictionaries](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Notes/03-if-lists-and-dictionaries.ipynb)
   - Reading: [*The Moonstone*, Through Chapter XVII](/texts/moonstone.html#chapter-vii)
-  - [Homework 1 assigned. Due Monday, 19:00 UTC (Noon, Berkeley time).](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/9f9275b361ea6da05d0fdfe7b942d83e6e549417/Homework/Yourname-HW1.ipynb)
+  - [Homework 1 assigned. Due Monday, 19:00 UTC (Noon, Berkeley time).](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW1.ipynb)
 
 ## Week 2: Basic Text Analysis
 
