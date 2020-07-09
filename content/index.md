@@ -180,16 +180,21 @@ Note: this schedule is subject to some change, so please check the course websit
 ### Unit 1.3 \<2020-07-08\>: Working with strings, lists, and dictionaries.
 
   - [Lecture 3: String Methods and For Loops](https://us.tv/videos/watch/807b10f3-e40a-4fd0-ada0-b849cecb8b11)
+    - [Notes: Strings](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Notes/01-strings.ipynb)
+    - [Notes: For Loops](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Notes/02-for-loops.ipynb)
   - Reading: [First Period, Through Chapter XI](/texts/moonstone.html#chapter-vii)
 
 ### Unit 1.4 \<2020-07-09\>: Python basics, continued. Homework 1 assigned.
 
+  - [Lecture 4: If, Lists, Dictionaries](https://us.tv/videos/watch/88b2a638-b10b-4880-bc25-3b7368679a3d)
+    - [Notes: If, Lists, Dictionaries](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Notes/03-if-lists-and-dictionaries.ipynb)
   - Reading: [*The Moonstone*, Through Chapter XVII](/texts/moonstone.html#chapter-vii)
+  - [Homework 1 assigned. Due Monday, 19:00 UTC (Noon, Berkeley time).](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/9f9275b361ea6da05d0fdfe7b942d83e6e549417/Homework/Yourname-HW1.ipynb)
 
 ## Week 2: Basic Text Analysis
 
-Text: *The Moonstone*, Continued
-Tools: Natural Language ToolKit (NLTK)
+ - Text: *The Moonstone*, Continued
+ - Tools: Natural Language ToolKit (NLTK)
 
 ### Unit 2.1 \<2020-07-13\>: Review of Week 1 and Homework 1.
 
