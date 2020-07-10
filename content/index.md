@@ -17,8 +17,8 @@ Welcome! Here you'll find all the course information for Introduction to Computa
       - [(12:00 noon in Berkeley, 15:00 in New York)](https://time.is/compare/1900_6_July_2020_in_UTC/Berkeley/New_York/Beijing)
   - Discussion Section B, Tuesdays, Thursday: 1:00 UTC on Zulip
       - [(18:00 in Berkeley, 21:00 in New York)](https://time.is/compare/100_6_July_2020_in_UTC/Berkeley/New_York/Beijing)
-  - Open labs: Fridays, 19:00-21:00 UTC
-      - Synchronous, in a videoconference room to be announced
+  - Open labs: Fridays, 19:00-21:00 UTC (12:00 noon to 14:00 Berkeley time)
+      - [Synchronous, here on Jitsi.](https://meet.jit.si/NonProfitProteinsSpareOver)
   - Email address: jonathan.reeve@columbia.edu
   - Course chatroom: https://cla.zulipchat.com/
   - Course website and course readings: https://icla2020.jonreeve.com
