@@ -190,15 +190,17 @@ Note: this schedule is subject to some change, so please check the course websit
     - [Notes: If, Lists, Dictionaries](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Notes/03-if-lists-and-dictionaries.ipynb)
   - Reading: [*The Moonstone*, Through Chapter XVII](/texts/moonstone.html#chapter-vii)
   - [Homework 1 assigned. Due Monday, 19:00 UTC (Noon, Berkeley time).](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW1.ipynb)
+    - [Homework 1 Answers](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/HW1-Answers.ipynb)
 
 ## Week 2: Basic Text Analysis
 
  - Text: *The Moonstone*, Continued
  - Tools: Natural Language ToolKit (NLTK)
 
-### Unit 2.1 \<2020-07-13\>: Review of Week 1 and Homework 1.
+### Unit 2.1 \<2020-07-13\>: Review of Week 1 and Homework 1. Working with files.
 
   - Text: First Period, Complete.
+  - [Lecture 5: Working with Files](https://us.tv/videos/watch/45d9ff42-5122-4ece-a778-b2c1241a8afa)
   - **Homework 1 due**
 
 ### Unit 2.2 \<2020-07-14\>: Working with words. Tokenization techniques. Lemmatizers.
