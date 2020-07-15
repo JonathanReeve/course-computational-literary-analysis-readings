@@ -203,15 +203,17 @@ Note: this schedule is subject to some change, so please check the course websit
   - [Lecture 5: Working with Files](https://us.tv/videos/watch/45d9ff42-5122-4ece-a778-b2c1241a8afa)
   - **Homework 1 due**
 
-### Unit 2.2 \<2020-07-14\>: Working with words. Tokenization techniques. Lemmatizers.
+### Unit 2.2 \<2020-07-14\>: Working with words. Tokenization techniques. The NLTK. 
 
-  - Text: Second Period, First Narrative
+  - Text: Second Period, First Narrative (Miss Clack)
+  - [Lecture 6: Introducing the NLTK](https://us.tv/videos/watch/af7600f0-8f0e-4d04-bd8f-65053e4f66af)
 
-### Unit 2.3 \<2020-07-15\>: Basic text statistics with the NLTK. Type / token ratios. Loops, functions, and other control structures.
+### Unit 2.3 \<2020-07-15\>: Stems, lemmas, and functions.
 
-  - Text: Second Period, Second Narrative
+  - Text: Second Period, Second Narrative (Mr. Bruff)
+  - [Lecture 7: Stems, Lemmas, Functions](https://us.tv/videos/watch/d6f4351c-e1e8-4eac-a83b-55e882ea50e4)
 
-### Unit 2.4: \<2020-07-16\>: More text statistics. Concordances, collocations, dispersion plots.
+### Unit 2.4: \<2020-07-16\>: Text statistics with the NLTK. Type / token ratios. 
 
   - Text: Second Period, Third Narrative
 
