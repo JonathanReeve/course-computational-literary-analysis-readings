@@ -216,6 +216,8 @@ Note: this schedule is subject to some change, so please check the course websit
 ### Unit 2.4: \<2020-07-16\>: Text statistics with the NLTK. Type / token ratios. 
 
   - Text: Second Period, Third Narrative
+  - [Lecture 8: Types, Tokens, Counting Words](https://us.tv/videos/watch/15ea8d80-1a38-4a04-bbe4-36f793899147)
+  - [Homework 2 Assigned. Due Monday, 19:00 UTC (Noon in Berkeley)](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW2.ipynb)
 
 ## Week 3: Word Frequency Analyses
 
