@@ -221,19 +221,20 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ## Week 3: Word Frequency Analyses
 
-Text: *The Moonstone* and Katherine Mansfield, *The Garden Party and Other Stories*
-Tools: Scikit-Learn, Pandas
+ - Text: *The Moonstone* and Katherine Mansfield, *The Garden Party and Other Stories*
+ - Tools: Scikit-Learn, Pandas
 
-### Unit 3.1 \<2020-07-20\>: Review of Week 2 and Homework 2. Numpy, Pandas, and narrative time.
+### Unit 3.1 \<2020-07-20\>: Pandas and distinctive words.
 
   - **Homework 2 due**
   - Text: Second Period, Fourth and Fifth Narratives
+  - [Lecture 9: Pandas for Word Frequency Analysis. Distinctive words.](https://us.tv/videos/watch/8af751af-51dc-44f3-82e9-e4f0df49a9b9)
 
-### Unit 3.2 \<2020-07-21\>: N-grams and part-of-speech analyses.
+### Unit 3.2 \<2020-07-21\>: N-grams and narrative-time analysis. 
 
-  - Text: *The Moonstone*, Complete
+  - Text: *The Moonstone*, Complete.
 
-### Unit 3.3 \<2020-07-22\>: WordNet and WordNet-based text analysis.
+### Unit 3.3 \<2020-07-22\>: WordNet and WordNet-based text analysis. Part-of-speech analyses.
 
   - Texts: "The Garden Party"
 
