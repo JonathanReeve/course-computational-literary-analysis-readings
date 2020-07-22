@@ -233,6 +233,7 @@ Note: this schedule is subject to some change, so please check the course websit
 ### Unit 3.2 \<2020-07-21\>: N-grams and narrative-time analysis. 
 
   - Text: *The Moonstone*, Complete.
+  - [Lecture 10: Narrative Time Analysis and N-Grams](https://us.tv/videos/watch/2c9850e7-c674-4ccc-89b6-a126b3653808)
 
 ### Unit 3.3 \<2020-07-22\>: WordNet and WordNet-based text analysis. Part-of-speech analyses.
 
