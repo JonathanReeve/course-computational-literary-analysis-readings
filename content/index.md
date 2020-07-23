@@ -237,11 +237,14 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ### Unit 3.3 \<2020-07-22\>: WordNet and WordNet-based text analysis. Part-of-speech analyses.
 
-  - Texts: "The Garden Party"
+  - [Texts: "The Garden Party"](https://icla2020.jonreeve.com/texts/garden-party.html#2-the-garden-party)
+  - [Lecture 11: WordNet and WordNet-Based Analysis](https://us.tv/videos/watch/43e864f3-455b-41f3-a10f-db2a697ab6e4)
 
 ### Unit 3.4 \<2020-07-23\>: Downloading, using, and iterating over corpora.
 
-  - Texts: "The Daughters of the Late Colonel,"
+  - [Texts: "The Daughters of the Late Colonel"](https://icla2020.jonreeve.com/texts/garden-party.html#3-the-daughters-of-the-late-colonel)
+  - [Lecture 12: POS cont'd. Corpora.](https://us.tv/videos/watch/c02e002e-013e-4333-a785-5db7508fec71)
+  - [Homework 3 assigned. Due Monday, 7-27, at 19:00 UTC (noon Berkeley)](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW3.ipynb)
 
 ## Week 4: Linguistic Techniques I
 
@@ -251,19 +254,19 @@ Tools: NLTK, SpaCy
 ### Unit 4.1 \<2020-07-27\>: Review of Week 3 and Homework 3. Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.
 
   - **Homework 3 due**
-  - Texts: "The Young Girl"
+  - [Texts: "The Young Girl"](https://icla2020.jonreeve.com/texts/garden-party.html#5-the-young-girl)
 
 ### Unit 4.2 \<2020-07-28\>: Comparative stylometry. Corpus-DB.
 
-  - Texts: "Marriage à la Mode"
+  - [Texts: "Marriage à la Mode"](https://icla2020.jonreeve.com/texts/garden-party.html#7-marriage-a-la-mode)
 
 ### Unit 4.3 \<2020-07-29\>: Stylometry, continued.
 
-  - Texts: "Her First Ball"
+  - [Texts: "Her First Ball"](https://icla2020.jonreeve.com/texts/garden-party.html#10-her-first-ball)
 
 ### Unit 4.4 \<2020-07-30\>: Topic modeling with LDA. Quote parsing.
 
-  - Texts: "An Ideal Family,"
+  - [Texts: "An Ideal Family"](https://icla2020.jonreeve.com/texts/garden-party.html#14-an-ideal-family)
 
 ## Week 5: Linguistic Techniques II
 
@@ -273,23 +276,22 @@ Tools: SpaCy
 ### Unit 5.1 \<2020-08-03\>: Review of Week 4 and Homework 4. Using SpaCy. Named entity recognition.
 
   - **Homework 4 due**
-  - Texts: "The Sisters," "An Encounter"
+  - [Texts: "The Sisters," "An Encounter"](https://icla2020.jonreeve.com/texts/dubliners.html#the-sisters)
 
 ### Unit 5.2 \<2020-08-04\>: Intro to final project. Sentiment analysis. Macro-etymological analysis.
 
-  - Texts: "Araby", "Eveline"
+  - [Texts: "Araby", "Eveline"](https://icla2020.jonreeve.com/texts/dubliners.html#araby)
 
 ### Unit 5.3 \<2020-08-05\>: Sentence structure analysis using SpaCy.
 
-  - Texts: "The Boarding House,"
+  - [Texts: "The Boarding House"](https://icla2020.jonreeve.com/texts/dubliners.html#the-boarding-house)
 
 ### Unit 5.4 \<2020-08-06\>: Extras: TEI XML, APIs
 
-  - Texts: "Clay"
+  - [Texts: "Clay"](https://icla2020.jonreeve.com/texts/dubliners.html#clay)
 
 ## Week 6: Advanced Topics
 
-Text: James Joyce, *Dubliners*
 Tools: Scikit-Learn, SpaCy
 
 ### Unit 6.1 \<2020-08-10\>: Review of Week 5. Writing tips.
