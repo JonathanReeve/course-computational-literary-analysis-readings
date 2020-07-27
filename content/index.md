@@ -255,6 +255,7 @@ Tools: NLTK, SpaCy
 
   - **Homework 3 due**
   - [Texts: "The Young Girl"](https://icla2020.jonreeve.com/texts/garden-party.html#5-the-young-girl)
+  - [Lecture 13: Corpora continued. Scikit-learn.](https://us.tv/videos/watch/32f6b7e5-b882-4ad8-bac7-c084b4afb30d)
 
 ### Unit 4.2 \<2020-07-28\>: Comparative stylometry. Corpus-DB.
 
