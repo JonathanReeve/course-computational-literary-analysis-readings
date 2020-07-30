@@ -260,14 +260,17 @@ Tools: NLTK, SpaCy
 ### Unit 4.2 \<2020-07-28\>: Comparative stylometry. Corpus-DB.
 
   - [Texts: "Marriage à la Mode"](https://icla2020.jonreeve.com/texts/garden-party.html#7-marriage-a-la-mode)
+  - [Lecture 14: Stylometry, Corpus-DB](https://us.tv/videos/watch/052b57d0-08d6-4908-ae6a-92fb448c7738)
 
 ### Unit 4.3 \<2020-07-29\>: Stylometry, continued.
 
   - [Texts: "Her First Ball"](https://icla2020.jonreeve.com/texts/garden-party.html#10-her-first-ball)
+  - [Lecture 15: Stylometry Cont'd.](https://us.tv/videos/watch/dfc972c8-8b31-4312-a509-fcf98faa764a)
 
 ### Unit 4.4 \<2020-07-30\>: Topic modeling with LDA. Quote parsing.
 
   - [Texts: "An Ideal Family"](https://icla2020.jonreeve.com/texts/garden-party.html#14-an-ideal-family)
+  - Homework 4 assigned. Due Monday by 19:00 UTC (noon in Berkeley). 
 
 ## Week 5: Linguistic Techniques II
 
