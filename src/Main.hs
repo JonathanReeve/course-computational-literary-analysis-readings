@@ -87,7 +87,8 @@ renderPage route val = html_ [lang_ "en"] $ do
         " // "
         a_ [href_ "/texts/moonstone.html"] "The Moonstone"
         " // "
-        a_ [href_ "index.html#week-3-word-frequency-analyses"] "This Week"
+        -- a_ [href_ "index.html#week-4-word-frequency-analyses"] "This Week"
+        a_ [href_ "index.html#week-5-linguistic-techniques-ii"] "This Week"
     h1_ routeTitle
     case route of
       Route_Index -> do

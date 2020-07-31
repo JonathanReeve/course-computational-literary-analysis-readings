@@ -270,7 +270,7 @@ Tools: NLTK, SpaCy
 ### Unit 4.4 \<2020-07-30\>: Topic modeling with LDA. Quote parsing.
 
   - [Texts: "An Ideal Family"](https://icla2020.jonreeve.com/texts/garden-party.html#14-an-ideal-family)
-  - Homework 4 assigned. Due Monday by 19:00 UTC (noon in Berkeley). 
+  - [Homework 4 assigned. Due Monday by 19:00 UTC (noon in Berkeley).](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW4.ipynb)
 
 ## Week 5: Linguistic Techniques II
 
