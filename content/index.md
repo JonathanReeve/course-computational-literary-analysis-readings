@@ -281,30 +281,36 @@ Tools: SpaCy
 
   - **Homework 4 due**
   - [Texts: "The Sisters," "An Encounter"](https://icla2020.jonreeve.com/texts/dubliners.html#the-sisters)
+  - [Lecture 17: SpaCy and Named Entity Recognition](https://us.tv/videos/watch/de141ebc-7107-460b-8b08-2028d87d0c2f)
 
 ### Unit 5.2 \<2020-08-04\>: Intro to final project. Sentiment analysis. Macro-etymological analysis.
 
   - [Texts: "Araby", "Eveline"](https://icla2020.jonreeve.com/texts/dubliners.html#araby)
+  - [Lecture 18: Sentiment Analysis and Macro-Etymological Analysis](https://us.tv/videos/watch/dfc8dc0f-c7f0-4761-b176-425cbd8b27c3)
 
 ### Unit 5.3 \<2020-08-05\>: Sentence structure analysis using SpaCy.
 
   - [Texts: "The Boarding House"](https://icla2020.jonreeve.com/texts/dubliners.html#the-boarding-house)
+  - [Lecture 19: Sentence Structure Analysis Using SpaCy](https://us.tv/videos/watch/3685dcb2-1bc2-4618-b227-7ad00fb811b4)
 
-### Unit 5.4 \<2020-08-06\>: Extras: TEI XML, APIs
+### Unit 5.4 \<2020-08-06\>: Social Network Analysis
 
   - [Texts: "Clay"](https://icla2020.jonreeve.com/texts/dubliners.html#clay)
+  - Lecture 20: Social Network Analysis. 
 
 ## Week 6: Advanced Topics
 
 Tools: Scikit-Learn, SpaCy
 
-### Unit 6.1 \<2020-08-10\>: Review of Week 5. Writing tips.
+### Unit 6.1 \<2020-08-10\>: Extras: TEI XML.
 
-### Unit 6.2 \<2020-08-11\>: Extras: Social Network Analysis Example
+ - Lecture 21: Extras: TEI XML, APIs
+
+### Unit 6.2 \<2020-08-11\>: Extras: Metadata APIs.
 
 ### Unit 6.3 \<2020-08-12\>: Final project presentations.
 
-### Unit 6.4 \<2020-08-13\>: Final project presentations continued. Wrap-up.
+### Unit 6.4 \<2020-08-13\>: Final project presentations. Wrap-up.
 
 ### \<2020-08-14\>: Final open lab.
 
