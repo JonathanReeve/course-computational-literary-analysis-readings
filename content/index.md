@@ -158,6 +158,8 @@ Final papers will be evaluated according to the:
 
 As with homework, please email me your final projects. You may optionally submit your final project to the course git repository, making it public, for a 5% bonus.
 
+[For a more thorough set of recommendations and instructions for the final project, see the final-project-instructions.md file in the course repository.]()
+
 # Schedule
 
 Note: this schedule is subject to some change, so please check the course website for the most up-to-date version.
@@ -302,16 +304,22 @@ Tools: SpaCy
 
 Tools: Scikit-Learn, SpaCy
 
-### Unit 6.1 \<2020-08-10\>: Extras: TEI XML.
+### Unit 6.1 \<2020-08-10\>: About the Final Project
 
- - Lecture 21: Extras: TEI XML, APIs
+### Unit 6.2 \<2020-08-11\>: Extras: TEI XML.
 
-### Unit 6.2 \<2020-08-11\>: Extras: Metadata APIs.
+ - Lecture 21: Extras: TEI XML
 
-### Unit 6.3 \<2020-08-12\>: Final project presentations.
+### Unit 6.3 \<2020-08-12\>: Extras: Metadata APIs.
+
+ - Lecture 22: Extras: Metadata APIs.
 
 ### Unit 6.4 \<2020-08-13\>: Final project presentations. Wrap-up.
 
+ - Final project presentations due by 19:00 UTC. See [final-project-instructions.md](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Resources/final-project-instructions.md) 
+ 
 ### \<2020-08-14\>: Final open lab.
 
 ### \<2020-08-15\>: Final projects due.
+
+ - [Final project notebooks due, via email, by the end of the day.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Resources/final-project-instructions.md)
