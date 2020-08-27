@@ -3,11 +3,20 @@ on:
   pull_request:
   push:
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: cachix/install-nix-action@v6
-    - uses: cachix/cachix-action@v3  # This also runs nix-build.
-      with:
-        name: srid
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+      - name: Install
+        uses: cachix/install-nix-action@v6
+      - name: Build
+        uses: cachix/cachix-action@v3  # This also runs nix-build.
+        with:
+          name: srid
+      - name: Deploy to GitHub Pages 🚀
+        uses: JamesIves/github-pages-deploy-action@3.5.9
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: master # The branch the action should deploy to.
+          FOLDER: dest # The folder the action should deploy.
