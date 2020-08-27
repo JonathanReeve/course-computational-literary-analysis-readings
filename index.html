@@ -1,0 +1,388 @@
+<html lang="en"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>Introduction to Computational Literary Analysis, Summer 2020
+</title><link href="https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.7.2/tufte.min.css" rel="stylesheet"><style type="text/css">
+
+body details > summary
+{
+  font-size : 1.5em;
+}
+
+body .header
+{
+  margin-bottom : 2em;
+}
+
+body li.pages
+{
+  margin-top : 1em;
+}
+
+body li.pages b
+{
+  font-size : 1.19999em;
+}
+
+body li.pages p
+{
+  margin : 0px 0px 0px 0px;
+}
+
+
+/* Generated with Clay, http://fvisser.nl/clay */</style></head><body><header class="header"><nav><a href="/">Introduction to Computational Literary Analysis</a> // <a href="https://cla.zulipchat.com">Chat</a> // <a href="/texts/moonstone.html">The Moonstone</a> // <a href="index.html#week-5-linguistic-techniques-ii">This Week</a></nav></header><h1>Introduction to Computational Literary Analysis, Summer 2020
+</h1><article><details><summary>Table of Contents</summary><section><ul>
+<li><a href="#course-details">Course Details</a></li>
+<li><a href="#description">Description</a></li>
+<li><a href="#objectives">Objectives</a></li>
+<li><a href="#prerequisites">Prerequisites</a></li>
+<li><a href="#how-this-course-is-structured">How this Course is Structured</a>
+<ul>
+<li><a href="#lecture-videos">Lecture Videos</a></li>
+<li><a href="#discussion-sections">Discussion Sections</a></li>
+<li><a href="#open-labs">Open Labs</a></li>
+</ul></li>
+<li><a href="#getting-started">Getting Started</a></li>
+<li><a href="#course-communication">Course Communication</a></li>
+<li><a href="#extra-resources">Extra Resources</a></li>
+<li><a href="#requirements">Requirements</a>
+<ul>
+<li><a href="#readings">Readings</a></li>
+<li><a href="#annotations">Annotations</a></li>
+<li><a href="#homework">Homework</a></li>
+<li><a href="#final-project">Final Project</a></li>
+</ul></li>
+<li><a href="#schedule">Schedule</a>
+<ul>
+<li><a href="#week-1-introduction-to-python-for-text-analysis">Week 1: Introduction to Python for Text Analysis</a>
+<ul>
+<li><a href="#unit-11-2020-07-06-course-intro">Unit 1.1 &lt;2020-07-06&gt;: Course intro.</a></li>
+<li><a href="#unit-12-2020-07-07-installing-python-python-2-v-3-jupyter-strings">Unit 1.2 &lt;2020-07-07&gt;: Installing Python. Python 2 v. 3. Jupyter. Strings.</a></li>
+<li><a href="#unit-13-2020-07-08-working-with-strings-lists-and-dictionaries">Unit 1.3 &lt;2020-07-08&gt;: Working with strings, lists, and dictionaries.</a></li>
+<li><a href="#unit-14-2020-07-09-python-basics-continued-homework-1-assigned">Unit 1.4 &lt;2020-07-09&gt;: Python basics, continued. Homework 1 assigned.</a></li>
+</ul></li>
+<li><a href="#week-2-basic-text-analysis">Week 2: Basic Text Analysis</a>
+<ul>
+<li><a href="#unit-21-2020-07-13-review-of-week-1-and-homework-1-working-with-files">Unit 2.1 &lt;2020-07-13&gt;: Review of Week 1 and Homework 1. Working with files.</a></li>
+<li><a href="#unit-22-2020-07-14-working-with-words-tokenization-techniques-the-nltk">Unit 2.2 &lt;2020-07-14&gt;: Working with words. Tokenization techniques. The NLTK.</a></li>
+<li><a href="#unit-23-2020-07-15-stems-lemmas-and-functions">Unit 2.3 &lt;2020-07-15&gt;: Stems, lemmas, and functions.</a></li>
+<li><a href="#unit-24-2020-07-16-text-statistics-with-the-nltk-type--token-ratios">Unit 2.4: &lt;2020-07-16&gt;: Text statistics with the NLTK. Type / token ratios.</a></li>
+</ul></li>
+<li><a href="#week-3-word-frequency-analyses">Week 3: Word Frequency Analyses</a>
+<ul>
+<li><a href="#unit-31-2020-07-20-pandas-and-distinctive-words">Unit 3.1 &lt;2020-07-20&gt;: Pandas and distinctive words.</a></li>
+<li><a href="#unit-32-2020-07-21-n-grams-and-narrative-time-analysis">Unit 3.2 &lt;2020-07-21&gt;: N-grams and narrative-time analysis.</a></li>
+<li><a href="#unit-33-2020-07-22-wordnet-and-wordnet-based-text-analysis-part-of-speech-analyses">Unit 3.3 &lt;2020-07-22&gt;: WordNet and WordNet-based text analysis. Part-of-speech analyses.</a></li>
+<li><a href="#unit-34-2020-07-23-downloading-using-and-iterating-over-corpora">Unit 3.4 &lt;2020-07-23&gt;: Downloading, using, and iterating over corpora.</a></li>
+</ul></li>
+<li><a href="#week-4-linguistic-techniques-i">Week 4: Linguistic Techniques I</a>
+<ul>
+<li><a href="#unit-41-2020-07-27-review-of-week-3-and-homework-3-corpus-vectorization-with-scikit-learn-tf-idf-stylometry">Unit 4.1 &lt;2020-07-27&gt;: Review of Week 3 and Homework 3. Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.</a></li>
+<li><a href="#unit-42-2020-07-28-comparative-stylometry-corpus-db">Unit 4.2 &lt;2020-07-28&gt;: Comparative stylometry. Corpus-DB.</a></li>
+<li><a href="#unit-43-2020-07-29-stylometry-continued">Unit 4.3 &lt;2020-07-29&gt;: Stylometry, continued.</a></li>
+<li><a href="#unit-44-2020-07-30-topic-modeling-with-lda-quote-parsing">Unit 4.4 &lt;2020-07-30&gt;: Topic modeling with LDA. Quote parsing.</a></li>
+</ul></li>
+<li><a href="#week-5-linguistic-techniques-ii">Week 5: Linguistic Techniques II</a>
+<ul>
+<li><a href="#unit-51-2020-08-03-review-of-week-4-and-homework-4-using-spacy-named-entity-recognition">Unit 5.1 &lt;2020-08-03&gt;: Review of Week 4 and Homework 4. Using SpaCy. Named entity recognition.</a></li>
+<li><a href="#unit-52-2020-08-04-intro-to-final-project-sentiment-analysis-macro-etymological-analysis">Unit 5.2 &lt;2020-08-04&gt;: Intro to final project. Sentiment analysis. Macro-etymological analysis.</a></li>
+<li><a href="#unit-53-2020-08-05-sentence-structure-analysis-using-spacy">Unit 5.3 &lt;2020-08-05&gt;: Sentence structure analysis using SpaCy.</a></li>
+<li><a href="#unit-54-2020-08-06-social-network-analysis">Unit 5.4 &lt;2020-08-06&gt;: Social Network Analysis</a></li>
+</ul></li>
+<li><a href="#week-6-advanced-topics">Week 6: Advanced Topics</a>
+<ul>
+<li><a href="#unit-61-2020-08-10-about-the-final-project">Unit 6.1 &lt;2020-08-10&gt;: About the Final Project</a></li>
+<li><a href="#unit-62-2020-08-11-extras-tei-xml">Unit 6.2 &lt;2020-08-11&gt;: Extras: TEI XML.</a></li>
+<li><a href="#unit-63-2020-08-12-extras-metadata-apis">Unit 6.3 &lt;2020-08-12&gt;: Extras: Metadata APIs.</a></li>
+<li><a href="#unit-64-2020-08-13-final-project-presentations-wrap-up">Unit 6.4 &lt;2020-08-13&gt;: Final project presentations. Wrap-up.</a></li>
+<li><a href="#2020-08-14-final-open-lab">&lt;2020-08-14&gt;: Final open lab.</a></li>
+<li><a href="#2020-08-15-final-projects-due">&lt;2020-08-15&gt;: Final projects due.</a></li>
+</ul></li>
+</ul></li>
+</ul></section></details><section><p>Welcome! Here you’ll find all the course information for Introduction to Computational Literary Analysis, a course taught at UC-Berkeley in summer 2018, 2019, and now 2020.</p>
+<h2 id="course-details">Course Details</h2>
+<ul>
+<li>DIGHUM 150C: Digital Humanties and Text and Language Analysis</li>
+<li>Summer Session D, 2020 (6 July – 14 August). Online-only this year.</li>
+<li>Instructor: Jonathan Reeve</li>
+<li><a href="https://classes.berkeley.edu/content/2020-summer-dighum-150c-001-sem-001">Course description via UC-Berkeley</a></li>
+<li>Lectures posted asynchronously, Mondays – Thursdays, around 12:00 UTC.</li>
+<li>Discussion Section A, Mondays, Wednesdays: 19:00 UTC on Zulip
+<ul>
+<li><a href="https://time.is/compare/1900_6_July_2020_in_UTC/Berkeley/New_York/Beijing">(12:00 noon in Berkeley, 15:00 in New York)</a></li>
+</ul></li>
+<li>Discussion Section B, Tuesdays, Thursday: 1:00 UTC on Zulip
+<ul>
+<li><a href="https://time.is/compare/100_6_July_2020_in_UTC/Berkeley/New_York/Beijing">(18:00 in Berkeley, 21:00 in New York)</a></li>
+</ul></li>
+<li>Open labs: Fridays, 19:00-21:00 UTC (12:00 noon to 14:00 Berkeley time)
+<ul>
+<li><a href="https://meet.jit.si/NonProfitProteinsSpareOver">Synchronous, here on Jitsi.</a></li>
+</ul></li>
+<li>Email address: <a href="mailto:jonathan.reeve@columbia.edu" class="email">jonathan.reeve@columbia.edu</a></li>
+<li>Course chatroom: <a href="https://cla.zulipchat.com/" class="uri">https://cla.zulipchat.com/</a></li>
+<li>Course website and course readings: <a href="https://icla2020.jonreeve.com" class="uri">https://icla2020.jonreeve.com</a></li>
+<li>Course repository: <a href="https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis" class="uri">https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis</a></li>
+</ul>
+<p><a href="#getting-started">Get Started!</a></p>
+<h2 id="description">Description</h2>
+<p>This course is an introduction to computational literary analysis, which presumes no background in programming or computer science. We will cover many of the topics of an introductory course in natural language processing or computational linguistics, but center our inquiries around literary critical questions. We will attempt to answer questions such as:</p>
+<ul>
+<li>What are the characteristic speech patterns of the narrators in Wilkie Collins’s <em>The Moonstone</em>?</li>
+<li>What words are most frequently used to describe Katherine Mansfield’s female characters?</li>
+<li>Which novels of the nineteenth century are the most similar to each other? Which are the most different?</li>
+</ul>
+<p>The course will teach techniques of text analysis using the Python programming language. Special topics to be covered include authorship detection (stylometry), topic modeling, and word embeddings. Literary works to be read and analyzed will be Wilkie Collins’s <em>The Moonstone</em>, Katherine Mansfield’s <em>The Garden Party and Other Stories</em>, and James Joyce’s <em>Dubliners</em>.</p>
+<h2 id="objectives">Objectives</h2>
+<p>Although this course is focused on the analysis of literature, and British literature in particular, the skills you will learn may be used to computationally analyze any text. These are skills transferable to other areas of the digital humanities, as well as computational linguistics, computational social science, and the computer science field of natural language processing. There are also potential applications across the humanistic disciplines—history, philosophy, art history, and cinema studies, to name a few. Furthermore, text- and data-analysis skills are widely desired in today’s world. Companies like Google and Facebook, for instance, need ways to teach computers to understand their users’ search queries, documents, and sometimes books. The techniques taught in this course help computers and humans to understand language, culture, and human interactions. This deepens our understanding of literature, of our fellow humans, and the world around us.</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>This course presumes no prior knowledge of programming, computer science, or quantitative disciplines. Those with programming experience, however, won’t find this boring: the level of specialization is such that only the first week covers the basics.</p>
+<h2 id="how-this-course-is-structured">How this Course is Structured</h2>
+<p>Although this is usually a classroom-taught course, and is usually taught on UC-Berkeley’s campus, due to the global pandemic, this course is taught online-only this year. This will require a lot of adaptation from everyone, and it won’t be easy. That said, I’ll be trying my best to make this course available to those in timezones other than Berkeley’s. I myself will be teaching from New York City, and so my own timezone is slightly different, too.</p>
+<h3 id="lecture-videos">Lecture Videos</h3>
+<p>In place of in-person lectures, I’ll post lecture videos, every day from Mondays to Thursdays. Each is around 45-60 minutes each, and is required viewing. Please watch lecture videos before coming to discussion sections. Links will be posted to this syllabus.</p>
+<h3 id="discussion-sections">Discussion Sections</h3>
+<p>In place of in-person classroom dialogue and activities, we’ll hold discussion sections online, using Zulip, at <a href="https://cla.zulipchat.com/" class="uri">https://cla.zulipchat.com/</a>. Zulip is a text-based chat platform, with email-like threading. You can use it to join an existing discussion thread, or create a new one.</p>
+<p>I’ll be on Zulip every day, for one hour each day:</p>
+<ul>
+<li>Discussion Section A, Mondays, Wednesdays: 19:00–20:00 UTC on Zulip</li>
+<li>Discussion Section B, Tuesdays, Thursdays: 1:00–2:00 UTC on Zulip</li>
+</ul>
+<p>Try to pick a section that you can attend synchronously (that is, in real-time), and participate in the other asynchronously (on your own time, at your convenience). If you can’t attend either of these in real time, please let me know on Zulip.</p>
+<p>Discussion about the texts themselves, if they are specific to a particular passage, might be better placed in annotations, in the margins of the text, using our annotation platform. See <em>Annotations</em>," below.</p>
+<h3 id="open-labs">Open Labs</h3>
+<p>Although not required, these are informal, synchronous videoconferences that happen every week, on Friday. They’re a good time and virtual place to come with your homework questions, or just to hang out and work on your own, or in groups. At Berkeley last summer, we’d just invite everyone to the D-Lab, and have pizza, and hang out and code. This year, you’ll have to bring your own pizza, sadly. But we can still code together, exchange coding tips, and talk about the readings. We’ll also have guests from other courses. Everyone is welcome.</p>
+<h2 id="getting-started">Getting Started</h2>
+<p>To get set up for this course, you will need:</p>
+<ul>
+<li>A computer that runs Linux, MacOS, or Windows.</li>
+<li>An Internet connection. I’ve tried my best to make our course software work as globally as possible, but if you live in a country that has restricted Internet, you might want to look into setting up a VPN, either through Berkeley, or using a private provider.</li>
+</ul>
+<p>Now that we have that, let’s get started! First, let’s set up a couple of accounts:</p>
+<ol>
+<li>Fill out <a href="https://jonreeve.typeform.com/to/fZZbj6CS">this short course survey</a>, so I can keep track of who’s who.</li>
+<li><a href="https://gitlab.com/users/sign_in">Create a GitLab account</a>. Unless you’re already well-established there, <strong>please use your real name (or English name / preferred name, etc) as your username</strong>.</li>
+<li>Use that account to log into <a href="https://cla.zulipchat.com/">our Zulip chatroom</a>. (Click “sign up,” then “sign up with GitLab.”)</li>
+<li>Introduce yourself to everyone in the chatroom.</li>
+<li>Sign up for a user account on <a href="https://hypothes.is">hypothes.is</a>, our annotation platform.</li>
+<li>Download and install <em><a href="https://www.anaconda.com/products/individual">Anaconda</a></em>, a Python distribution, which contains a lot of useful data science packages.</li>
+</ol>
+<h2 id="course-communication">Course Communication</h2>
+<p>Of course, the best place to ask first is in the course chatroom, Zulip: <a href="http://cla.zulipchat.com" class="uri">http://cla.zulipchat.com</a>. Feel free to start a new topic there for any questions you might have, especially those that you think might be able to be answered by other students. Check out what’s happening there as often as you can, and ask any questions you have there, first. You’ll probably want to sign up for Zulip with a GitLab username, so make yourself an account there if you don’t already have one. Unless you’re already well established on GitLab, please use your real name as your GitLab/Zulip username. (Mine is JonathanReeve, for example.)</p>
+<h2 id="extra-resources">Extra Resources</h2>
+<p>If you want some extra help, or want to read a little more about some of the things we’re doing, there are plenty of resources out there. If you want a second opinion about a question, or have questions that we can’t answer in the chatroom, a good website for getting help with programming is <a href="https://stackoverflow.com">StackOverflow</a>. Also, the Internet is full of Python learning resources. One of my favorites is <a href="https://codecademy.com">CodeCademy</a>, which has a game-like interactive interface, badges, and more. If you like a good puzzle, and like being challenged, there’s also the older <a href="http://pythonchallenge.com">Python Challenge</a>.</p>
+<p>Resources related to text analysis include, but are by no means limited to:</p>
+<ul>
+<li><a href="http://www.nltk.org/book/">The NLTK Book</a></li>
+<li><a href="https://github.com/JonathanReeve/dataviz-workshop-2017">My introduction to text analysis tutorial</a></li>
+<li><a href="https://github.com/JonathanReeve/advanced-text-analysis-workshop-2017">My advanced text analysis tutorial with SpaCy</a></li>
+</ul>
+<h2 id="requirements">Requirements</h2>
+<p>Coursework falls into three categories:</p>
+<ul>
+<li>Daily Annotations (30% of final grade)</li>
+<li>Weekly Homework (40% of final grade)</li>
+<li>Final Project (30% of final grade)</li>
+</ul>
+<p>And of course, there are three course readings: one novel and two short story collections. Reading these closely will help you to contextualize the quantitative analyses, and will prepare you for the close reading tasks of the final paper.</p>
+<h3 id="readings">Readings</h3>
+<p>All readings are provided in digital form on the course website. They are one entire novel and a few selected short stories:</p>
+<ul>
+<li><a href="texts/moonstone.html">Wilkie Collins, <em>The Moonstone</em></a></li>
+<li><a href="texts/garden-party.html">Katherine Mansfield, <em>The Garden Party and Other Stories</em></a></li>
+<li><a href="texts/dubliners.html">James Joyce, <em>Dubliners</em></a></li>
+</ul>
+<p>If you prefer to read on paper, or to supplement your reading with background information and critical articles, I highly recommend the Broadview and Norton Critical Editions. They are full of interesting essays and explanatory notes.</p>
+<ul>
+<li>Wilkie Collins, <em>The Moonstone</em>, Broadview Edition
+<ul>
+<li><a href="https://broadviewpress.com/product/the-moonstone/#tab-description">Available as paperback, pdf, or epub at Broadview Press</a></li>
+</ul></li>
+<li>Katherine Mansfield, <em>The Garden Party and Other Stories</em>, in <em>Katherine Mansfield’s Selected Stories</em>, Norton Critical Edition
+<ul>
+<li><a href="http://books.wwnorton.com/books/webad.aspx?id=11871">Available as <em>Katherine Mansfield’s Selected Stories</em>, in paperback from Norton Critical Editions</a></li>
+</ul></li>
+<li>James Joyce, <em>Dubliners</em>, Norton Critical Edition
+<ul>
+<li><a href="http://books.wwnorton.com/books/webad.aspx?id=10295">Available as paperback from Norton Critical Editions</a></li>
+</ul></li>
+</ul>
+<h3 id="annotations">Annotations</h3>
+<p>For each reading assignment, please write 3-4 annotations to our editions of the text, using <a href="http://hypothes.is">hypothes.is</a>. Links are provided below. You’ll have to sign up for a hypothes.is account first. As above, please use your real name as your username, so I know who you are. You may write about anything you want, but it will help your final project to think about ways in which computational analysis might help you to better understand what you observe in the text. Good annotations are:</p>
+<ul>
+<li>Concise (think: a long tweet)</li>
+<li>Well-written (although not too formal)</li>
+<li>Observant (rather than evaluative)</li>
+</ul>
+<p>You may respond to another student’s annotation for one or two of your annotations, if you want. Just make your responses equally as thoughtful.</p>
+<h3 id="homework">Homework</h3>
+<p>Four short homework assignments, of 3-15 questions each, will be assigned weekly, and are due on Monday the following week, before our discussion starts (19:00 UTC). Jupyter notebook templates for each will be provided. Since we’ll review the homework answers at the beginning of each week, late work cannot be accepted. There will be no homework due on the Monday of the last week, to give you more time to work on your final projects.</p>
+<p>Submit homework to me at my email address, <a href="mailto:jonathan.reeve@columbia.edu" class="email">jonathan.reeve@columbia.edu</a>.</p>
+<h3 id="final-project">Final Project</h3>
+<p>The final project should be a literary argument, presented in the form of a short academic paper, created from the application of one or more of the text analysis techniques we have learned toward the analysis of a text or corpus of your choosing. Should you choose to work with a text or corpus other than the ones we’ve discussed in class, please clear it with me beforehand. Your paper should be a single Jupyter notebook, including prose in Markdown, code in Python, in-text citations, and a bibliography. A template will be provided. The length, not including the code, should be about 1500 words. You’re allowed a maximum of three figures, so produce plots selectively. A word count function will be provided in the Jupyter notebook template.</p>
+<p>During the final week of class, we’ll have final project presentations. Your paper isn’t required to be complete by then, but you’ll be expected to speak about your project for about 5-7 minutes. Consider it a conference presentation.</p>
+<p>Final papers will be evaluated according to the:</p>
+<ul>
+<li>Quality of the literary critical argument presented</li>
+<li>Quality of the close readings of the text or corpus</li>
+<li>Quality of the Python text analysis</li>
+<li>Literary interpretation of the results</li>
+<li>Integration of the computational analysis with the literary argument</li>
+</ul>
+<p>As with homework, please email me your final projects. You may optionally submit your final project to the course git repository, making it public, for a 5% bonus.</p>
+<p><a href="">For a more thorough set of recommendations and instructions for the final project, see the final-project-instructions.md file in the course repository.</a></p>
+<h1 id="schedule">Schedule</h1>
+<p>Note: this schedule is subject to some change, so please check the course website for the most up-to-date version.</p>
+<h2 id="week-1-introduction-to-python-for-text-analysis">Week 1: Introduction to Python for Text Analysis</h2>
+<ul>
+<li>Text: Wilkie Collins, <em>The Moonstone</em></li>
+<li>Tools: Python (Anaconda)</li>
+</ul>
+<h3 id="unit-11-2020-07-06-course-intro">Unit 1.1 &lt;2020-07-06&gt;: Course intro.</h3>
+<ul>
+<li><a href="https://us.tv/videos/watch/242aa789-de52-4318-a0a6-6568f5623e52">Lecture: introduction.</a></li>
+<li>Motivation: what is possible with computational literary analysis?</li>
+</ul>
+<h3 id="unit-12-2020-07-07-installing-python-python-2-v-3-jupyter-strings">Unit 1.2 &lt;2020-07-07&gt;: Installing Python. Python 2 v. 3. Jupyter. Strings.</h3>
+<ul>
+<li><a href="https://us.tv/videos/watch/ac6f30c0-1336-4ea0-8463-83f34855e58f">Lecture 2: Getting Started</a></li>
+<li>Reading: <a href="/texts/moonstone.html#prologue"><em>The Moonstone</em>, First Period, Through Chapter VII</a></li>
+</ul>
+<h3 id="unit-13-2020-07-08-working-with-strings-lists-and-dictionaries">Unit 1.3 &lt;2020-07-08&gt;: Working with strings, lists, and dictionaries.</h3>
+<ul>
+<li><a href="https://us.tv/videos/watch/807b10f3-e40a-4fd0-ada0-b849cecb8b11">Lecture 3: String Methods and For Loops</a>
+<ul>
+<li><a href="https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Notes/01-strings.ipynb">Notes: Strings</a></li>
+<li><a href="https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Notes/02-for-loops.ipynb">Notes: For Loops</a></li>
+</ul></li>
+<li>Reading: <a href="/texts/moonstone.html#chapter-vii">First Period, Through Chapter XI</a></li>
+</ul>
+<h3 id="unit-14-2020-07-09-python-basics-continued-homework-1-assigned">Unit 1.4 &lt;2020-07-09&gt;: Python basics, continued. Homework 1 assigned.</h3>
+<ul>
+<li><a href="https://us.tv/videos/watch/88b2a638-b10b-4880-bc25-3b7368679a3d">Lecture 4: If, Lists, Dictionaries</a>
+<ul>
+<li><a href="https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Notes/03-if-lists-and-dictionaries.ipynb">Notes: If, Lists, Dictionaries</a></li>
+</ul></li>
+<li>Reading: <a href="/texts/moonstone.html#chapter-vii"><em>The Moonstone</em>, Through Chapter XVII</a></li>
+<li><a href="https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW1.ipynb">Homework 1 assigned. Due Monday, 19:00 UTC (Noon, Berkeley time).</a>
+<ul>
+<li><a href="https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/HW1-Answers.ipynb">Homework 1 Answers</a></li>
+</ul></li>
+</ul>
+<h2 id="week-2-basic-text-analysis">Week 2: Basic Text Analysis</h2>
+<ul>
+<li>Text: <em>The Moonstone</em>, Continued</li>
+<li>Tools: Natural Language ToolKit (NLTK)</li>
+</ul>
+<h3 id="unit-21-2020-07-13-review-of-week-1-and-homework-1-working-with-files">Unit 2.1 &lt;2020-07-13&gt;: Review of Week 1 and Homework 1. Working with files.</h3>
+<ul>
+<li>Text: First Period, Complete.</li>
+<li><a href="https://us.tv/videos/watch/45d9ff42-5122-4ece-a778-b2c1241a8afa">Lecture 5: Working with Files</a></li>
+<li><strong>Homework 1 due</strong></li>
+</ul>
+<h3 id="unit-22-2020-07-14-working-with-words-tokenization-techniques-the-nltk">Unit 2.2 &lt;2020-07-14&gt;: Working with words. Tokenization techniques. The NLTK.</h3>
+<ul>
+<li>Text: Second Period, First Narrative (Miss Clack)</li>
+<li><a href="https://us.tv/videos/watch/af7600f0-8f0e-4d04-bd8f-65053e4f66af">Lecture 6: Introducing the NLTK</a></li>
+</ul>
+<h3 id="unit-23-2020-07-15-stems-lemmas-and-functions">Unit 2.3 &lt;2020-07-15&gt;: Stems, lemmas, and functions.</h3>
+<ul>
+<li>Text: Second Period, Second Narrative (Mr. Bruff)</li>
+<li><a href="https://us.tv/videos/watch/d6f4351c-e1e8-4eac-a83b-55e882ea50e4">Lecture 7: Stems, Lemmas, Functions</a></li>
+</ul>
+<h3 id="unit-24-2020-07-16-text-statistics-with-the-nltk-type--token-ratios">Unit 2.4: &lt;2020-07-16&gt;: Text statistics with the NLTK. Type / token ratios.</h3>
+<ul>
+<li>Text: Second Period, Third Narrative</li>
+<li><a href="https://us.tv/videos/watch/15ea8d80-1a38-4a04-bbe4-36f793899147">Lecture 8: Types, Tokens, Counting Words</a></li>
+<li><a href="https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW2.ipynb">Homework 2 Assigned. Due Monday, 19:00 UTC (Noon in Berkeley)</a></li>
+</ul>
+<h2 id="week-3-word-frequency-analyses">Week 3: Word Frequency Analyses</h2>
+<ul>
+<li>Text: <em>The Moonstone</em> and Katherine Mansfield, <em>The Garden Party and Other Stories</em></li>
+<li>Tools: Scikit-Learn, Pandas</li>
+</ul>
+<h3 id="unit-31-2020-07-20-pandas-and-distinctive-words">Unit 3.1 &lt;2020-07-20&gt;: Pandas and distinctive words.</h3>
+<ul>
+<li><strong>Homework 2 due</strong></li>
+<li>Text: Second Period, Fourth and Fifth Narratives</li>
+<li><a href="https://us.tv/videos/watch/8af751af-51dc-44f3-82e9-e4f0df49a9b9">Lecture 9: Pandas for Word Frequency Analysis. Distinctive words.</a></li>
+</ul>
+<h3 id="unit-32-2020-07-21-n-grams-and-narrative-time-analysis">Unit 3.2 &lt;2020-07-21&gt;: N-grams and narrative-time analysis.</h3>
+<ul>
+<li>Text: <em>The Moonstone</em>, Complete.</li>
+<li><a href="https://us.tv/videos/watch/2c9850e7-c674-4ccc-89b6-a126b3653808">Lecture 10: Narrative Time Analysis and N-Grams</a></li>
+</ul>
+<h3 id="unit-33-2020-07-22-wordnet-and-wordnet-based-text-analysis-part-of-speech-analyses">Unit 3.3 &lt;2020-07-22&gt;: WordNet and WordNet-based text analysis. Part-of-speech analyses.</h3>
+<ul>
+<li><a href="https://icla2020.jonreeve.com/texts/garden-party.html#2-the-garden-party">Texts: “The Garden Party”</a></li>
+<li><a href="https://us.tv/videos/watch/43e864f3-455b-41f3-a10f-db2a697ab6e4">Lecture 11: WordNet and WordNet-Based Analysis</a></li>
+</ul>
+<h3 id="unit-34-2020-07-23-downloading-using-and-iterating-over-corpora">Unit 3.4 &lt;2020-07-23&gt;: Downloading, using, and iterating over corpora.</h3>
+<ul>
+<li><a href="https://icla2020.jonreeve.com/texts/garden-party.html#3-the-daughters-of-the-late-colonel">Texts: “The Daughters of the Late Colonel”</a></li>
+<li><a href="https://us.tv/videos/watch/c02e002e-013e-4333-a785-5db7508fec71">Lecture 12: POS cont’d. Corpora.</a></li>
+<li><a href="https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW3.ipynb">Homework 3 assigned. Due Monday, 7-27, at 19:00 UTC (noon Berkeley)</a></li>
+</ul>
+<h2 id="week-4-linguistic-techniques-i">Week 4: Linguistic Techniques I</h2>
+<p>Text: Katherine Mansfield, <em>The Garden Party and Other Stories</em> Tools: NLTK, SpaCy</p>
+<h3 id="unit-41-2020-07-27-review-of-week-3-and-homework-3-corpus-vectorization-with-scikit-learn-tf-idf-stylometry">Unit 4.1 &lt;2020-07-27&gt;: Review of Week 3 and Homework 3. Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.</h3>
+<ul>
+<li><strong>Homework 3 due</strong></li>
+<li><a href="https://icla2020.jonreeve.com/texts/garden-party.html#5-the-young-girl">Texts: “The Young Girl”</a></li>
+<li><a href="https://us.tv/videos/watch/32f6b7e5-b882-4ad8-bac7-c084b4afb30d">Lecture 13: Corpora continued. Scikit-learn.</a></li>
+</ul>
+<h3 id="unit-42-2020-07-28-comparative-stylometry-corpus-db">Unit 4.2 &lt;2020-07-28&gt;: Comparative stylometry. Corpus-DB.</h3>
+<ul>
+<li><a href="https://icla2020.jonreeve.com/texts/garden-party.html#7-marriage-a-la-mode">Texts: “Marriage à la Mode”</a></li>
+<li><a href="https://us.tv/videos/watch/052b57d0-08d6-4908-ae6a-92fb448c7738">Lecture 14: Stylometry, Corpus-DB</a></li>
+</ul>
+<h3 id="unit-43-2020-07-29-stylometry-continued">Unit 4.3 &lt;2020-07-29&gt;: Stylometry, continued.</h3>
+<ul>
+<li><a href="https://icla2020.jonreeve.com/texts/garden-party.html#10-her-first-ball">Texts: “Her First Ball”</a></li>
+<li><a href="https://us.tv/videos/watch/dfc972c8-8b31-4312-a509-fcf98faa764a">Lecture 15: Stylometry Cont’d.</a></li>
+</ul>
+<h3 id="unit-44-2020-07-30-topic-modeling-with-lda-quote-parsing">Unit 4.4 &lt;2020-07-30&gt;: Topic modeling with LDA. Quote parsing.</h3>
+<ul>
+<li><a href="https://icla2020.jonreeve.com/texts/garden-party.html#14-an-ideal-family">Texts: “An Ideal Family”</a></li>
+<li><a href="https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW4.ipynb">Homework 4 assigned. Due Monday by 19:00 UTC (noon in Berkeley).</a></li>
+</ul>
+<h2 id="week-5-linguistic-techniques-ii">Week 5: Linguistic Techniques II</h2>
+<p>Text: James Joyce, <em>Dubliners</em> Tools: SpaCy</p>
+<h3 id="unit-51-2020-08-03-review-of-week-4-and-homework-4-using-spacy-named-entity-recognition">Unit 5.1 &lt;2020-08-03&gt;: Review of Week 4 and Homework 4. Using SpaCy. Named entity recognition.</h3>
+<ul>
+<li><strong>Homework 4 due</strong></li>
+<li><a href="https://icla2020.jonreeve.com/texts/dubliners.html#the-sisters">Texts: “The Sisters,” “An Encounter”</a></li>
+<li><a href="https://us.tv/videos/watch/de141ebc-7107-460b-8b08-2028d87d0c2f">Lecture 17: SpaCy and Named Entity Recognition</a></li>
+</ul>
+<h3 id="unit-52-2020-08-04-intro-to-final-project-sentiment-analysis-macro-etymological-analysis">Unit 5.2 &lt;2020-08-04&gt;: Intro to final project. Sentiment analysis. Macro-etymological analysis.</h3>
+<ul>
+<li><a href="https://icla2020.jonreeve.com/texts/dubliners.html#araby">Texts: “Araby”, “Eveline”</a></li>
+<li><a href="https://us.tv/videos/watch/dfc8dc0f-c7f0-4761-b176-425cbd8b27c3">Lecture 18: Sentiment Analysis and Macro-Etymological Analysis</a></li>
+</ul>
+<h3 id="unit-53-2020-08-05-sentence-structure-analysis-using-spacy">Unit 5.3 &lt;2020-08-05&gt;: Sentence structure analysis using SpaCy.</h3>
+<ul>
+<li><a href="https://icla2020.jonreeve.com/texts/dubliners.html#the-boarding-house">Texts: “The Boarding House”</a></li>
+<li><a href="https://us.tv/videos/watch/3685dcb2-1bc2-4618-b227-7ad00fb811b4">Lecture 19: Sentence Structure Analysis Using SpaCy</a></li>
+</ul>
+<h3 id="unit-54-2020-08-06-social-network-analysis">Unit 5.4 &lt;2020-08-06&gt;: Social Network Analysis</h3>
+<ul>
+<li><a href="https://icla2020.jonreeve.com/texts/dubliners.html#clay">Texts: “Clay”</a></li>
+<li>Lecture 20: Social Network Analysis.</li>
+</ul>
+<h2 id="week-6-advanced-topics">Week 6: Advanced Topics</h2>
+<p>Tools: Scikit-Learn, SpaCy</p>
+<h3 id="unit-61-2020-08-10-about-the-final-project">Unit 6.1 &lt;2020-08-10&gt;: About the Final Project</h3>
+<h3 id="unit-62-2020-08-11-extras-tei-xml">Unit 6.2 &lt;2020-08-11&gt;: Extras: TEI XML.</h3>
+<ul>
+<li>Lecture 21: Extras: TEI XML</li>
+</ul>
+<h3 id="unit-63-2020-08-12-extras-metadata-apis">Unit 6.3 &lt;2020-08-12&gt;: Extras: Metadata APIs.</h3>
+<ul>
+<li>Lecture 22: Extras: Metadata APIs.</li>
+</ul>
+<h3 id="unit-64-2020-08-13-final-project-presentations-wrap-up">Unit 6.4 &lt;2020-08-13&gt;: Final project presentations. Wrap-up.</h3>
+<ul>
+<li>Final project presentations due by 19:00 UTC. See <a href="https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Resources/final-project-instructions.md">final-project-instructions.md</a></li>
+</ul>
+<h3 id="2020-08-14-final-open-lab">&lt;2020-08-14&gt;: Final open lab.</h3>
+<h3 id="2020-08-15-final-projects-due">&lt;2020-08-15&gt;: Final projects due.</h3>
+<ul>
+<li><a href="https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Resources/final-project-instructions.md">Final project notebooks due, via email, by the end of the day.</a></li>
+</ul></section></article><footer><p>footer text</p><script src="https://hypothes.is/embed.js"></script></footer></body></html>
