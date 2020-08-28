@@ -4,19 +4,9 @@ author: Wilkie Collins
 editor: Jonathan Reeve
 rights: Public Domain
 source: Project Gutenberg
-publication-date: 2019
-toc:
-- Prologue
-- Chapter X
-- Chapter XV
-- Second Period
-- Second Narrative
-- Third Narrative
-- Fourth Narrative
-- Sixth Narrative
 ---
 
-## Prologue
+# Prologue
 
 The Storming of Seringapatam (1799)
 
@@ -41,7 +31,7 @@ for a moment to the period before the assault, and to the stories
 current in our camp of the treasure in jewels and gold stored up in the
 Palace of Seringapatam.
 
-### II
+## II
 
 One of the wildest of these stories related to a Yellow Diamond–a famous
 gem in the native annals of India.
@@ -117,7 +107,7 @@ strangers to the rest, who had won their master’s confidence by
 conforming, or appearing to conform, to the Mussulman faith; and to
 those three men report pointed as the three priests in disguise.
 
-### III
+## III
 
 So, as told in our camp, ran the fanciful story of the Moonstone. It
 made no serious impression on any of us except my cousin–whose love of
@@ -209,7 +199,7 @@ He answered, “That is all.”
 
 I turned my back on him; and we have not spoken since.
 
-### IV
+## IV
 
 I beg it to be understood that what I write here about my cousin (unless
 some necessity should arise for making it public) is for the information
@@ -245,7 +235,7 @@ gives the Diamond away.
 
 # The Story
 
-### First Period
+## First Period
 
 The Loss of the Diamond (1848)
 
@@ -20416,11 +20406,11 @@ the Lord it’s serious–and I request you to take it accordingly!
 When this is said, all is said. Ladies and gentlemen, I make my bow, and
 shut up the story.
 
-## Epilogue
+# Epilogue
 
 THE FINDING OF THE DIAMOND
 
-### Chapter I
+## Chapter I
 
 The Statement of SERGEANT CUFF’S MAN (1849)
 
@@ -20457,7 +20447,7 @@ boarded by the police immediately on her entering the port. This step
 having been taken, my connection with the matter came to an end. I have
 heard nothing more of it since that time.
 
-### Chapter II
+## Chapter II
 
 The Statement of THE CAPTAIN (1849)
 
@@ -20509,7 +20499,7 @@ them, and to my owners.
 Since that time, nothing has been heard to my knowledge of the three
 Hindoos. I have no more to add to what is here written.
 
-### Chapter III
+## Chapter III
 
 The Statement of MR. MURTHWAITE (1850)
 
@@ -20657,3 +20647,4 @@ of it for ever.
 So the years pass, and repeat each other; so the same events revolve in
 the cycles of time. What will be the next adventures of the Moonstone?
 Who can tell?
+    
