@@ -1,2 +1,3 @@
 dist-newstyle
-content/.shake
+content/.shake/
+dest/
