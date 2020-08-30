@@ -15,7 +15,7 @@ jobs:
         with:
           name: srid
       - name: Build Site
-        run: nix-shell --run "runghc src/Main.hs --rebuild-all"
+        run: nix-shell --run "cabal run --rebuild-all"
       - name: Deploy to GH Pages 🚀
         uses: JamesIves/github-pages-deploy-action@3.5.9
         with:
