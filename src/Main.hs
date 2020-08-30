@@ -20,8 +20,10 @@ import Lucid
 import Main.Utf8
 import Rib (IsRoute, Pandoc)
 import qualified Rib
-import qualified Rib.Parser.Pandoc as Pandoc
 import System.FilePath
+
+import PandocSidenote (usingSideNotes)
+import PandocUtils
 
 -- | Route corresponding to each generated static page.
 --
@@ -65,7 +67,7 @@ generateSite = do
   articles <-
     Rib.forEvery ["*.md", "texts/*.md"] $ \srcPath -> do
       let r = Route_Article srcPath
-      doc <- Pandoc.parse Pandoc.readMarkdown srcPath
+      doc <- PandocUtils.parse PandocUtils.readMarkdown srcPath
       writeHtmlRoute r doc
       pure (r, doc)
   writeHtmlRoute Route_Index articles
@@ -110,8 +112,8 @@ renderPage route val = html_ [lang_ "en"] $ do
         article_ $ do
           details_ [] $ do
             summary_ [] "Table of Contents"
-            section_ [] (Pandoc.getToC val)
-          section_ [] (Pandoc.render val)
+            section_ [] (PandocUtils.getToC val)
+          section_ [] $ PandocUtils.render $ usingSideNotes val
         footer_ $ do
           p_ "footer text"
           script_ [src_ "https://hypothes.is/embed.js"] T.empty
@@ -120,9 +122,10 @@ renderPage route val = html_ [lang_ "en"] $ do
     routeTitle = case route of
       Route_Index -> "Introduction to Computational Literary Analysis"
       Route_Article _ -> toHtml $ title $ getMeta val
-    renderMarkdown :: Text -> Html ()
-    renderMarkdown =
-      Pandoc.render . Pandoc.parsePure Pandoc.readMarkdown
+
+renderMarkdown :: Text -> Html ()
+renderMarkdown =
+  PandocUtils.render . usingSideNotes . PandocUtils.parsePure PandocUtils.readMarkdown
 
 -- | Define your site CSS here
 pageStyle :: Css
@@ -148,7 +151,8 @@ data SrcMeta
 
 -- | Get metadata from Markdown's YAML block
 getMeta :: Pandoc -> SrcMeta
-getMeta src = case Pandoc.extractMeta src of
+
+getMeta src = case PandocUtils.extractMeta src of
   Nothing -> error "No YAML metadata"
   Just (Left e) -> error $ T.unpack e
   Just (Right val) -> case fromJSON val of

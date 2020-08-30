@@ -12,6 +12,8 @@ The Storming of Seringapatam (1799)
 
 Extracted from a Family Paper
 
+## I
+
 I address these lines–written in India–to my relatives in England.
 
 My object is to explain the motive which has induced me to refuse the
@@ -322,7 +324,7 @@ pipe of tobacco–and I have found it my friend in need in all the
 necessities of this mortal life. When my spirits are bad–*Robinson
 Crusoe*. When I want advice–*Robinson Crusoe*. In past times when my wife
 plagued me; in present times when I have had a drop too much–*Robinson
-Crusoe*. I have worn out six stout *Robinson Crusoe*S with hard work in my
+Crusoe*. I have worn out six stout *Robinson Crusoes* with hard work in my
 service. On my lady’s last birthday she gave me a seventh. I took a drop
 too much on the strength of it; and *Robinson Crusoe* put me right again.
 Price four shillings and sixpence, bound in blue, with a picture into
@@ -3826,7 +3828,7 @@ far to seek as ever.
 “I can’t bear the idea of getting the poor girl into a scrape, merely
 because she has a flighty way with her, and talks very strangely,”
 Mr. Franklin went on. “And yet if she had said to, the Superintendent
-what she said to me, fool as he is, I’m afraid—-” He stopped there, and
+what she said to me, fool as he is, I’m afraid—” He stopped there, and
 left the rest unspoken.
 
 “The best way, sir,” I said, “will be for me to say two words privately
@@ -5789,7 +5791,7 @@ Let the matter rest for to-night. No, Mr. Betteredge, you don’t get a
 word more on the subject of the Moonstone out of me. There is your table
 spread for supper. That’s one of the many human infirmities which I
 always treat tenderly. If you will ring the bell, I’ll say grace. ‘For
-what we are going to receive—-’”
+what we are going to receive—’”
 
 “I wish you a good appetite to it, Sergeant,” I said. “My appetite is
 gone. I’ll wait and see you served, and then I’ll ask you to excuse me,
@@ -5875,7 +5877,7 @@ Indians as well.” With that he turned to Mr. Begbie, and took up the
 argument again exactly at the place where it had left off. “This
 question between us is a question of soils and seasons, and patience and
 pains, Mr. Gardener. Now let me put it to you from another point of
-view. You take your white moss rose—-”
+view. You take your white moss rose—”
 
 By that time, I had closed the door on them, and was out of hearing of
 the rest of the dispute.
@@ -5975,7 +5977,7 @@ left the hall. I am not quite easy about it, Betteredge. Would you mind
 telling Rosanna that I meant no unkindness? I have been a little hard on
 her, perhaps, in my own thoughts–I have almost hoped that the loss of
 the Diamond might be traced to *her*. Not from any ill-will to the poor
-girl: but—-” He stopped there, and going back to the billiard-table,
+girl: but—” He stopped there, and going back to the billiard-table,
 began to knock the balls about once more.
 
 After what had passed between the Sergeant and me, I knew what it was
@@ -6234,7 +6236,7 @@ cruelly, without intending it.”
 “Her own madness,” says Penelope; “I can call it nothing else. She was
 bent on speaking to Mr. Franklin, this morning, come what might of it. I
 did my best to stop her; you saw that. If I could only have got her away
-before she heard those dreadful words—-”
+before she heard those dreadful words—”
 
 “There! there!” I said, “don’t lose your head. I can’t call to mind
 that anything happened to alarm Rosanna.”
@@ -6580,7 +6582,7 @@ me–by Joyce.
 “Where is Rosanna Spearman?” asked Sergeant Cuff.
 
 “I can’t account for it, sir,” Joyce began; “and I am very sorry. But
-somehow or other—-”
+somehow or other—”
 
 “Before I went to Frizinghall,” said the Sergeant, cutting him short, “I
 told you to keep your eyes on Rosanna Spearman, without allowing her to
@@ -6589,7 +6591,7 @@ have let her give you the slip?”
 
 “I am afraid, sir,” says Joyce, beginning to tremble, “that I was
 perhaps a little *too* careful not to let her discover me. There are such
-a many passages in the lower parts of this house—-”
+a many passages in the lower parts of this house—”
 
 “How long is it since you missed her?”
 
@@ -7064,7 +7066,7 @@ Verinder’s name having been openly mentioned between us as it has been
 mentioned now. My nephew has probably said something of this, before you
 came into my room?”
 
-“Mr. Blake gave his message, my lady. And I gave Mr. Blake a reason—-”
+“Mr. Blake gave his message, my lady. And I gave Mr. Blake a reason—”
 
 “It is needless to tell me your reason. After what you have just said,
 you know as well as I do that you have gone too far to go back. I owe it
@@ -7750,7 +7752,7 @@ think does honour to both of us. If we don’t meet again before my
 professional retirement takes place, I hope you will come and see me in
 a little house near London, which I have got my eye on. There will be
 grass walks, Mr. Betteredge, I promise you, in my garden. And as for the
-white moss rose—-”
+white moss rose—”
 
 “The de’il a bit ye’ll get the white moss rose to grow, unless you bud
 him on the dogue-rose first,” cried a voice at the window.
@@ -7781,7 +7783,7 @@ are as tired of reading this narrative as I am of writing it–Lord, how
 we shall enjoy ourselves on both sides a few pages further on!
 
 ### Chapter XXIII
-
+    
 I had kept the pony chaise ready, in case Mr. Franklin persisted in
 leaving us by the train that night. The appearance of the luggage,
 followed downstairs by Mr. Franklin himself, informed me plainly enough
@@ -8256,13 +8258,13 @@ THE END OF THE FIRST PERIOD.
 
 ## Second Period
 
-THE DISCOVERY OF THE TRUTH (1848-1849)
+The Discovery of the Truth (1848-1849)
 
 The events related in several narratives.
 
 ## First Narrative
 
-Contributed by MISS CLACK; niece of the late SIR JOHN VERINDER
+Contributed by Miss Clack; niece of the late Sir John Verinder
 
 ### Chapter I
 
@@ -8322,9 +8324,19 @@ shall be told here. My sacred regard for truth is (thank God) far above
 my respect for persons. It will be easy for Mr. Blake to suppress what
 may not prove to be sufficiently flattering in these pages to the person
 chiefly concerned in them. He has purchased my time, but not even *his*
-wealth can purchase my conscience too.[^fn1] 
-
-[^fn1]: ADDED BY FRANKLIN BLAKE.–Miss Clack may make her mind quite easy on this point. Nothing will be added, altered or removed, in her manuscript, or in any of the other manuscripts which pass through my hands. Whatever opinions any of the writers may express, whatever peculiarities of treatment may mark, and perhaps in a literary sense, disfigure the narratives which I am now collecting, not a line will be tampered with anywhere, from first to last. As genuine documents they are sent to me–and as genuine documents I shall preserve them, endorsed by the attestations of witnesses who can speak to the facts. It only remains to be added that “the person chiefly concerned” in Miss Clack’s narrative, is happy enough at the present moment, not only to brave the smartest exercise of Miss Clack’s pen, but even to recognise its unquestionable value as an instrument for the exhibition of Miss Clack’s character.
+wealth can purchase my conscience too. ^[*Added by Franklin Blake*. Miss Clack
+may make her mind quite easy on this point. Nothing will be added, altered or
+removed, in her manuscript, or in any of the other manuscripts which pass
+through my hands. Whatever opinions any of the writers may express, whatever
+peculiarities of treatment may mark, and perhaps in a literary sense, disfigure
+the narratives which I am now collecting, not a line will be tampered with
+anywhere, from first to last. As genuine documents they are sent to me–and as
+genuine documents I shall preserve them, endorsed by the attestations of
+witnesses who can speak to the facts. It only remains to be added that “the
+person chiefly concerned” in Miss Clack’s narrative, is happy enough at the
+present moment, not only to brave the smartest exercise of Miss Clack’s pen, but
+even to recognise its unquestionable value as an instrument for the exhibition
+of Miss Clack’s character.]
 
 My diary informs me, that I was accidentally passing Aunt Verinder’s
 house in Montagu Square, on Monday, 3rd July, 1848.
@@ -8899,7 +8911,7 @@ happened since, here in London?”
 turn.”
 
 “The people who say that the three unknown men who ill-used you and
-Mr. Luker are the three Indians, also say that the valuable gem—-”
+Mr. Luker are the three Indians, also say that the valuable gem—”
 
 There she stopped. She had become gradually, within the last few
 moments, whiter and whiter in the face. The extraordinary blackness of
@@ -9532,7 +9544,7 @@ if you please, why he should steal the Moonstone?”
 
 “In other words, ma’am–though he hadn’t the shadow of a reason for
 taking the Diamond–he might have taken it, nevertheless, through natural
-depravity. Very well. Say he did. Why the devil—-”
+depravity. Very well. Say he did. Why the devil—”
 
 “I beg your pardon, Mr. Bruff. If I hear the devil referred to in that
 manner, I must leave the room.”
@@ -9639,7 +9651,7 @@ glanced at the book, and handed it back to me looking more confused than
 ever.
 
 “I’m afraid, Drusilla,” she said, “I must wait till I am a little
-better, before I can read that. The doctor—-”
+better, before I can read that. The doctor—”
 
 The moment she mentioned the doctor’s name, I knew what was coming. Over
 and over again in my past experience among my perishing
@@ -10073,9 +10085,9 @@ friends. The disappearance of your precious birthday gift may seem
 strange; your unexplained connection with that event may seem stranger
 still.”
 
-“Are you speaking of the Moonstone, Godfrey—-”
+“Are you speaking of the Moonstone, Godfrey—”
 
-“I certainly thought that you referred—-”
+“I certainly thought that you referred—”
 
 “I referred to nothing of the sort. I can hear of the loss of the
 Moonstone, let who will speak of it, without feeling degraded in my own
@@ -10539,7 +10551,7 @@ really happy woman I have ever met with.”
 “There are degrees in happiness, darling. We must have a little talk,
 some day, on that subject. In the meantime I will undertake to meet the
 difficulty about the servants. Your aunt will write a letter to the
-people of the house—-”
+people of the house—”
 
 “She will sign a letter, if I write it for her, which comes to the same
 thing.”
@@ -10724,7 +10736,7 @@ by the whole family as a settled thing!”
 “Mr. Godfrey Ablewhite is expected here to-day,” she said doggedly.
 “Wait till he comes–and you will see.”
 
-“But my dear Rachel—-”
+“But my dear Rachel—”
 
 She rang the bell at the head of her bed. The person with the
 cap-ribbons appeared.
@@ -11223,7 +11235,7 @@ blessed, blessed, blessed words of Miss Jane Ann Stamper!”
 I was stopped there by a momentary impediment of the breath. Before I
 could recover myself, this monster in human form shouted out furiously,
 
-“Miss Jane Ann Stamper be—-!”
+“Miss Jane Ann Stamper be—!”
 
 It is impossible for me to write the awful word, which is here
 represented by a blank. I shrieked as it passed his lips; I flew to my
@@ -11263,7 +11275,7 @@ Mr. Bruff interfered for the third time.
 took this house as Miss Verinder’s guardian, for Miss Verinder’s use.”
 
 “Not quite so fast,” interposed Mr. Ablewhite. “I have a last word to
-say, which I should have said some time since, if this—-” He looked my
+say, which I should have said some time since, if this—” He looked my
 way, pondering what abominable name he should call me–“if this Rampant
 Spinster had not interrupted us. I beg to inform you, sir, that, if my
 son is not good enough to be Miss Verinder’s husband, I cannot presume
@@ -11450,7 +11462,7 @@ Jane Ann Stamper* left her as a legacy by my will.
 
 ## Second Narrative
 
-Contributed by MATHEW BRUFF, Solicitor, of Gray’s Inn Square
+Contributed by Mathew Bruff, Solicitor, of Gray’s Inn Square
 
 ### Chapter I
 
@@ -11717,7 +11729,7 @@ Poor thing! the bare idea of a man marrying her for his own selfish and
 mercenary ends had never entered her head. The task I had set myself
 began to look like a harder task than I had bargained for.
 
-“It sounds strangely,” I went on, “in my old-fashioned ears—-”
+“It sounds strangely,” I went on, “in my old-fashioned ears—”
 
 “What sounds strangely?” she asked.
 
@@ -12557,7 +12569,7 @@ to the writer who follows me next.
 
 ## Third Narrative
 
-Contributed by FRANKLIN BLAKE
+Contributed by Franklin Blake
 
 ### Chapter I
 
@@ -13250,7 +13262,7 @@ along the stick, among the sea-weed (beginning from the end of the stick
 which points towards the beacon), for the Chain. To run my hand along
 the Chain, when found, until I come to the part of it which stretches
 over the edge of the rocks, down into the quicksand. *And then to pull
-the chain.”
+the chain*.”
 
 Just as I had read the last words–underlined in the original–I heard the
 voice of Betteredge behind me. The inventor of the detective-fever had
@@ -13936,7 +13948,7 @@ the linen in the house was examined) of the newness of the nightgown
 betraying me. All your underclothing had been renewed, when you came to
 our house–I suppose on your return home from foreign parts.
 
-"The next thing was the arrival of Sergeant Cuff; and the next great
+“The next thing was the arrival of Sergeant Cuff; and the next great
 surprise was the announcement of what *he* thought about the smear on the
 door.
 
@@ -13965,11 +13977,11 @@ telling me, in one word, whether you see your way out of this dreadful
 mess yet?”
 
 “I see my way back to London,” I said, “to consult Mr. Bruff. If he
-can’t help me—-”
+can’t help me—”
 
 “Yes, sir?”
 
-“And if the Sergeant won’t leave his retirement at Dorking—-”
+“And if the Sergeant won’t leave his retirement at Dorking—”
 
 “He won’t, Mr. Franklin!”
 
@@ -14435,7 +14447,7 @@ Betteredge considered for a moment.
 You looked wretchedly ill–and we persuaded you to have a drop of brandy
 and water to cheer you up a little.”
 
-“I am not used to brandy and water. It is quite possible—-”
+“I am not used to brandy and water. It is quite possible—”
 
 “Wait a bit, Mr. Franklin. I knew you were not used, too. I poured you
 out half a wineglass-full of our fifty year old Cognac; and (more shame
@@ -14879,7 +14891,7 @@ What have I done?”
 the consequences of concealing it. Have I no claim to be spared the
 insult of your asking me what you have done? Is *all* sense of gratitude
 dead in you? You were once a gentleman. You were once dear to my mother,
-and dearer still to me—-”
+and dearer still to me—”
 
 Her voice failed her. She dropped into a chair, and turned her back on
 me, and covered her face with her hands.
@@ -15049,7 +15061,7 @@ first that I was able to go on.
 “Did you leave your bedroom?”
 
 “I was going to leave it. I had put on my dressing-gown; and I was going
-into my sitting-room to get a book—-”
+into my sitting-room to get a book—”
 
 “Had you opened your bedroom door?”
 
@@ -15080,7 +15092,7 @@ place of my own choosing.”
 “After blowing out the candle, did you go back to bed?”
 
 “I had no time to go back. At the moment when I blew the candle out, the
-sitting-room door opened, and I saw—-”
+sitting-room door opened, and I saw—”
 
 “You saw?”
 
@@ -15242,7 +15254,7 @@ of my self-control. Rashly and uselessly, I reproached her for the
 silence which had kept me until that moment in ignorance of the truth.
 
 “If you had spoken when you ought to have spoken,” I began; “if you had
-done me the common justice to explain yourself—-”
+done me the common justice to explain yourself—”
 
 She broke in on me with a cry of fury. The few words I had said seemed
 to have lashed her on the instant into a frenzy of rage.
@@ -15559,7 +15571,7 @@ stand at this moment; and that person alone can set you right in
 Rachel’s estimation.”
 
 “I can’t deny,” I said, “that the plan you propose meets the difficulty
-in a way that is very daring, and very ingenious, and very new. But—-”
+in a way that is very daring, and very ingenious, and very new. But—”
 
 “But you have an objection to make?”
 
@@ -15881,7 +15893,7 @@ more if possible. There are peculiarities in this case which make it
 desirable to revive my recollection of everything that happened in the
 house, on the evening of Miss Verinder’s birthday. And I venture to
 appeal to her late mother’s friends who were present on that occasion,
-to lend me the assistance of their memories—-”
+to lend me the assistance of their memories—”
 
 I had got as far as that in rehearsing my explanatory phrases, when I
 was suddenly checked by seeing plainly in Mr. Candy’s face that my
@@ -15898,7 +15910,7 @@ immediately.
 
 “So much,” I said, gaily, “for what brings me to Frizinghall! Now,
 Mr. Candy, it’s your turn. You sent me a message by Gabriel
-Betteredge—-”
+Betteredge—”
 
 He left off picking at his fingers, and suddenly brightened up.
 
@@ -15958,7 +15970,7 @@ with me.
 “I wish I could say the same of my memory,” I answered. “When I try to
 think of matters that are a year old, I seldom find my remembrance as
 vivid as I could wish it to be. Take the dinner at Lady Verinder’s, for
-instance—-”
+instance—”
 
 Mr. Candy brightened up again, the moment the allusion passed my lips.
 
@@ -16071,7 +16083,7 @@ have been far more serious that I had supposed?”
 it.”
 
 “Is his memory never any better than I have found it to-day? He has been
-trying to speak to me—-”
+trying to speak to me—”
 
 “Of something which happened before he was taken ill?” asked the
 assistant, observing that I hesitated.
@@ -16581,7 +16593,7 @@ approached the leading incident of my story.
 
 “It is certain that I went into the room,” I said; “it is certain that I
 took the Diamond. I can only meet those two plain facts by declaring
-that, do what I might, I did it without my own knowledge—-”
+that, do what I might, I did it without my own knowledge—”
 
 Ezra Jennings caught me excitedly by the arm.
 
@@ -16781,7 +16793,7 @@ and any other person, immediately before you retired to rest on the
 birthday night?”
 
 “It was the subject of a conversation between Lady Verinder and her
-daughter—-”
+daughter—”
 
 “Which took place in your hearing?”
 
@@ -17139,7 +17151,7 @@ what I did next?”
 with me whether the experiment which I propose as a means of vindicating
 your innocence, may not also be made a means of recovering the lost
 Diamond as well. When you left Miss Verinder’s sitting-room, with the
-jewel in your hand, you went back in all probability to your own room—-”
+jewel in your hand, you went back in all probability to your own room—”
 
 “Yes? and what then?”
 
@@ -17311,7 +17323,7 @@ opium was tried, and how it ended.
 
 ## Fourth Narrative
 
-Extracted from the Journal of EZRA JENNINGS
+Extracted from the Journal of Ezra Jennings
 
 1849.–June 15…. With some interruption from patients, and some
 interruption from pain, I finished my letter to Miss Verinder in time
@@ -17599,7 +17611,7 @@ determined not to be behind ’em, or before ’em, by so much as a hair’s
 breadth. I’m a blind agent–that’s what I am. A blind agent!” repeated
 Betteredge, with infinite relish of his own description of himself.
 
-“I am very sorry,” I began, “that you and I don’t agree—-”
+“I am very sorry,” I began, “that you and I don’t agree—”
 
 “Don’t bring *me*, into it!” interposed Betteredge. “This is not a matter
 of agreement, it’s a matter of obedience. Issue your directions,
@@ -17661,11 +17673,11 @@ Betteredge, “in that case, I have a point or two to put on my own
 behalf.” He opened the pocket-book at a new page, and gave the
 inexhaustible pencil another preliminary lick.
 
-“I wish to know,” he began, “whether I may, or may not, wash my hands—-”
+“I wish to know,” he began, “whether I may, or may not, wash my hands—”
 
 “You may decidedly,” said Mr. Blake. “I’ll ring for the waiter.”
 
-“—-of certain responsibilities,” pursued Betteredge, impenetrably
+“—of certain responsibilities,” pursued Betteredge, impenetrably
 declining to see anybody in the room but himself and me. “As to Miss
 Verinder’s sitting-room, to begin with. When we took up the carpet last
 year, Mr. Jennings, we found a surprising quantity of pins. Am I
@@ -18177,7 +18189,7 @@ last–even when I was wronging him in my own thoughts; even when I was
 saying the hardest and the cruellest words to him. Is there any excuse
 for me, in that? I hope there is–I am afraid it is the only excuse I
 have. When to-morrow comes, and he knows that I am in the house, do you
-think—-”
+think—”
 
 She stopped again, and looked at me very earnestly.
 
@@ -18933,7 +18945,7 @@ a happy time.
 
 ## Fifth Narrative
 
-The Story Resumed by FRANKLIN BLAKE
+The Story Resumed by Franklin Blake
 
 ### Chapter I
 
@@ -19773,7 +19785,7 @@ I went with him, and looked at the man on the bed.
 
 ## Sixth Narrative
 
-Contributed by SERGEANT CUFF
+Contributed by Sergeant Cuff
 
 ### Chapter I
 
@@ -20235,7 +20247,7 @@ London).[^fn3]
 
 ## Seventh Narrative
 
-In a Letter from MR. CANDY
+In a Letter from Mr. Candy
 
 Frizinghall, Wednesday, September 26th, 1849.–Dear Mr. Franklin Blake,
 you will anticipate the sad news I have to tell you, on finding your
@@ -20319,7 +20331,7 @@ Thomas Candy.
 
 ## Eighth Narrative
 
-Contributed by GABRIEL BETTEREDGE
+Contributed by Gabriel Betteredge
 
 I am the person (as you remember no doubt) who led the way in these
 pages, and opened the story. I am also the person who is left behind, as
@@ -20408,11 +20420,11 @@ shut up the story.
 
 # Epilogue
 
-THE FINDING OF THE DIAMOND
+The Finding of the Diamond
 
 ## Chapter I
 
-The Statement of SERGEANT CUFF’S MAN (1849)
+The Statement of Sergeant Cuff's Man (1849)
 
 On the twenty-seventh of June last, I received instructions from
 Sergeant Cuff to follow three men; suspected of murder, and described as
@@ -20449,7 +20461,7 @@ heard nothing more of it since that time.
 
 ## Chapter II
 
-The Statement of THE CAPTAIN (1849)
+The Statement of the Captain (1849)
 
 I am requested by Sergeant Cuff to set in writing certain facts,
 concerning three men (believed to be Hindoos) who were passengers, last
@@ -20501,9 +20513,9 @@ Hindoos. I have no more to add to what is here written.
 
 ## Chapter III
 
-The Statement of MR. MURTHWAITE (1850)
+The Statement of Mr. Murthwaite (1850)
 
-(In a letter to MR. BRUFF)
+(In a letter to Mr. Bruff)
 
 Have you any recollection, my dear sir, of a semi-savage person whom you
 met out at dinner, in London, in the autumn of ’forty-eight? Permit me
