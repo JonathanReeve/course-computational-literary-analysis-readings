@@ -85,29 +85,16 @@ renderPage route val = html_ [lang_ "en"] $ do
       nav_ $ do
         a_ [href_ "/"] "Introduction to Computational Literary Analysis"
         " // "
-        a_ [href_ "https://cla.zulipchat.com"] "Chat"
+        a_ [href_ "https://icla2020b.zulipchat.com"] "Chat"
         " // "
         a_ [href_ "/texts/moonstone.html"] "The Moonstone"
         " // "
         -- a_ [href_ "index.html#week-4-word-frequency-analyses"] "This Week"
-        a_ [href_ "index.html#week-5-linguistic-techniques-ii"] "This Week"
+        a_ [href_ ""] "This Week"
     h1_ routeTitle
     case route of
       Route_Index -> do
-        h2_ "Course Info"
-        ul_ [] $ do
-          li_ [ class_ "pages" ] $ a_ [href_ "https://cla.zulipchat.com"] "Chat"
-        h2_ "Readings"
-        div_ $ do
-          ul_ [] $
-            forM_ val $ \(r, src) -> do
-              let meta = getMeta src
-              let url = Rib.routeUrl r
-              if url /= "/syllabus.html" then
-                li_ [class_ "pages"] $ do
-                  a_ [href_ url] $ toHtml $ title meta
-                  renderMarkdown `mapM_` description meta
-              else ""
+        p_ mempty
       Route_Article _ -> do
         article_ $ do
           details_ [] $ do
@@ -115,7 +102,9 @@ renderPage route val = html_ [lang_ "en"] $ do
             section_ [] (PandocUtils.getToC val)
           section_ [] $ PandocUtils.render $ usingSideNotes val
         footer_ $ do
-          p_ "footer text"
+          p_ $ do
+            "This course material is released under "
+            a_ [href_ "https://creativecommons.org/licenses/by-sa/2.0/"] "the CC-BY-SA license."
           script_ [src_ "https://hypothes.is/embed.js"] T.empty
  where
     routeTitle :: Html ()

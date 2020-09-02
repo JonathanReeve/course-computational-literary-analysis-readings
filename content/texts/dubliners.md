@@ -1763,8 +1763,8 @@ Mrs. Mooney's front drawing-room. The music-hall artistes would oblige;
 and Sheridan played waltzes and polkas and vamped accompaniments. Polly
 Mooney, the Madam's daughter, would also sing. She sang:
 
-\[quote\] \_\_\_\_\_ \[verse\] \_\_\_\_ I'm a... naughty girl. You
-needn't sham: You know I am. \_\_\_\_ \_\_\_\_\_
+>I'm a... naughty girl. You
+>needn't sham: You know I am.
 
 Polly was a slim girl of nineteen; she had light soft hair and a small
 full mouth. Her eyes, which were grey with a shade of green through
@@ -2496,10 +2496,10 @@ A volume of Byron's poems lay before him on the table. He opened it
 cautiously with his left hand lest he should waken the child and began
 to read the first poem in the book:
 
-\[quote\] \_\_\_\_\_ \[verse\] \_\_\_\_ Hushed are the winds and still
-the evening gloom, Not e'en a Zephyr wanders through the grove, Whilst I
-return to view my Margaret's tomb And scatter flowers on the dust I
-love. \_\_\_\_ \_\_\_\_\_
+> Hushed are the winds and still the evening gloom,      
+> Not e'en a Zephyr wanders through the grove,     
+> Whilst I return to view my Margaret's tomb     
+> And scatter flowers on the dust I love.    
 
 He paused. He felt the rhythm of the verse about him in the room. How
 melancholy it was! Could he, too, write like that, express the
@@ -2512,8 +2512,8 @@ hush it: but it would not be hushed. He began to rock it to and fro in
 his arms but its wailing cry grew keener. He rocked it faster while his
 eyes began to read the second stanza:
 
-\[quote\] \_\_\_\_\_ \[verse\] \_\_\_\_ Within this narrow cell reclines
-her clay, That clay where once... \_\_\_\_ \_\_\_\_\_
+>Within this narrow cell reclines her clay, 
+>That clay where once...
 
 It was useless. He couldn't read. He couldn't do anything. The wailing
 of the child pierced the drum of his ear. It was useless, useless! He
@@ -3218,13 +3218,15 @@ Maria!" and Maria, blushing very much began to sing in a tiny quavering
 voice. She sang I Dreamt that I Dwelt, and when she came to the second
 verse she sang again:
 
-\[quote\] \_\_\_\_\_ \[verse\] \_\_\_\_ I dreamt that I dwelt in marble
-halls With vassals and serfs at my side, And of all who assembled within
-those walls That I was the hope and the pride.
+> I dreamt that I dwelt in marble halls   
+> With vassals and serfs at my side,   
+> And of all who assembled within those walls   
+> That I was the hope and the pride.  
 
-I had riches too great to count; could boast Of a high ancestral name,
-But I also dreamt, which pleased me most, That you loved me still the
-same. \_\_\_\_ \_\_\_\_\_
+> I had riches too great to count;   
+> could boast Of a high ancestral name,  
+> But I also dreamt, which pleased me most,   
+> That you loved me still the same.  
 
 But no one tried to show her her mistake; and when she had ended her
 song Joe was very much moved. He said that there was no time like the
@@ -3428,7 +3430,7 @@ the paper from his pocket, read the paragraph again by the failing light
 of the window. He read it not aloud, but moving his lips as a priest
 does when he reads the prayers Secreto. This was the paragraph:
 
-\[literal\] .... DEATH OF A LADY AT SYDNEY PARADE A PAINFUL CASE ....
+> .... DEATH OF A LADY AT SYDNEY PARADE A PAINFUL CASE ....
 
 Today at the City of Dublin Hospital the Deputy Coroner (in the absence
 of Mr. Leverett) held an inquest on the body of Mrs. Emily Sinico, aged
@@ -3444,8 +3446,7 @@ guard's whistle he set the train in motion and a second or two
 afterwards brought it to rest in response to loud cries. The train was
 going slowly.
 
-// Escaping "P." to work around error: list item index: expected A, got
-P +++P.+++ Dunne, railway porter, stated that as the train was about to
+Dunne, railway porter, stated that as the train was about to
 start he observed a woman attempting to cross the lines. He ran towards
 her and shouted, but, before he could reach her, she was caught by the
 buffer of the engine and fell to the ground.
@@ -3609,8 +3610,8 @@ pockets. He took out a pack of thin pasteboard cards.
 
 He selected one of the cards and read what was printed on it:
 
-\[literal\] .... MUNICIPAL ELECTIONS ------------ ROYAL EXCHANGE WARD
------------- ....
+> MUNICIPAL ELECTIONS    
+> ROYAL EXCHANGE WARD    
 
 Mr. Richard J. Tierney, P.L.G., respectfully solicits the favour of your
 vote and influence at the coming election in the Royal Exchange Ward.
@@ -4257,34 +4258,55 @@ Mr. Hynes hesitated a little longer. Then amid the silence he took off
 his hat, laid it on the table and stood up. He seemed to be rehearsing
 the piece in his mind. After a rather long pause he announced:
 
-\[literal\] .... THE DEATH OF PARNELL 6th October, 1891 ....
+> .... THE DEATH OF PARNELL 6th October, 1891 ....
 
 He cleared his throat once or twice and then began to recite:
 
-\[quote\] \_\_\_\_\_ \[verse\] \_\_\_\_ He is dead. Our Uncrowned King
-is dead. O, Erin, mourn with grief and woe For he lies dead whom the
-fell gang Of modern hypocrites laid low. He lies slain by the coward
-hounds He raised to glory from the mire; And Erin's hopes and Erin's
-dreams Perish upon her monarch's pyre. In palace, cabin or in cot The
-Irish heart where'er it be Is bowed with woe---for he is gone Who would
-have wrought her destiny. He would have had his Erin famed, The green
-flag gloriously unfurled, Her statesmen, bards and warriors raised
-Before the nations of the World. He dreamed (alas, 'twas but a dream!)
-Of Liberty: but as he strove To clutch that idol, treachery Sundered him
-from the thing he loved. Shame on the coward, caitiff hands That smote
-their Lord or with a kiss Betrayed him to the rabble-rout Of fawning
-priests---no friends of his. May everlasting shame consume The memory of
-those who tried To befoul and smear the exalted name Of one who spurned
-them in his pride. He fell as fall the mighty ones, Nobly undaunted to
-the last, And death has now united him With Erin's heroes of the past.
-No sound of strife disturb his sleep! Calmly he rests: no human pain Or
-high ambition spurs him now The peaks of glory to attain. They had their
-way: they laid him low. But Erin, list, his spirit may Rise, like the
-Phoenix from the flames, When breaks the dawning of the day, The day
-that brings us Freedom's reign. And on that day may Erin well Pledge in
-the cup she lifts to Joy One grief---the memory of Parnell. \_\_\_\_
-\_\_\_\_\_
-
+> He is dead. Our Uncrowned King is dead.     
+> O, Erin, mourn with grief and woe     
+> For he lies dead whom the fell gang     
+> Of modern hypocrites laid low.     
+> He lies slain by the coward hounds     
+> He raised to glory from the mire;     
+> And Erin's hopes and Erin's dreams     
+> Perish upon her monarch's pyre.     
+> In palace, cabin or in cot     
+> The Irish heart where'er it be     
+> Is bowed with woe---for he is gone     
+> Who would have wrought her destiny.     
+> He would have had his Erin famed,     
+> The green flag gloriously unfurled,     
+> Her statesmen, bards and warriors raised    
+> Before the nations of the World.     
+> He dreamed (alas, 'twas but a dream!)    
+> Of Liberty: but as he strove     
+> To clutch that idol, treachery     
+> Sundered him from the thing he loved.     
+> Shame on the coward, caitiff hands     
+> That smote their Lord or with a kiss     
+> Betrayed him to the rabble-rout     
+> Of fawning priests---no friends of his.     
+> May everlasting shame consume     
+> The memory of those who tried     
+> To befoul and smear the exalted name     
+> Of one who spurned them in his pride.     
+> He fell as fall the mighty ones,     
+> Nobly undaunted to the last,     
+> And death has now united him     
+> With Erin's heroes of the past.    
+> No sound of strife disturb his sleep!     
+> Calmly he rests: no human pain     
+> Or high ambition spurs him now     
+> The peaks of glory to attain.     
+> They had their way: they laid him low.     
+> But Erin, list, his spirit may     
+> Rise, like the Phoenix from the flames,     
+> When breaks the dawning of the day,     
+> The day that brings us Freedom's reign.     
+> And on that day may Erin well     
+> Pledge in the cup she lifts to Joy     
+> One grief---the memory of Parnell.     
+    
 Mr. Hynes sat down again on the table. When he had finished his
 recitation there was a silence and then a burst of clapping: even
 Mr. Lyons clapped. The applause continued for a little time. When it had
