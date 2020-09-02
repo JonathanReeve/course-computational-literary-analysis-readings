@@ -14,7 +14,8 @@ Welcome! Here you'll find all the course information for Introduction to Computa
   - Instructor: Jonathan Reeve
   - Discussion sections: 13:00–14:00, New York City time, [in the course chatroom on Zulip](https://icla2020b.jonreeve.com)
   - Lab time: Fridays, 14:00-15:00, [in live video chat on Jitsi](https://meet.jit.si/icla2020b)
-  - Email address: jonathan.reeve@columbia.edu (although please message me on Zulip instead) 
+  - Email address: jonathan.reeve@columbia.edu 
+    - Although please message me on Zulip instead
   - [Classroom/chatroom on Zulip](https://icla2020b.zulipchat.com/)
   - [Course website and course readings](https://icla2020b.jonreeve.com)
   - [Course repository](https://github.com/JonathanReeve/course-computational-literary-analysis)
@@ -109,9 +110,10 @@ If you're feeling like you need some help catching up with literary-critical ter
 
 Coursework falls into three categories:
 
-  - Weekly Annotations and Discussions (30% of final grade)
+  - Weekly Annotations and Discussions (40% of final grade)
+    - Thus: half annotations, half class discussions. 
   - Homework Assignments (30% of final grade)
-  - Final Project (40% of final grade)
+  - Final Project (30% of final grade)
 
 And of course, there are three course readings: one novel and two short story collections. Reading these closely is crucial: this will allow you to contextualize your quantitative analyses, and will prepare you for the close reading tasks of the final paper.
 
