@@ -10,7 +10,8 @@ Welcome! Here you'll find all the course information for Introduction to Computa
 
 ## Course Details 
 
-  - ENGL UN3612: Introduction to Computational Literary Analysis
+  - ENCL UN3612: Introduction to Computational Literary Analysis
+  - Department of English and Comparative Literature
   - Instructor: Jonathan Reeve
   - Discussion sections: 13:00–14:00, New York City time, [in the course chatroom on Zulip](https://icla2020b.jonreeve.com)
   - Lab time: Fridays, 14:00-15:00, [in live video chat on Jitsi](https://meet.jit.si/icla2020b)
@@ -38,7 +39,7 @@ Although this course is focused on the analysis of literature, and British liter
 
 ## Prerequisites
 
-This course presumes no prior knowledge of programming, computer science, or quantitative disciplines. Those with programming experience, however, won't find this boring: the level of specialization is such that only the first week covers the basics.
+This course presumes no prior knowledge of programming, computer science, or quantitative disciplines. Those with programming experience, however, won't find this boring: the level of specialization is such that only the first few weeks cover the basics.
 
 ## Course Structure
 
@@ -46,19 +47,19 @@ Although this is usually a classroom-taught course, due to the global pandemic, 
 
 ### Lecture Videos
 
-In place of in-person lectures, I'll post lecture videos, every day from Mondays to Thursdays. Each video is between 30-70 minutes long, and is required viewing. Please watch the lecture videos before coming to discussion sections. Links will be posted to this syllabus. **Please resist the urge to watch lecture videos in advance, since they may change as I revise the course content.**
+In place of in-person lectures, I'll post lecture videos, every Wednesday, or earlier. Each video is between 30-70 minutes long, and is required viewing. Please watch the lecture videos before coming to discussion sections, so that we can all discuss it synchronously. Links will be posted to this syllabus. **Please resist the urge to watch lecture videos in advance, since they may change as I revise the course content.**
 
 ### Discussion Sections
 
 In place of in-person classroom dialogue and activities, we'll hold discussion sections online, on [this Zulip server](https://icla2020b.zulipchat.com/), every Wednesday during class time, from 13:00–14:00. Zulip is a text-based chat platform, with email-like threading. You can use it to join an existing discussion thread, or create a new one. Please familiarize yourself with Zulip ahead of our first meetings. 
 
-Attendance in these discussions is required. If you'll need to participate asynchronously one week, for whatever reason, just let me know in advance. 
+Attendance in these discussions is required. If you need to participate asynchronously one week, for whatever reason, just let me know in advance (on Zulip).
 
-As in a traditional classroom, some days you will want to speak (i.e., write in the chatroom) more than others, and that's fine. But please say something **at least once per class**. This way there is a record of your participation.
+As in a traditional classroom, some days you will want to speak (i.e., write in the chatroom) more than others, and that's fine. But please say something thoughtful **at least once per class**. This way there is a record of your participation.
 
 ### Course Communication 
 
-Feel free to chime in on the course chat throughout the week, with any questions or comments you might have. I'll usually be there once every couple of days. Please use the public channels for any course-related questions you have, unless they are of a private nature (e.g., grades), in which case please message me privately on Zulip, as I will answer faster there than through email. Discussion about specific textual passages might be better placed in annotations, in the margins of the text, using our annotation platform. See *Annotations*," below. 
+Feel free to chime in on the course chat throughout the week, with any questions or comments you might have. I'll usually be there once every couple of days. Please use the public channels for any course-related questions you have, unless they are of a private nature (e.g., grades), in which case please message me privately on Zulip, as I will answer faster there than through email. Discussion about specific textual passages might be better placed in annotations, in the margins of the text, using our annotation platform. See [Annotations](#annotations), below. 
 
 ### Labs
 
@@ -73,10 +74,11 @@ To get set up for this course, you will need:
 
 Now that we have that, let's get started! First, let's set up a couple of accounts:
 
-1.  Create an account on [our Zulip chatroom](https://icla2020b.zulipchat.com/). **Please use your real/preferred name as your username and display name, so that I can identify you.**
-2.  Introduce yourself to everyone in the chatroom. 
-3.  Sign up for a user account on [hypothes.is](https://hypothes.is), our annotation platform. **Please use the same username you used for Zulip.**
-4.  Download and install [Anaconda](https://www.anaconda.com/products/individual), a Python distribution, which contains a lot of useful data science packages.
+1. Create an account on [our Zulip chatroom](https://icla2020b.zulipchat.com/). **Please use your real/preferred name as your username and display name, so that I can identify you.**
+2. Complete your profile on Zulip. Please add a picture of yourself, and fill out all the profile fields.
+3. Introduce yourself to everyone in the chatroom. 
+4. Sign up for a user account on [hypothes.is](https://hypothes.is), our annotation platform. **Please use the same username you used for Zulip.**
+5. Download and install [Anaconda](https://www.anaconda.com/products/individual), a Python distribution, which contains a lot of useful data science packages.
 
 ## Extra Resources
 
@@ -84,7 +86,7 @@ You will likely need some extra help at some point, either for the literary aspe
 
 ### Programming Resources
 
-If you want some extra help, or want to read a little more about some of the things we're doing, there are plenty of resources out there. If you want a second opinion about a question, or have questions that we can't answer in the chatroom, a good website for getting help with programming is [StackOverflow](https://stackoverflow.com). Also, the Internet is full of Python learning resources. One of my favorites is [CodeCademy](https://codecademy.com), which has a game-like interactive interface, badges, and more. 
+If you want some extra help, or want to read a little more about some of the things we're doing, there are plenty of resources out there. If you want a second opinion about a question, or have questions that we can't answer in the chatroom, a good website for getting help with programming is [StackOverflow](https://stackoverflow.com). Also, the Internet is full of Python learning resources. One of my favorites is [CodeCademy](https://codecademy.com), which has a game-like interactive interface, badges, and more. There's also the fantastic interactive textbook [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html), which is the textbook for *Computing in Context,* the introduction to Python at Columbia's Computer Science department.
 
 Resources related to text analysis include, but are by no means limited to:
 
@@ -101,7 +103,7 @@ A colleague and I have also put together a few guides for beginning programming:
 
 If you're feeling like you need some help catching up with literary-critical terminology, or traditions of scholarship, here is a list of useful reference volumes, some of which are available online:
 
-- The Broadview and Norton Critical Editions listed below.
+- The Broadview and Norton Critical Editions [listed below](#readings).
 - [Abrams, *A Glossary of Literary Terms*](https://clio.columbia.edu/catalog/8603870)
 - [A Companion to the Victorian Novel](https://clio.columbia.edu/catalog/10624213)
 - [The Cambridge Companion to Modernism](https://clio.columbia.edu/catalog/9315439?counter=2)
@@ -111,7 +113,7 @@ If you're feeling like you need some help catching up with literary-critical ter
 Coursework falls into three categories:
 
   - Weekly Annotations and Discussions (40% of final grade)
-    - Thus: half annotations, half class discussions. 
+    - Thus: 20% annotations, 20% class discussions. 
   - Homework Assignments (30% of final grade)
   - Final Project (30% of final grade)
 
@@ -119,7 +121,7 @@ And of course, there are three course readings: one novel and two short story co
 
 ### Readings
 
-All readings are provided in digital form on the course website. They are one entire novel and a few selected short stories: 
+All readings are provided in digital form on the course website. They are one novel and several short stories: 
 
   - [Wilkie Collins, *The Moonstone*](texts/moonstone.html)
   - [Katherine Mansfield, *The Garden Party and Other Stories*](texts/garden-party.html)
@@ -146,7 +148,7 @@ You may respond to another student's annotation for one or two of your annotatio
 
 ### Homework
 
-Four short homework assignments, of 3-15 questions each, will be assigned, and are due the following week, before our discussion starts. Jupyter notebook templates for each will be provided. **Since we'll review the homework answers at the beginning of each week, late work cannot be accepted**. Please submit homework assignments on CourseWorks. If you're auditing the course, or not yet in the course roster yet, just email me your homework notebook.
+Four short homework assignments, of 3-15 questions each, will be assigned, and are due the following week, before our discussion starts. Jupyter notebook templates for each will be provided. **Since we'll review the homework answers at the beginning of each week, late work cannot be accepted**. Please submit homework assignments on CourseWorks. If you're auditing the course, or not yet in the course roster, just email me your homework notebook.
 
 Feel free to consult with others, on Zulip, for hints or directions for homework problems. Just don't share any answers, and make sure that your work is ultimately your own.
 
@@ -166,7 +168,7 @@ Final papers will be evaluated according to the:
 
 As with homework, please submit these on CourseWorks, or email them to me if you don't have access to CourseWorks. You may optionally submit your final project to the course git repository, making it public, for a 5% bonus.
 
-[For a more thorough set of recommendations and instructions for the final project, see the final-project-instructions.md file in the course repository.]()
+[For a more thorough set of recommendations and instructions for the final project, see the final-project-instructions.md file in the course repository.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Resources/final-project-instructions.md)
 
 # Schedule
 
@@ -232,20 +234,20 @@ Note: this schedule is subject to some change, so please check the course websit
   - Reading: ["An Ideal Family"](https://icla2020b.jonreeve.com/texts/garden-party.html#14-an-ideal-family)
   - **Homework 3 due**
 
-## Week 10  2020-11-11
+## Week 10: 2020-11-11: Probabilistic Approaches
 
   - Reading: ["The Sisters," "An Encounter"](https://icla2020b.jonreeve.com/texts/dubliners.html#the-sisters)
   - [Lecture 17: SpaCy and Named Entity Recognition](https://us.tv/videos/watch/de141ebc-7107-460b-8b08-2028d87d0c2f)
   - [Lecture 18: Sentiment Analysis and Macro-Etymological Analysis](https://us.tv/videos/watch/dfc8dc0f-c7f0-4761-b176-425cbd8b27c3)
   - [Homework 4 assigned.]()
 
-## Week 11 2020-11-18
+## Week 11 2020-11-18: Syntactic Analysis II
 
   - Reading: ["Araby", "Eveline"](https://icla2020b.jonreeve.com/texts/dubliners.html#araby)
   - [Lecture 19: Sentence Structure Analysis Using SpaCy](https://us.tv/videos/watch/3685dcb2-1bc2-4618-b227-7ad00fb811b4)
   - **Homework 4 Due**
 
-## Week 12 2020-12-02
+## Week 12 2020-12-02: Graph (Network) Analysis
 
   - [Lecture 20: Social Network Analysis]()
   - Reading: ["The Boarding House"](https://icla2020b.jonreeve.com/texts/dubliners.html#the-boarding-house)
