@@ -11,7 +11,7 @@ Welcome! Here you'll find all the course information for Introduction to Computa
 ## Course Details 
 
   - ENCL UN3612: Introduction to Computational Literary Analysis
-  - Department of English and Comparative Literature
+  - Department of English and Comparative Literature, Columbia University
   - Instructor: Jonathan Reeve
   - Discussion sections: 13:00–14:00, New York City time, [in the course chatroom on Zulip](https://icla2020b.jonreeve.com)
   - Lab time: Fridays, 14:00-15:00, [in live video chat on Jitsi](https://meet.jit.si/icla2020b)
