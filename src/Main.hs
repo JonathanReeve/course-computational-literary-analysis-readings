@@ -88,9 +88,8 @@ renderPage route val = html_ [lang_ "en"] $ do
         a_ [href_ "https://icla2020b.zulipchat.com"] "Chat"
         " // "
         a_ [href_ "/texts/moonstone.html"] "The Moonstone"
-        " // "
-        -- a_ [href_ "index.html#week-4-word-frequency-analyses"] "This Week"
-        a_ [href_ ""] "This Week"
+        -- " // "
+        -- a_ [id_ "thisweek", href_ "#"] "This Week"
     h1_ routeTitle
     case route of
       Route_Index -> do
@@ -106,6 +105,7 @@ renderPage route val = html_ [lang_ "en"] $ do
             "This course material is released under "
             a_ [href_ "https://creativecommons.org/licenses/by-sa/2.0/"] "the CC-BY-SA license."
           script_ [src_ "https://hypothes.is/embed.js"] T.empty
+          script_ [src_ "/static/thisweek.js"] T.empty
  where
     routeTitle :: Html ()
     routeTitle = case route of

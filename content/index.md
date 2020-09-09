@@ -1,10 +1,8 @@
 ---
 title: Introduction to Computational Literary Analysis, Fall 2020
 author: Jonathan Reeve
-date: 2020-09-02
+date: 2020-09-08
 ---
-
-**Nota bene: this is a draft syllabus, and will not be guaranteed to be complete until the course start date.**
 
 Welcome! Here you'll find all the course information for Introduction to Computational Literary Analysis, a course taught at Columbia University in Fall 2020. Please read this syllabus completely.
 
