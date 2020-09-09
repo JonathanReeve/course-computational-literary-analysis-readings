@@ -174,7 +174,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ## Week 1, 2020-09-09: Course Intro.
 
-  - [Lecture 1: Introduction.]() **NB: Link forthcoming.**
+  - [Lecture 1: Introduction.](https://us.tv/videos/watch/0c8e453b-18ce-4ceb-b622-2ac81011ce3d)
   - [Lecture 2: Getting Started](https://us.tv/videos/watch/ac6f30c0-1336-4ea0-8463-83f34855e58f)
   - Read the syllabus in full. 
   - Complete the steps in the section "Getting Started," above.
