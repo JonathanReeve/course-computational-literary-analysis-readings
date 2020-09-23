@@ -190,7 +190,7 @@ Note: this schedule is subject to some change, so please check the course websit
   - [Lecture 5: Working with Files](https://us.tv/videos/watch/45d9ff42-5122-4ece-a778-b2c1241a8afa)
   - [Lecture 6: Introducing the NLTK](https://us.tv/videos/watch/af7600f0-8f0e-4d04-bd8f-65053e4f66af)
   - Reading: [First Period, Complete](/texts/moonstone.html#chapter-xi)
-  - [Homework 1 assigned.]()
+  - [Homework 1 assigned.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW1.ipynb)
 
 ## Week 4, 2020-09-30: Working with Words
 
