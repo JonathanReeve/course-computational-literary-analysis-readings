@@ -209,7 +209,7 @@ Note: this schedule is subject to some change, so please check the course websit
   - [Lecture 10: Narrative Time Analysis and N-Grams](https://us.tv/videos/watch/2c9850e7-c674-4ccc-89b6-a126b3653808)
   - [Lecture 11: WordNet and WordNet-Based Analysis](https://us.tv/videos/watch/43e864f3-455b-41f3-a10f-db2a697ab6e4)
   - Reading: [The Moonstone, Complete](http://icla2020b.jonreeve.com/texts/moonstone.html#second-narrative)
-  - [Homework 2 Assigned]()
+  - [Homework 2 Assigned](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW2.ipynb)
 
 ## Week 7 2020-10-21: Syntactic Analysis
 
