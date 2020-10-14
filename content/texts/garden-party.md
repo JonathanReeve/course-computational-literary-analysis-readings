@@ -5,29 +5,11 @@ editor: Jonathan Reeve
 rights: Public Domain
 source: Project Gutenberg
 publication-date: 2019
-toc:
-- At the Bay
-- The Garden Party
-- The Daughters of the Late Colonel
-- Mr. and Mrs. Dove
-- The Young Girl
-- Life of Ma Parker
-- Marriage a la Mode
-- The Voyage
-- Miss Brill
-- Her First Ball
-- The Singing Lesson
-- The Stranger
-- Bank Holiday
-- An Ideal Family
-- The Ladys Maid
 ---
 
-1. At the Bay.
---------------
+# At the Bay
 
-Chapter 1.I.
-------------
+## I
 
 Very early morning. The sun was not yet risen, and the whole of Crescent
 Bay was hidden under a white sea-mist. The big bush-covered hills at the
@@ -123,8 +105,7 @@ after out of sight.
 
 
 
-Chapter 1.II.
--------------
+## II
 
 A few moments later the back door of one of the bungalows opened, and a
 figure in a broad-striped bathing suit flung down the paddock, cleared
@@ -160,7 +141,7 @@ below." You would be! thought Stanley. He could stick no more of it. He
 stopped splashing. "Look here, Trout," he said, "I'm in rather a
 hurry this morning."
 
-"You're WHAT?" Jonathan was so surprised---or pretended to be---that
+"You're *what*?" Jonathan was so surprised---or pretended to be---that
 he sank under the water, then reappeared again blowing.
 
 "All I mean is," said Stanley, "I've no time to---to---to fool
@@ -198,8 +179,7 @@ And stalking up the beach, shivering, all his muscles tight, he too felt
 his bathe was spoilt. He'd stayed in too long.
 
 
-Chapter 1.III.
---------------
+## III
 
 Beryl was alone in the living-room when Stanley appeared, wearing a blue
 serge suit, a stiff collar and a spotted tie. He looked almost uncannily
@@ -349,10 +329,9 @@ too was a man and drowning was too good for them.
 
 
 
-Chapter 1.IV.
--------------
+## IV
 
-### "Wait for me, Isa-bel! Kezia, wait for me!"
+"Wait for me, Isa-bel! Kezia, wait for me!"
 
 There was poor little Lottie, left behind again, because she found it so
 fearfully hard to get over the stile by herself. When she stood on the
@@ -485,8 +464,7 @@ a star and far more beautiful.
 
 
 
-Chapter 1.V.
-------------
+## V
 
 As the morning lengthened whole parties appeared over the sand-hills and
 came down on the beach to bathe. It was understood that at eleven
@@ -637,8 +615,7 @@ just her chin touching, like a horrible caricature of her husband.
 
 
 
-Chapter 1.VI.
--------------
+## VI
 
 In a steamer chair, under a manuka tree that grew in the middle of the
 front grass patch, Linda Burnell dreamed the morning away. She did
@@ -766,8 +743,7 @@ tremendous effort and rolled right over.
 
 
 
-Chapter 1.VII.
---------------
+## VII
 
 The tide was out; the beach was deserted; lazily flopped the warm sea.
 The sun beat down, beat down hot and fiery on the fine sand, baking the
@@ -923,8 +899,7 @@ Both of them had forgotten what the "never" was about.
 
 
 
-Chapter 1.VIII.
----------------
+## VIII
 
 The sun was still full on the garden when the back door of the
 Burnells' shut with a bang, and a very gay figure walked down the path
@@ -961,7 +936,7 @@ now." But that was hardly company.
 
 Mrs. Stubbs's shop was perched on a little hillock just off the road.
 It had two big windows for eyes, a broad veranda for a hat, and the sign
-on the roof, scrawled MRS. STUBBS'S, was like a little card stuck
+on the roof, scrawled *Mrs. Stubbs's*, was like a little card stuck
 rakishly in the hat crown.
 
 On the veranda there hung a long string of bathing-dresses, clinging
@@ -1064,8 +1039,7 @@ in it again.
 
 
 
-Chapter 1.IX.
--------------
+## IX
 
 A strange company assembled in the Burnells' washhouse after tea. Round
 the table there sat a bull, a rooster, a donkey that kept forgetting it
@@ -1244,8 +1218,7 @@ opened for Uncle Jonathan. He had come to take the little boys home.
 
 
 
-Chapter 1.X.
-------------
+## X
 
 He had meant to be there before, but in the front garden he had come
 upon Linda walking up and down the grass, stopping to pick off a dead
@@ -1400,8 +1373,7 @@ go seek those heirs to my fame and fortune\... " He was gone.
 
 
 
-Chapter 1.XI.
--------------
+## XI
 
 Light shone in the windows of the bungalow. Two square patches of gold
 fell upon the pinks and the peaked marigolds. Florrie, the cat, came out
@@ -1462,8 +1434,7 @@ go in," said he.
 
 
 
-Chapter 1.XII.
---------------
+## XII
 
 Why does one feel so different at night? Why is it so exciting to be
 awake when everybody else is asleep? Late---it is very late! And yet
@@ -1637,8 +1608,7 @@ Nobody answered him.
 
 
 
-Chapter 1.XIII.
----------------
+## XIII
 
 A cloud, small, serene, floated across the moon. In that moment of
 darkness the sea sounded deep, troubled. Then the cloud sailed away, and
@@ -1646,8 +1616,7 @@ the sound of the sea was a vague murmur, as though it waked out of a
 dark dream. All was still.
 
 
-2. THE GARDEN PARTY.
---------------------
+# The Garden Party
 
 And after all the weather was ideal. They could not have had a more
 perfect day for a garden-party if they had ordered it. Windless, warm,
@@ -2350,13 +2319,11 @@ He quite understood.
 
 
 
-3. THE DAUGHTERS OF THE LATE COLONEL.
--------------------------------------
+# The Daughters of the Late Colonel
 
 
 
-Chapter 3.I.
-------------
+## I
 
 The week after was one of the busiest weeks of their lives. Even when
 they went to bed it was only their bodies that lay down and rested;
@@ -2465,8 +2432,7 @@ pillow.
 
 
 
-Chapter 3.II.
--------------
+## II
 
 Another thing which complicated matters was they had Nurse Andrews
 staying on with them that week. It was their own fault; they had asked
@@ -2552,8 +2518,7 @@ marmalayde."
 
 
 
-Chapter 3.III.
---------------
+## III
 
 But, after all, it was not long now, and then she'd be gone for good.
 And there was no getting over the fact that she had been very kind to
@@ -2573,8 +2538,7 @@ no---one eye only. It glared at them a moment and then\... went out.
 
 
 
-Chapter 3.IV.
--------------
+## IV
 
 It had made it very awkward for them when Mr. Farolles, of St. John's,
 called the same afternoon.
@@ -2643,8 +2607,7 @@ find him very helpful indeed."
 
 
 
-Chapter 3.V.
-------------
+## V
 
 Well, at any rate, all that part of it was over, though neither of them
 could possibly believe that father was never coming back. Josephine had
@@ -2688,8 +2651,7 @@ will never forgive us for this---never!"
 
 
 
-Chapter 3.VI.
--------------
+## VI
 
 Father would never forgive them. That was what they felt more than ever
 when, two mornings later, they went into his room to go through his
@@ -2813,8 +2775,7 @@ pushed Benny into the round pond.
 
 
 
-Chapter 3.VII.
---------------
+## VII
 
 But the strain told on them when they were back in the dining-room. They
 sat down, very shaky, and looked at each other.
@@ -2889,8 +2850,7 @@ all that time it was."
 
 
 
-Chapter 3.VIII.
----------------
+## VIII
 
 Josephine made no reply. She had flown off on one of her tangents. She
 had suddenly thought of Cyril. Wasn't it more usual for the only
@@ -2998,8 +2958,7 @@ Cyril still lingered. "Aren't you coming along, Auntie Con?"
 
 
 
-Chapter 3.IX.
--------------
+## IX
 
 They knocked at the door, and Cyril followed his aunts into
 grandfather's hot, sweetish room.
@@ -3079,8 +3038,7 @@ time he came there was some little trouble about the time."
 
 
 
-Chapter 3.X.
-------------
+## X
 
 They were interrupted by Kate bursting through the door in her usual
 fashion, as though she had discovered some secret panel in the wall.
@@ -3173,8 +3131,7 @@ I've never been able to quite make up my mind?"
 
 
 
-Chapter 3.XI.
--------------
+## XI
 
 She never had. The whole difficulty was to prove anything. How did one
 prove things, how could one? Suppose Kate had stood in front of her and
@@ -3209,8 +3166,7 @@ it this time---"
 
 
 
-Chapter 3.XII.
---------------
+## XII
 
 But at that moment in the street below a barrel-organ struck up.
 Josephine and Constantia sprang to their feet together.
@@ -3351,8 +3307,7 @@ sun had been. Then she replied shortly, "I've forgotten too."
 
 
 
-4. MR. AND MRS. DOVE.
----------------------
+# Mr. and Mrs. Dove
 
 Of course he knew---no man better---that he hadn't a ghost of a chance,
 he hadn't an earthly. The very idea of such a thing was preposterous.
@@ -3700,8 +3655,7 @@ lawn.
 
 
 
-5. THE YOUNG GIRL.
-------------------
+# The Young Girl
 
 In her blue dress, with her cheeks lightly flushed, her blue, blue eyes,
 and her gold curls pinned up as though for the first time---pinned up to
@@ -3984,8 +3938,7 @@ dark bud.
 
 
 
-6. LIFE OF MA PARKER.
----------------------
+# Life of Ma Parker
 
 When the literary gentleman, whose flat old Ma Parker cleaned every
 Tuesday, opened the door to her that morning, he asked after her
@@ -4273,8 +4226,7 @@ into a balloon. And now it began to rain. There was nowhere.
 
 
 
-7. MARRIAGE A LA MODE.
-----------------------
+# Marriage a la Mode
 
 On his way to the station William remembered with a fresh pang of
 disappointment that he was taking nothing down to the kiddies. Poor
@@ -4756,8 +4708,7 @@ And, laughing, in the new way, she ran down the stairs.
 
 
 
-8. THE VOYAGE.
---------------
+# The Voyage
 
 The Picton boat was due to leave at half-past eleven. It was a beautiful
 night, mild, starry, only when they got out of the cab and started to
@@ -5128,8 +5079,7 @@ her.
 
 
 
-9. MISS BRILL.
---------------
+# Miss Brill
 
 Although it was so brilliantly fine---the blue sky powdered with gold
 and great spots of light like white wine splashed over the Jardins
@@ -5315,8 +5265,7 @@ heard something crying.
 
 
 
-10. HER FIRST BALL.
--------------------
+# Her First Ball
 
 Exactly when the ball began Leila would have found it hard to say.
 Perhaps her first real partner was the cab. It did not matter that she
@@ -5598,8 +5547,7 @@ didn't even recognise him again.
 
 
 
-11. THE SINGING LESSON.
------------------------
+# The Singing Lesson
 
 With despair---cold, sharp despair---buried deep in her heart like a
 wicked knife, Miss Meadows, in cap and gown and carrying a little baton,
@@ -5841,8 +5789,7 @@ voices---full, deep, glowing with expression.
 
 
 
-12. THE STRANGER
-----------------
+# The Stranger
 
 It seemed to the little crowd on the wharf that she was never going to
 move again. There she lay, immense, motionless on the grey crinkled
@@ -6401,8 +6348,7 @@ never be alone together again.
 
 
 
-13. BANK HOLIDAY.
------------------
+# Bank Holiday
 
 A stout man with a pink face wears dingy white flannel trousers, a blue
 coat with a pink handkerchief showing, and a straw hat much too small
@@ -6543,8 +6489,7 @@ the full, bright, dazzling radiance to\... what?
 
 
 
-14. AN IDEAL FAMILY.
---------------------
+# An Ideal Family
 
 That evening for the first time in his life, as he pressed through the
 swing door and descended the three broad steps to the pavement, old Mr.
@@ -6828,8 +6773,7 @@ table, sir!"
 
 
 
-15. The Lady's Maid
----------------------
+# The Lady's Maid
 
 Eleven o'clock. A knock at the door\... I hope I haven't disturbed
 you, madam. You weren't asleep---were you? But I've just given my lady
