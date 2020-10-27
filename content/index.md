@@ -223,7 +223,7 @@ Note: this schedule is subject to some change, so please check the course websit
   - Reading: ["Marriage à la Mode"](https://icla2020b.jonreeve.com/texts/garden-party.html#7-marriage-a-la-mode)
   - [Lecture 13: Corpora continued. Scikit-learn.](https://us.tv/videos/watch/32f6b7e5-b882-4ad8-bac7-c084b4afb30d)
   - [Lecture 14: Stylometry, Corpus-DB](https://us.tv/videos/watch/052b57d0-08d6-4908-ae6a-92fb448c7738)
-  - [Homework 3 assigned.]()
+  - [Homework 3 assigned.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW3.ipynb)
 
 ## Week 9 2020-11-04: Corpora Cont'd
 
