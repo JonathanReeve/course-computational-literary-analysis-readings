@@ -247,7 +247,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ## Week 12 2020-12-02: Graph (Network) Analysis
 
-  - [Lecture 20: Social Network Analysis]()
+  - [Lecture 20: Social Network Analysis](https://us.tv/videos/watch/f0d5cd5c-e162-4c0b-ac4a-1c59bc36c1f0)
   - Reading: ["The Boarding House"](https://icla2020b.jonreeve.com/texts/dubliners.html#the-boarding-house)
   - Reading: ["Clay"](https://icla2020b.jonreeve.com/texts/dubliners.html#clay)
 
