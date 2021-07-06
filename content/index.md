@@ -114,7 +114,7 @@ If you're feeling like you need some help catching up with literary-critical ter
 
 Coursework falls into three categories:
 
-  - Weekly Annotations and Discussions (40% of final grade)
+  - Daily Annotations and Discussions (40% of final grade)
     - Thus: 20% annotations, 20% class discussions. 
   - Homework Assignments (30% of final grade)
   - Final Project (30% of final grade)
@@ -179,17 +179,18 @@ Note: this schedule is subject to some change, so please check the course websit
 - Text: Wilkie Collins, *The Moonstone*
 - Tools: Python (Anaconda)
 
-### Unit 1.1 \<2021-07-06\>: Course intro.
+### Unit 1.1. Tuesday, 2021-07-06: Course intro.
 
-  - [Lecture: introduction.]() [Lecture video will be posted here as soon as it is available.]
+  - [Lecture: introduction.](https://www.youtube.com/watch?v=RrC26jeaWvo)
   - Motivation: what is possible with computational literary analysis?
+  - Assignment: please follow all steps in [the "Getting Started" section](#getting-started)
 
-### Unit 1.2 \<2021-07-07\>: Installing Python. Python 2 v. 3. Jupyter. Strings.
+### Unit 1.2. Wednesday, 2021-07-07: Installing Python. Python 2 v. 3. Jupyter. Strings.
 
   - [Lecture 2: Getting Started]() [Lecture video will be posted here as soon as it is available.]
   - Reading: [*The Moonstone*, First Period, Through Chapter VII](/texts/moonstone.html#prologue)
 
-### Unit 1.3 \<2021-07-08\>: Working with strings, lists, and dictionaries.
+### Unit 1.3. Thursday, 2021-07-08: Working with strings, lists, and dictionaries.
 
   - [Lecture 3: String Methods and For Loops]() [Lecture video will be posted here as soon as it is available.]
   - Reading: [First Period, Through Chapter XI](/texts/moonstone.html#chapter-vii)
@@ -200,23 +201,23 @@ Note: this schedule is subject to some change, so please check the course websit
  - Text: *The Moonstone*, Continued
  - Tools: Natural Language ToolKit (NLTK)
 
-### Unit 2.1 \<2021-07-13\>: Review of Week 1 and Homework 1. Working with files.
+### Unit 2.1. Monday, 2021-07-12: Review of Week 1 and Homework 1. Working with files.
 
   - Text: First Period, Complete.
   - [Lecture 5: Working with Files]()
   - **Homework 1 due**
 
-### Unit 2.2 \<2021-07-14\>: Working with words. Tokenization techniques. The NLTK. 
+### Unit 2.2. Tuesday, 2021-07-13: Working with words. Tokenization techniques. The NLTK. 
 
   - [Lecture 6: Introducing the NLTK]()
   - Reading: [*The Moonstone*, Through Chapter XVII](/texts/moonstone.html#chapter-vii)
 
-### Unit 2.3 \<2021-07-15\>: Stems, lemmas, and functions.
+### Unit 2.3. Wednesday, 2021-07-15: Stems, lemmas, and functions.
 
   - Text: Second Period, First Narrative (Miss Clack)
   - [Lecture 7: Stems, Lemmas, Functions]()
 
-### Unit 2.4: \<2021-07-16\>: Text statistics with the NLTK. Type / token ratios. 
+### Unit 2.4. Thursday, 2021-07-16: Text statistics with the NLTK. Type / token ratios. 
 
   - Text: Second Period, Second Narrative (Mr. Bruff)
   - Text: Second Period, Third Narrative
