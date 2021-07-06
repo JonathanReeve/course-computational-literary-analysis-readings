@@ -98,7 +98,6 @@ renderPage route val = html_ [lang_ "en"] $ do
         article_ $ do
           details_ [] $ do
             summary_ [] "Table of Contents"
-<<<<<<< HEAD
             section_ [] (PandocUtils.getToC val)
           section_ [] $ PandocUtils.render $ usingSideNotes val
         footer_ $ do
@@ -106,12 +105,6 @@ renderPage route val = html_ [lang_ "en"] $ do
             "This course material is released under "
             a_ [href_ "https://creativecommons.org/licenses/by-sa/2.0/"] "the CC-BY-SA license."
           script_ [src_ "https://hypothes.is/embed.js"] T.empty
-          script_ [src_ "/static/thisweek.js"] T.empty
-=======
-            section_ [] (Pandoc.getToC val)
-          section_ [] (Pandoc.render val)
-        script_ [src_ "https://hypothes.is/embed.js"] T.empty
->>>>>>> 2021
  where
     routeTitle :: Html ()
     routeTitle = case route of
