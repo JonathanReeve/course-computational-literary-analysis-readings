@@ -2,7 +2,7 @@
 
 This is the website containing course readings for the course Introduction to Computational Literary Analysis, taught at Columbia University in Fall 2020. 
 
-**Please refer to the course website for more information: https://icla2020b.jonreeve.com**
+**Please refer to the course website for more information: https://icla2021.jonreeve.com**
 
 ## Technical Details 
 
