@@ -83,18 +83,15 @@ renderPage route val = html_ [lang_ "en"] $ do
       nav_ $ do
         a_ [href_ "/"] "Introduction to Computational Literary Analysis"
         " // "
-        a_ [href_ "https://cla.zulipchat.com"] "Chat"
+        a_ [href_ "https://icla2021.zulipchat.com"] "Chat"
         " // "
         a_ [href_ "/texts/moonstone.html"] "The Moonstone"
-        " // "
-        -- a_ [href_ "index.html#week-4-word-frequency-analyses"] "This Week"
-        a_ [href_ "index.html#week-5-linguistic-techniques-ii"] "This Week"
     h1_ routeTitle
     case route of
       Route_Index -> do
         h2_ "Course Info"
         ul_ [] $ do
-          li_ [ class_ "pages" ] $ a_ [href_ "https://cla.zulipchat.com"] "Chat"
+          li_ [ class_ "pages" ] $ a_ [href_ "https://icla2021.zulipchat.com"] "Chat"
         h2_ "Readings"
         div_ $ do
           ul_ [] $
@@ -112,9 +109,7 @@ renderPage route val = html_ [lang_ "en"] $ do
             summary_ [] "Table of Contents"
             section_ [] (Pandoc.getToC val)
           section_ [] (Pandoc.render val)
-        footer_ $ do
-          p_ "footer text"
-          script_ [src_ "https://hypothes.is/embed.js"] T.empty
+        script_ [src_ "https://hypothes.is/embed.js"] T.empty
  where
     routeTitle :: Html ()
     routeTitle = case route of
