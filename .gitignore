@@ -1,6 +1,4 @@
 dist-newstyle
-content/.shake/
 dest/
 .direnv/
-content/.shake/
 content/.shake/.shake.database
