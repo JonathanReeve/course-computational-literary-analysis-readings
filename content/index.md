@@ -181,7 +181,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ### Unit 1.1. Tuesday, 2021-07-06: Course intro.
 
-  - [Lecture: introduction.](https://www.youtube.com/watch?v=RrC26jeaWvo)
+  - [Lecture: introduction.](https://peertube.tv/videos/watch/90354bda-0a9e-46e5-9c94-07f9b5748e5e)
   - Motivation: what is possible with computational literary analysis?
   - Assignment: please follow all steps in [the "Getting Started" section](#getting-started)
 
