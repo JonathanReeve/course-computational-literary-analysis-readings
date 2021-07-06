@@ -17,7 +17,7 @@ Welcome! Here you'll find all the course information for Introduction to Computa
       - [(12:00 noon in Berkeley, 15:00 in New York)](https://time.is/compare/1900_6_July_2021_in_UTC/Berkeley/New_York/Beijing)
   - Open labs: Fridays, 12:00 noon to 13:00 Berkeley time. 
       - [Synchronous, here on Jitsi.](https://meet.jit.si/ComputationalLiteraryAnalysis)
-  - Email address: jonathan.reeve@columbia.edu
+  - Email address: jonathan.reeve@columbia.edu (but please communicate with me on Zulip whenever practical)
   - Course chatroom: https://icla2021.zulipchat.com/
   - Course website and course readings: https://icla2021.jonreeve.com
   - Course repository: https://github.com/JonathanReeve/course-computational-literary-analysis
@@ -64,7 +64,7 @@ Feel free to chime in on the course chat throughout the week, with any questions
 
 ### Labs
 
-These are synchronous videoconferences that happen every week, on Friday, from 14:00--15:00, [here on Jitsi](https://meet.jit.si/ComputationalLiteraryAnalysis). They are less formal than the discussion sections, and an ideal place to come and chat about the readings and/or programming assignments in real time. I recommended you attempt the homework assignments before coming, so that you can ask any questions you have about them during the lab. You're also welcome to join and just quietly work for the hour. I won't take attendance, but these labs are strongly recommended. 
+These are synchronous videoconferences that happen every week, on Friday, from 12:00--13:00, Berkeley time, [here on Jitsi](https://meet.jit.si/ComputationalLiteraryAnalysis). They are less formal than the discussion sections, and an ideal place to come and chat about the readings and/or programming assignments in real time. I recommended you attempt the homework assignments before coming, so that you can ask any questions you have about them during the lab. You're also welcome to join and just quietly work for the hour. I won't take attendance, but these labs are strongly recommended. 
 
 ## Getting Started
 
@@ -140,7 +140,7 @@ If you prefer to read on paper, or to supplement your reading with background in
 
 ### Annotations
 
-For each reading assignment, please write **3-4 annotations to our editions of the text**, using [hypothes.is](http://hypothes.is). Links are provided below. You'll have to sign up for a hypothes.is account first. As above, please use your real name as your username, so I know who you are. You may write about anything you want, but it will help your final project to think about ways in which computational analysis might help you to better understand what you observe in the text. Good annotations are:
+For each reading assignment, please write **2-3 annotations to our editions of the text**, using [hypothes.is](http://hypothes.is). Links are provided below. You'll have to sign up for a hypothes.is account first. As above, please use your real name as your username, so I know who you are. You may write about anything you want, but it will help your final project to think about ways in which computational analysis might help you to better understand what you observe in the text. Good annotations are:
 
   - Concise (think: a long tweet)
   - Well-written (although not too formal)
@@ -150,9 +150,9 @@ You may respond to another student's annotation for one or two of your annotatio
 
 ### Homework
 
-Four short homework assignments, of 3-15 questions each, will be assigned, and are due the following week, before our discussion starts. Jupyter notebook templates for each will be provided. **Since we'll review the homework answers at the beginning of each week, late work cannot be accepted**. Please submit homework assignments on CourseWorks. If you're auditing the course, or not yet in the course roster, just email me your homework notebook.
+Four short homework assignments, of 3-15 questions each, will be assigned, and are due the following week, on Monday, before our discussion starts. Jupyter notebook templates for each will be provided. **Since we'll review the homework answers at the beginning of each week, late work cannot be accepted**. Please submit homework assignments on CourseWorks. If you're auditing the course, or not yet in the course roster, just email me your homework notebook.
 
-Feel free to consult with others, on Zulip, for hints or directions for homework problems. Just don't share any answers, and make sure that your work is ultimately your own.
+Feel free to consult with others, on Zulip, for hints or directions for homework problems. Just don't share any answers verbatim, and make sure that your work is ultimately your own.
 
 ### Final Project
 
@@ -315,8 +315,8 @@ Tools: Scikit-Learn, SpaCy
 ### Unit 6.3 \<2021-08-12\>: Extras: Metadata APIs.
 
   - [Lecture 20: Social Network Analysis](https://us.tv/videos/watch/f0d5cd5c-e162-4c0b-ac4a-1c59bc36c1f0)
-  - Reading: ["The Boarding House"](https://icla2020b.jonreeve.com/texts/dubliners.html#the-boarding-house)
-  - Reading: ["Clay"](https://icla2020b.jonreeve.com/texts/dubliners.html#clay)
+  - Reading: ["The Boarding House"](https://icla2021.jonreeve.com/texts/dubliners.html#the-boarding-house)
+  - Reading: ["Clay"](https://icla2021.jonreeve.com/texts/dubliners.html#clay)
 
 ### Unit 6.4 \<2021-08-13\>: Final project presentations. Wrap-up.
 
