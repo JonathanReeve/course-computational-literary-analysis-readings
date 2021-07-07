@@ -181,13 +181,13 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ### Unit 1.1. Tuesday, 2021-07-06: Course intro.
 
-  - [Lecture: introduction.](https://peertube.tv/videos/watch/90354bda-0a9e-46e5-9c94-07f9b5748e5e)
+  - [Lecture 0: introduction.](https://www.youtube.com/watch?v=yji1aO-NELc)
   - Motivation: what is possible with computational literary analysis?
   - Assignment: please follow all steps in [the "Getting Started" section](#getting-started)
 
 ### Unit 1.2. Wednesday, 2021-07-07: Installing Python. Python 2 v. 3. Jupyter. Strings.
 
-  - [Lecture 2: Getting Started]() [Lecture video will be posted here as soon as it is available.]
+  - [Lecture 1: Getting Started](https://www.youtube.com/watch?v=gvGqxGyZBPs) 
   - Reading: [*The Moonstone*, First Period, Through Chapter VII](/texts/moonstone.html#prologue)
 
 ### Unit 1.3. Thursday, 2021-07-08: Working with strings, lists, and dictionaries.
