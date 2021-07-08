@@ -192,7 +192,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ### Unit 1.3. Thursday, 2021-07-08: Working with strings, lists, and dictionaries.
 
-  - [Lecture 3: String Methods and For Loops]() [Lecture video will be posted here as soon as it is available.]
+  - [Lecture 2: String Methods](https://www.youtube.com/watch?v=g9vOlQ7kiTo) 
   - Reading: [First Period, Through Chapter XI](/texts/moonstone.html#chapter-vii)
   - [Homework 1 assigned. Due Monday, 19:00 UTC (Noon, Berkeley time).]()
 
@@ -204,12 +204,12 @@ Note: this schedule is subject to some change, so please check the course websit
 ### Unit 2.1. Monday, 2021-07-12: Review of Week 1 and Homework 1. Working with files.
 
   - Text: First Period, Complete.
-  - [Lecture 5: Working with Files]()
+  - [Lecture 3: Lists, Dictionaries, If Statements](https://www.youtube.com/watch?v=EUwFQTEBjPU)
   - **Homework 1 due**
 
 ### Unit 2.2. Tuesday, 2021-07-13: Working with words. Tokenization techniques. The NLTK. 
 
-  - [Lecture 6: Introducing the NLTK]()
+  - [Lecture 4]
   - Reading: [*The Moonstone*, Through Chapter XVII](/texts/moonstone.html#chapter-vii)
 
 ### Unit 2.3. Wednesday, 2021-07-15: Stems, lemmas, and functions.
