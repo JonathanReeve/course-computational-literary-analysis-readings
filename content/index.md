@@ -48,7 +48,7 @@ Although this is usually a classroom-taught course, due to the global pandemic, 
 
 ### Lecture Videos
 
-In place of in-person lectures, I'll post lecture videos, every Wednesday, or earlier. Each video is between 30-70 minutes long, and is required viewing. Please watch the lecture videos before coming to discussion sections, so that we can all discuss it synchronously. Links will be posted to this syllabus. **Please resist the urge to watch lecture videos in advance, since they may change as I revise the course content.**
+In place of in-person lectures, I'll post lecture videos. Each video is between 30-70 minutes long, and is required viewing. Please watch the lecture videos before coming to discussion sections, so that we can all discuss it synchronously. Links will be posted to this syllabus. **Please resist the urge to watch lecture videos too far in advance, since they may change as I revise the course content.**
 
 ### Discussion Sections
 
@@ -150,7 +150,7 @@ You may respond to another student's annotation for one or two of your annotatio
 
 ### Homework
 
-Four short homework assignments, of 3-15 questions each, will be assigned, and are due the following week, on Monday, before our discussion starts. Jupyter notebook templates for each will be provided. **Since we'll review the homework answers at the beginning of each week, late work cannot be accepted**. Please submit homework assignments on CourseWorks. If you're auditing the course, or not yet in the course roster, just email me your homework notebook.
+Four short homework assignments, of around 10 questions each, will be assigned, and are due the following week, on Monday, before our discussion starts. Jupyter notebook templates for each will be provided. **Since we'll review the homework answers at the beginning of each week, late work cannot be accepted**. Please submit homework assignments to me via email—jonathan.reeve@columbia.edu.
 
 Feel free to consult with others, on Zulip, for hints or directions for homework problems. Just don't share any answers verbatim, and make sure that your work is ultimately your own.
 
@@ -203,49 +203,48 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ### Unit 2.1. Monday, 2021-07-12: Review of Week 1 and Homework 1. Working with files.
 
-  - Text: First Period, Complete.
   - [Lecture 3: Lists, Dictionaries, If Statements](https://www.youtube.com/watch?v=EUwFQTEBjPU)
+  - Reading: [First Period, Complete.](/texts/moonstone.html#chapter-xi)
   - **Homework 1 due**
 
 ### Unit 2.2. Tuesday, 2021-07-13: Working with words. Tokenization techniques. The NLTK. 
 
-  - [Lecture 4]
-  - Reading: [*The Moonstone*, Through Chapter XVII](/texts/moonstone.html#chapter-vii)
+  - [Lecture 4]() [This lecture will be posted here as soon as it's available.]
+  - Reading: [Second Period, First Narrative (Miss Clack)](/texts/moonstone.html#first-narrative)
 
-### Unit 2.3. Wednesday, 2021-07-15: Stems, lemmas, and functions.
+### Unit 2.3. Wednesday, 2021-07-14: Stems, lemmas, and functions.
 
-  - Text: Second Period, First Narrative (Miss Clack)
-  - [Lecture 7: Stems, Lemmas, Functions]()
+  - [Lecture 5]() [This lecture will be posted here as soon as it's available.]
+  - Reading: [Second Period, Second Narrative (Mr. Bruff)](/texts/moonstone.html#second-narrative)
 
-### Unit 2.4. Thursday, 2021-07-16: Text statistics with the NLTK. Type / token ratios. 
+### Unit 2.4. Thursday, 2021-07-15: Text statistics with the NLTK. Type / token ratios. 
 
-  - Text: Second Period, Second Narrative (Mr. Bruff)
-  - Text: Second Period, Third Narrative
-  - [Lecture 8: Types, Tokens, Counting Words]()
-  - Homework 2 assigned. 
+  - Reading: [Second Period, Third Narrative (Mr. Blake)](/texts/moonstone.html#third-narrative)
+  - [Lecture 6]() [This lecture will be posted here as soon as it's available.]
+  - [Homework 2 assigned.]
 
 ## Week 3: Word Frequency Analyses
 
  - Text: *The Moonstone* and Katherine Mansfield, *The Garden Party and Other Stories*
  - Tools: Scikit-Learn, Pandas
 
-### Unit 3.1 \<2021-07-20\>: Pandas and distinctive words.
+### Unit 3.1 2021-07-19: Pandas and distinctive words.
 
   - **Homework 2 due**
   - Text: Second Period, Fourth and Fifth Narratives
   - [Lecture 9: Pandas for Word Frequency Analysis. Distinctive words.]()
 
-### Unit 3.2 \<2021-07-21\>: N-grams and narrative-time analysis. 
+### Unit 3.2 2021-07-20: N-grams and narrative-time analysis. 
 
   - Text: *The Moonstone*, Complete.
   - [Lecture 10: Narrative Time Analysis and N-Grams]()
 
-### Unit 3.3 \<2021-07-22\>: WordNet and WordNet-based text analysis. Part-of-speech analyses.
+### Unit 3.3 2021-07-21: WordNet and WordNet-based text analysis. Part-of-speech analyses.
 
   - [Texts: "The Garden Party"](https://icla2021.jonreeve.com/texts/garden-party.html#2-the-garden-party)
   - [Lecture 11: WordNet and WordNet-Based Analysis]()
 
-### Unit 3.4 \<2021-07-23\>: Downloading, using, and iterating over corpora.
+### Unit 3.4 2021-07-22: Downloading, using, and iterating over corpora.
 
   - [Texts: "The Daughters of the Late Colonel"](https://icla2021.jonreeve.com/texts/garden-party.html#3-the-daughters-of-the-late-colonel)
   - [Lecture 12: POS cont'd. Corpora.]()
@@ -256,23 +255,23 @@ Note: this schedule is subject to some change, so please check the course websit
 Text: Katherine Mansfield, *The Garden Party and Other Stories*
 Tools: NLTK, SpaCy
 
-### Unit 4.1 \<2021-07-27\>: Review of Week 3 and Homework 3. Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.
+### Unit 4.1 2021-07-26: Review of Week 3 and Homework 3. Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.
 
   - **Homework 3 due**
   - [Texts: "The Young Girl"](https://icla2021.jonreeve.com/texts/garden-party.html#5-the-young-girl)
   - [Lecture 13: Corpora continued. Scikit-learn.]()
 
-### Unit 4.2 \<2021-07-28\>: Comparative stylometry. Corpus-DB.
+### Unit 4.2 2021-07-27: Comparative stylometry. Corpus-DB.
 
   - [Texts: "Marriage à la Mode"](https://icla2021.jonreeve.com/texts/garden-party.html#7-marriage-a-la-mode)
   - [Lecture 14: Stylometry, Corpus-DB]()
 
-### Unit 4.3 \<2021-07-29\>: Stylometry, continued.
+### Unit 4.3 2021-07-28: Stylometry, continued.
 
   - [Texts: "Her First Ball"](https://icla2021.jonreeve.com/texts/garden-party.html#10-her-first-ball)
   - [Lecture 15: Stylometry Cont'd.]()
 
-### Unit 4.4 \<2021-07-30\>: Topic modeling with LDA. Quote parsing.
+### Unit 4.4 2021-07-29: Topic modeling with LDA. Quote parsing.
 
   - [Texts: "An Ideal Family"](https://icla2021.jonreeve.com/texts/garden-party.html#14-an-ideal-family)
   - [Homework 4 assigned. Due Monday by 19:00 UTC (noon in Berkeley).](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW4.ipynb)
