@@ -194,7 +194,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
   - [Lecture 2: String Methods](https://www.youtube.com/watch?v=g9vOlQ7kiTo) 
   - Reading: [First Period, Through Chapter XI](/texts/moonstone.html#chapter-vii)
-  - [Homework 1 assigned. Due Monday, 19:00 UTC (Noon, Berkeley time).]()
+  - [Homework 1 assigned. Due Monday, 19:00 UTC (Noon, Berkeley time).](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW1.ipynb)
 
 ## Week 2: Basic Text Analysis
 
