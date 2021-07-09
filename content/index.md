@@ -15,7 +15,8 @@ Welcome! Here you'll find all the course information for Introduction to Computa
   - Lecture videos posted asynchronously, Mondays – Thursdays. (Find links in the course schedule below.) 
   - Discussion meetings: Monday–Thursday, at 12:00 noon Berkeley time, on Zulip. 
       - [(12:00 noon in Berkeley, 15:00 in New York)](https://time.is/compare/1900_6_July_2021_in_UTC/Berkeley/New_York/Beijing)
-  - Open labs: Fridays, 12:00 noon to 13:00 Berkeley time. 
+  - Open labs: Fridays, 10:00 to 11:00 Berkeley time. 
+      - [(10:00 in Berkeley, 13:00 in New York)](https://time.is/compare/1700_6_July_2021_in_UTC/Berkeley/New_York/Beijing)
       - [Synchronous, here on Jitsi.](https://meet.jit.si/ComputationalLiteraryAnalysis)
   - Email address: jonathan.reeve@columbia.edu (but please communicate with me on Zulip whenever practical)
   - Course chatroom: https://icla2021.zulipchat.com/
