@@ -210,18 +210,18 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ### Unit 2.2. Tuesday, 2021-07-13: Working with words. Tokenization techniques. The NLTK. 
 
-  - [Lecture 4]() [This lecture will be posted here as soon as it's available.]
+  - [Lecture 4: Files](https://www.youtube.com/watch?v=WONFR_aSw40) 
   - Reading: [Second Period, First Narrative (Miss Clack)](/texts/moonstone.html#first-narrative)
 
 ### Unit 2.3. Wednesday, 2021-07-14: Stems, lemmas, and functions.
 
-  - [Lecture 5]() [This lecture will be posted here as soon as it's available.]
+  - [Lecture 5](https://www.youtube.com/watch?v=uuAka56Cm44) 
   - Reading: [Second Period, Second Narrative (Mr. Bruff)](/texts/moonstone.html#second-narrative)
 
 ### Unit 2.4. Thursday, 2021-07-15: Text statistics with the NLTK. Type / token ratios. 
 
   - Reading: [Second Period, Third Narrative (Mr. Blake)](/texts/moonstone.html#third-narrative)
-  - [Lecture 6]() [This lecture will be posted here as soon as it's available.]
+  - [Lecture 6](https://www.youtube.com/watch?v=a1IIuSmPkUQ) 
   - [Homework 2 assigned.]
 
 ## Week 3: Word Frequency Analyses
