@@ -8,7 +8,7 @@ Welcome! Here you'll find all the course information for Introduction to Computa
 
 ## Course Details 
 
-  - DIGHUM 150C: Digital Humanties and Text and Language Analysis
+  - DIGHUM 150C: Digital Humanities and Text and Language Analysis
   - Summer Session D, 2021 (6 July – 14 August). Online-only this year.
   - Instructor: Jonathan Reeve
   - [Course description via UC-Berkeley](https://classes.berkeley.edu/content/2021-summer-dighum-150c-001-wbl-001)
@@ -222,7 +222,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
   - Reading: [Second Period, Third Narrative (Mr. Blake)](/texts/moonstone.html#third-narrative)
   - [Lecture 6](https://www.youtube.com/watch?v=a1IIuSmPkUQ) 
-  - [Homework 2 assigned.]
+  - [Homework 2 assigned.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW2.ipynb)
 
 ## Week 3: Word Frequency Analyses
 
