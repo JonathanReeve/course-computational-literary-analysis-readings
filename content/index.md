@@ -233,7 +233,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
   - **Homework 2 due**
   - Text: Second Period, Fourth and Fifth Narratives
-  - [Lecture 9: Pandas for Word Frequency Analysis. Distinctive words.]()
+  - [Lecture 9: Pandas for Word Frequency Analysis. Distinctive words.](https://www.youtube.com/watch?v=frIUMKXBtZI)
 
 ### Unit 3.2 2021-07-20: N-grams and narrative-time analysis. 
 
