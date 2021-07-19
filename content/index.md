@@ -202,26 +202,26 @@ Note: this schedule is subject to some change, so please check the course websit
  - Text: *The Moonstone*, Continued
  - Tools: Natural Language ToolKit (NLTK)
 
-### Unit 2.1. Monday, 2021-07-12: Review of Week 1 and Homework 1. Working with files.
+### Unit 2.1. Monday, 2021-07-12 
 
   - [Lecture 3: Lists, Dictionaries, If Statements](https://www.youtube.com/watch?v=EUwFQTEBjPU)
   - Reading: [First Period, Complete.](/texts/moonstone.html#chapter-xi)
   - **Homework 1 due**
 
-### Unit 2.2. Tuesday, 2021-07-13: Working with words. Tokenization techniques. The NLTK. 
+### Unit 2.2. Tuesday, 2021-07-13
 
   - [Lecture 4: Files](https://www.youtube.com/watch?v=WONFR_aSw40) 
   - Reading: [Second Period, First Narrative (Miss Clack)](/texts/moonstone.html#first-narrative)
 
-### Unit 2.3. Wednesday, 2021-07-14: Stems, lemmas, and functions.
+### Unit 2.3. Wednesday, 2021-07-14
 
-  - [Lecture 5](https://www.youtube.com/watch?v=uuAka56Cm44) 
+  - [Lecture 5: the NLTK](https://www.youtube.com/watch?v=uuAka56Cm44) 
   - Reading: [Second Period, Second Narrative (Mr. Bruff)](/texts/moonstone.html#second-narrative)
 
-### Unit 2.4. Thursday, 2021-07-15: Text statistics with the NLTK. Type / token ratios. 
+### Unit 2.4. Thursday, 2021-07-15
 
   - Reading: [Second Period, Third Narrative (Mr. Blake)](/texts/moonstone.html#third-narrative)
-  - [Lecture 6](https://www.youtube.com/watch?v=a1IIuSmPkUQ) 
+  - [Lecture 6: Stems and Lemmas](https://www.youtube.com/watch?v=a1IIuSmPkUQ) 
   - [Homework 2 assigned.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW2.ipynb)
 
 ## Week 3: Word Frequency Analyses
@@ -233,6 +233,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
   - **Homework 2 due**
   - Text: Second Period, Fourth and Fifth Narratives
+  - [Lecture 7: Types and Tokens](https://www.youtube.com/watch?v=HhQA__FKxj4)
   - [Lecture 8: Pandas for Word Frequency Analysis. Distinctive words.](https://www.youtube.com/watch?v=frIUMKXBtZI)
 
 ### Unit 3.2 2021-07-20: N-grams and narrative-time analysis. 
