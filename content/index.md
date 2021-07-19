@@ -233,22 +233,22 @@ Note: this schedule is subject to some change, so please check the course websit
 
   - **Homework 2 due**
   - Text: Second Period, Fourth and Fifth Narratives
-  - [Lecture 9: Pandas for Word Frequency Analysis. Distinctive words.](https://www.youtube.com/watch?v=frIUMKXBtZI)
+  - [Lecture 8: Pandas for Word Frequency Analysis. Distinctive words.](https://www.youtube.com/watch?v=frIUMKXBtZI)
 
 ### Unit 3.2 2021-07-20: N-grams and narrative-time analysis. 
 
   - Text: *The Moonstone*, Complete.
-  - [Lecture 10: Narrative Time Analysis and N-Grams]()
+  - [Lecture 9: Narrative Time Analysis and N-Grams](https://www.youtube.com/watch?v=jMN1XbMRE6s)
 
 ### Unit 3.3 2021-07-21: WordNet and WordNet-based text analysis. Part-of-speech analyses.
 
   - [Texts: "The Garden Party"](https://icla2021.jonreeve.com/texts/garden-party.html#2-the-garden-party)
-  - [Lecture 11: WordNet and WordNet-Based Analysis]()
+  - [Lecture 10: WordNet and WordNet-Based Analysis]()
 
 ### Unit 3.4 2021-07-22: Downloading, using, and iterating over corpora.
 
   - [Texts: "The Daughters of the Late Colonel"](https://icla2021.jonreeve.com/texts/garden-party.html#3-the-daughters-of-the-late-colonel)
-  - [Lecture 12: POS cont'd. Corpora.]()
+  - [Lecture 11: POS cont'd. Corpora.]()
   - [Homework 3 assigned. Due Monday, 7-27, at 19:00 UTC (noon Berkeley)](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW3.ipynb)
 
 ## Week 4: Linguistic Techniques I
