@@ -244,7 +244,7 @@ Note: this schedule is subject to some change, so please check the course websit
 ### Unit 3.3 2021-07-21: WordNet and WordNet-based text analysis. Part-of-speech analyses.
 
   - [Texts: "The Garden Party"](https://icla2021.jonreeve.com/texts/garden-party.html#2-the-garden-party)
-  - [Lecture 10: WordNet and WordNet-Based Analysis]()
+  - [Lecture 10: WordNet and WordNet-Based Analysis](https://youtu.be/jKN5HVUGYao)
 
 ### Unit 3.4 2021-07-22: Downloading, using, and iterating over corpora.
 
