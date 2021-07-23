@@ -261,17 +261,17 @@ Tools: NLTK, SpaCy
 
   - **Homework 3 due**
   - [Texts: "The Young Girl"](https://icla2021.jonreeve.com/texts/garden-party.html#5-the-young-girl)
-  - [Lecture 13: Corpora continued. Scikit-learn.]()
+  - [Lecture 12: Corpora continued. Scikit-learn.](https://www.youtube.com/watch?v=szJU_q7hnkk)
 
 ### Unit 4.2 2021-07-27: Comparative stylometry. Corpus-DB.
 
   - [Texts: "Marriage à la Mode"](https://icla2021.jonreeve.com/texts/garden-party.html#7-marriage-a-la-mode)
-  - [Lecture 14: Stylometry, Corpus-DB]()
+  - [Lecture 13: Stylometry, Corpus-DB]()
 
 ### Unit 4.3 2021-07-28: Stylometry, continued.
 
   - [Texts: "Her First Ball"](https://icla2021.jonreeve.com/texts/garden-party.html#10-her-first-ball)
-  - [Lecture 15: Stylometry Cont'd.]()
+  - [Lecture 14: Stylometry Cont'd.]()
 
 ### Unit 4.4 2021-07-29: Topic modeling with LDA. Quote parsing.
 
