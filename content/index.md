@@ -250,7 +250,7 @@ Note: this schedule is subject to some change, so please check the course websit
 
   - [Texts: "The Daughters of the Late Colonel"](https://icla2021.jonreeve.com/texts/garden-party.html#3-the-daughters-of-the-late-colonel)
   - [Lecture 11: POS cont'd. Corpora.](https://youtu.be/esuj7jOK2lE)
-  - [Homework 3 assigned. Due Monday, 7-27, at 19:00 UTC (noon Berkeley)]()
+  - [Homework 3 assigned. Due Monday, 7-26 at noon Berkeley time.)](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW3.ipynb)
 
 ## Week 4: Linguistic Techniques I
 
