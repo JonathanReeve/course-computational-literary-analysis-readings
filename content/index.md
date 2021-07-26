@@ -266,7 +266,7 @@ Tools: NLTK, SpaCy
 ### Unit 4.2 2021-07-27: Comparative stylometry. Corpus-DB.
 
   - [Texts: "Marriage à la Mode"](https://icla2021.jonreeve.com/texts/garden-party.html#7-marriage-a-la-mode)
-  - [Lecture 13: Stylometry, Corpus-DB]()
+  - [Lecture 13: Stylometry, Corpus-DB](https://www.youtube.com/watch?v=oNZiviyHVbE)
 
 ### Unit 4.3 2021-07-28: Stylometry, continued.
 
