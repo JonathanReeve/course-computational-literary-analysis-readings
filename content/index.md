@@ -271,12 +271,13 @@ Tools: NLTK, SpaCy
 ### Unit 4.3 2021-07-28: Stylometry, continued.
 
   - [Texts: "Her First Ball"](https://icla2021.jonreeve.com/texts/garden-party.html#10-her-first-ball)
-  - [Lecture 14: Stylometry Cont'd.]()
+  - [Lecture 14: Stylometry Cont'd.](https://www.youtube.com/watch?v=43_Egqq0hsQ)
 
 ### Unit 4.4 2021-07-29: Topic modeling with LDA. Quote parsing.
 
   - [Texts: "An Ideal Family"](https://icla2021.jonreeve.com/texts/garden-party.html#14-an-ideal-family)
   - [Homework 4 assigned. Due Monday by 19:00 UTC (noon in Berkeley).](https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis/-/blob/master/Homework/Yourname-HW4.ipynb)
+  - [Lecture 15: Topic Modeling](https://www.youtube.com/watch?v=5LKWD3fWyb0)
 
 ## Week 5: Linguistic Techniques II
 
