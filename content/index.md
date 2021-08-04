@@ -284,49 +284,43 @@ Tools: NLTK, SpaCy
 Text: James Joyce, *Dubliners*
 Tools: SpaCy
 
-### Unit 5.1 \<2021-08-03\>: Review of Week 4 and Homework 4. Using SpaCy. Named entity recognition.
+### Unit 5.1 2021-08-02: Review of Week 4 and Homework 4. Using SpaCy. Named entity recognition.
 
   - **Homework 4 due**
   - [Texts: "The Sisters," "An Encounter"](https://icla2021.jonreeve.com/texts/dubliners.html#the-sisters)
-  - [Lecture 17: SpaCy and Named Entity Recognition]()
+  - [Lecture 16: SpaCy and Named Entity Recognition](https://www.youtube.com/watch?v=OYHBujzwaGw)
 
-### Unit 5.2 \<2021-08-04\>: Intro to final project. Sentiment analysis. Macro-etymological analysis.
+### Unit 5.2 2021-08-03: Intro to final project. Sentiment analysis. Macro-etymological analysis.
 
   - [Texts: "Araby", "Eveline"](https://icla2021.jonreeve.com/texts/dubliners.html#araby)
-  - [Lecture 18: Sentiment Analysis and Macro-Etymological Analysis]()
+  - [Lecture 17: Sentiment Analysis and Macro-Etymological Analysis](https://www.youtube.com/watch?v=eYJMOwhNT70)
 
-### Unit 5.3 \<2021-08-05\>: Sentence structure analysis using SpaCy.
+### Unit 5.3 2021-08-04: Sentence structure analysis using SpaCy.
 
   - [Texts: "The Boarding House"](https://icla2021.jonreeve.com/texts/dubliners.html#the-boarding-house)
-  - [Lecture 19: Sentence Structure Analysis Using SpaCy]()
+  - [Lecture 18: Sentence Structure Analysis Using SpaCy](https://www.youtube.com/watch?v=G4qQVnzDZRk)
 
-### Unit 5.4 \<2021-08-06\>: Social Network Analysis
+### Unit 5.4 2021-08-05: Social Network Analysis
 
   - [Texts: "Clay"](https://icla2021.jonreeve.com/texts/dubliners.html#clay)
-  - Lecture 20: Social Network Analysis. 
+  - [Lecture 19: Social Network Analysis.](https://www.youtube.com/watch?v=qWDOXC9iFL8)
 
-## Week 6: Advanced Topics
+## Week 6: Advanced Topics, Extras
 
-Tools: Scikit-Learn, SpaCy
+Tools: SpaCy
 
-### Unit 6.1 \<2021-08-10\>: About the Final Project
+### Unit 6.1 2021-08-09: About the Final Project
 
-### Unit 6.2 \<2021-08-11\>: Extras: TEI XML.
+### Unit 6.2 2021-08-10: Extras: TEI XML.
 
- - Lecture 21: Extras: TEI XML
+### Unit 6.3 2021-08-11: Extras: Metadata APIs.
 
-### Unit 6.3 \<2021-08-12\>: Extras: Metadata APIs.
+### Unit 6.4 2021-08-12: Final project presentations. Wrap-up.
 
-  - [Lecture 20: Social Network Analysis](https://us.tv/videos/watch/f0d5cd5c-e162-4c0b-ac4a-1c59bc36c1f0)
-  - Reading: ["The Boarding House"](https://icla2021.jonreeve.com/texts/dubliners.html#the-boarding-house)
-  - Reading: ["Clay"](https://icla2021.jonreeve.com/texts/dubliners.html#clay)
-
-### Unit 6.4 \<2021-08-13\>: Final project presentations. Wrap-up.
-
- - Final project presentations due by 19:00 UTC. 
+ - Final project presentations due by noon, Berkeley time. 
  
-### \<2021-08-14\>: Final open lab.
+### 2021-08-13: Final open lab.
 
-### \<2021-08-15\>: Final projects due.
+### 2021-08-15: Final projects due.
 
- - [Final project notebooks due, via email, by the end of the day.]
+ - Final project notebooks due, via email, by midnight Berkeley time.
