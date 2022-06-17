@@ -7,9 +7,8 @@
 
 module Main where
 
-import Clay ((?), Css, em, pc, px, sym)
+import Clay ((?), Css, em, px, sym)
 import qualified Clay as C
-import Control.Monad
 import Data.Aeson (FromJSON, fromJSON)
 import qualified Data.Aeson as Aeson
 import qualified Data.Text as T
@@ -18,7 +17,7 @@ import Development.Shake
 import GHC.Generics (Generic)
 import Lucid
 import Main.Utf8
-import Rib (IsRoute, Pandoc)
+import Rib (IsRoute)
 import qualified Rib
 import System.FilePath
 
@@ -85,7 +84,7 @@ renderPage route val = html_ [lang_ "en"] $ do
       nav_ $ do
         a_ [href_ "/"] "Introduction to Computational Literary Analysis"
         " // "
-        a_ [href_ "https://icla2021.zulipchat.com"] "Chat"
+        a_ [href_ "https://icla2022.zulipchat.com"] "Chat"
         " // "
         a_ [href_ "/texts/moonstone.html"] "The Moonstone"
         -- " // "

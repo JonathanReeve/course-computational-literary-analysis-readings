@@ -1,7 +1,7 @@
 ---
-title: Introduction to Computational Literary Analysis, Summer 2021
+title: Introduction to Computational Literary Analysis, Summer 2022
 author: Jonathan Reeve
-date: 2021-07-05
+date: 2022-07-05
 ---
 
 Welcome! Here you'll find all the course information for Introduction to Computational Literary Analysis, a course taught at UC-Berkeley, every summer since 2018. 
@@ -9,18 +9,18 @@ Welcome! Here you'll find all the course information for Introduction to Computa
 ## Course Details 
 
   - DIGHUM 150C: Digital Humanities and Text and Language Analysis
-  - Summer Session D, 2021 (6 July – 14 August). Online-only this year.
+  - Summer Session D, 2022 (5 July – 12 August). Online-only this year.
   - Instructor: Jonathan Reeve
-  - [Course description via UC-Berkeley](https://classes.berkeley.edu/content/2021-summer-dighum-150c-001-wbl-001)
+  - [Course description via UC-Berkeley](https://classes.berkeley.edu/content/2022-summer-dighum-150c-001-wbl-001)
   - Lecture videos posted asynchronously, Mondays – Thursdays. (Find links in the course schedule below.) 
   - Discussion meetings: Monday–Thursday, at 12:00 noon Berkeley time, on Zulip. 
-      - [(12:00 noon in Berkeley, 15:00 in New York)](https://time.is/compare/1900_6_July_2021_in_UTC/Berkeley/New_York/Beijing)
+      - [(12:00 noon in Berkeley, 15:00 in New York)](https://time.is/compare/1900_6_July_2022_in_UTC/Berkeley/New_York/Beijing)
   - Open labs: Fridays, 10:00 to 11:00 Berkeley time. 
-      - [(10:00 in Berkeley, 13:00 in New York)](https://time.is/compare/1700_6_July_2021_in_UTC/Berkeley/New_York/Beijing)
+      - [(10:00 in Berkeley, 13:00 in New York)](https://time.is/compare/1700_6_July_2022_in_UTC/Berkeley/New_York/Beijing)
       - [Synchronous, here on Jitsi.](https://meet.jit.si/ComputationalLiteraryAnalysis)
   - Email address: jonathan.reeve@columbia.edu (but please communicate with me on Zulip whenever practical)
-  - Course chatroom: https://icla2021.zulipchat.com/
-  - Course website and course readings: https://icla2021.jonreeve.com
+  - Course chatroom: https://icla2022.zulipchat.com/
+  - Course website and course readings: https://icla2022.jonreeve.com
   - Course repository: https://github.com/JonathanReeve/course-computational-literary-analysis
 
 [Get Started!](#getting-started)
@@ -45,7 +45,7 @@ This course presumes no prior knowledge of programming, computer science, or qua
 
 ## Course Structure
 
-Although this is usually a classroom-taught course, due to the global pandemic, this course is taught online-only this year. This will require a lot of adaptation from everyone, and it won't be easy. That said, I'll be trying my best to make this course flexible, and doable from different timezones.
+Although this is usually a classroom-taught course, due to the global pandemic, this course is taught online-only, for the moment. This will require a lot of adaptation from everyone, and it won't be easy. That said, I'll be trying my best to make this course flexible, and doable from different timezones.
 
 ### Lecture Videos
 
@@ -53,9 +53,9 @@ In place of in-person lectures, I'll post lecture videos. Each video is between 
 
 ### Discussion Sections
 
-In place of in-person classroom dialogue and activities, we'll hold discussion sections online, using Zulip, at <https://icla2021.zulipchat.com/>. Zulip is a text-based chat platform, with email-like threading. You can use it to join an existing discussion thread, or create a new one.
+In place of in-person classroom dialogue and activities, we'll hold discussion sections online, using Zulip, at <https://icla2022.zulipchat.com/>. Zulip is a text-based chat platform, with email-like threading. You can use it to join an existing discussion thread, or create a new one.
 
-Attendance in these discussions is required. If you need to participate asynchronously one week, for whatever reason, just let me know in advance (on Zulip).
+Attendance in these discussions is required. If you need to participate asynchronously, for whatever reason, just let me know in advance (on Zulip). Participating asynchronously means that you still engage in our conversations, just at a later point in the day.
 
 As in a traditional classroom, some days you will want to speak (i.e., write in the chatroom) more than others, and that's fine. But please say something thoughtful **at least once per class**. This way there is a record of your participation.
 
@@ -78,14 +78,14 @@ Now that we have that, let's get started! First, let's set up a couple of accoun
 
 1.  Fill out [this short course survey](https://jonreeve.typeform.com/to/m7TpZ6YT), so I can keep track of who's who.
 2.  [Create a GitHub account](https://github.com/signup?user_email=&source=form-home-signup). Unless you're already well-established there, **please use your real name (or English name / preferred name, etc) as your username, and add a picture of yourself**.
-3.  Use that account to log into [our Zulip chatroom](https://icla2021.zulipchat.com/). (Click "sign up," then "sign up with GitHub.")
+3.  Use that account to log into [our Zulip chatroom](https://icla2022.zulipchat.com/). (Click "sign up," then "sign up with GitHub.")
 4.  Introduce yourself to everyone in the chatroom.
 5.  Sign up for a user account on [hypothes.is](https://hypothes.is), our annotation platform.
 6.  Download and install *[Anaconda](https://www.anaconda.com/products/individual)*, a Python distribution, which contains a lot of useful data science packages.
 
 ## Extra Resources
 
-You will likely need some extra help at some point, either for the literary aspect of the course, or the technological aspect. Don't worry. That's totally normal. 
+You will likely need some extra help at some point, either for the literary aspect of the course, or the technological aspect. Don't worry. That's totally normal. Here are a few resources:
 
 ### Programming Resources
 
@@ -180,18 +180,18 @@ Note: this schedule is subject to some change, so please check the course websit
 - Text: Wilkie Collins, *The Moonstone*
 - Tools: Python (Anaconda)
 
-### Unit 1.1. Tuesday, 2021-07-06: Course intro.
+### Unit 1.1. Tuesday, 2022-07-05: Course intro.
 
   - [Lecture 0: introduction.](https://www.youtube.com/watch?v=yji1aO-NELc)
   - Motivation: what is possible with computational literary analysis?
   - Assignment: please follow all steps in [the "Getting Started" section](#getting-started)
 
-### Unit 1.2. Wednesday, 2021-07-07: Installing Python. Python 2 v. 3. Jupyter. Strings.
+### Unit 1.2. Wednesday, 2022-07-06: Installing Python. Python 2 v. 3. Jupyter. Strings.
 
   - [Lecture 1: Getting Started](https://www.youtube.com/watch?v=gvGqxGyZBPs) 
   - Reading: [*The Moonstone*, First Period, Through Chapter VII](/texts/moonstone.html#prologue)
 
-### Unit 1.3. Thursday, 2021-07-08: Working with strings, lists, and dictionaries.
+### Unit 1.3. Thursday, 2022-07-07: Working with strings, lists, and dictionaries.
 
   - [Lecture 2: String Methods](https://www.youtube.com/watch?v=g9vOlQ7kiTo) 
   - Reading: [First Period, Through Chapter XI](/texts/moonstone.html#chapter-vii)
@@ -202,23 +202,23 @@ Note: this schedule is subject to some change, so please check the course websit
  - Text: *The Moonstone*, Continued
  - Tools: Natural Language ToolKit (NLTK)
 
-### Unit 2.1. Monday, 2021-07-12 
+### Unit 2.1. Monday, 2022-07-11 
 
   - [Lecture 3: Lists, Dictionaries, If Statements](https://www.youtube.com/watch?v=EUwFQTEBjPU)
   - Reading: [First Period, Complete.](/texts/moonstone.html#chapter-xi)
   - **Homework 1 due**
 
-### Unit 2.2. Tuesday, 2021-07-13
+### Unit 2.2. Tuesday, 2022-07-12
 
   - [Lecture 4: Files](https://www.youtube.com/watch?v=WONFR_aSw40) 
   - Reading: [Second Period, First Narrative (Miss Clack)](/texts/moonstone.html#first-narrative)
 
-### Unit 2.3. Wednesday, 2021-07-14
+### Unit 2.3. Wednesday, 2022-07-13
 
   - [Lecture 5: the NLTK](https://www.youtube.com/watch?v=uuAka56Cm44) 
   - Reading: [Second Period, Second Narrative (Mr. Bruff)](/texts/moonstone.html#second-narrative)
 
-### Unit 2.4. Thursday, 2021-07-15
+### Unit 2.4. Thursday, 2022-07-14
 
   - Reading: [Second Period, Third Narrative (Mr. Blake)](/texts/moonstone.html#third-narrative)
   - [Lecture 6: Stems and Lemmas](https://www.youtube.com/watch?v=a1IIuSmPkUQ) 
@@ -229,26 +229,26 @@ Note: this schedule is subject to some change, so please check the course websit
  - Text: *The Moonstone* and Katherine Mansfield, *The Garden Party and Other Stories*
  - Tools: Scikit-Learn, Pandas
 
-### Unit 3.1 2021-07-19: Pandas and distinctive words.
+### Unit 3.1 2022-07-18: Pandas and distinctive words.
 
   - **Homework 2 due**
   - Text: Second Period, Fourth and Fifth Narratives
   - [Lecture 7: Types and Tokens](https://www.youtube.com/watch?v=HhQA__FKxj4)
   - [Lecture 8: Pandas for Word Frequency Analysis. Distinctive words.](https://www.youtube.com/watch?v=frIUMKXBtZI)
 
-### Unit 3.2 2021-07-20: N-grams and narrative-time analysis. 
+### Unit 3.2 2022-07-19: N-grams and narrative-time analysis. 
 
   - Text: *The Moonstone*, Complete.
   - [Lecture 9: Narrative Time Analysis and N-Grams](https://www.youtube.com/watch?v=jMN1XbMRE6s)
 
-### Unit 3.3 2021-07-21: WordNet and WordNet-based text analysis. Part-of-speech analyses.
+### Unit 3.3 2022-07-20: WordNet and WordNet-based text analysis. Part-of-speech analyses.
 
-  - [Texts: "The Garden Party"](https://icla2021.jonreeve.com/texts/garden-party.html#2-the-garden-party)
+  - [Texts: "The Garden Party"](https://icla2022.jonreeve.com/texts/garden-party.html#2-the-garden-party)
   - [Lecture 10: WordNet and WordNet-Based Analysis](https://youtu.be/jKN5HVUGYao)
 
-### Unit 3.4 2021-07-22: Downloading, using, and iterating over corpora.
+### Unit 3.4 2022-07-21: Downloading, using, and iterating over corpora.
 
-  - [Texts: "The Daughters of the Late Colonel"](https://icla2021.jonreeve.com/texts/garden-party.html#3-the-daughters-of-the-late-colonel)
+  - [Texts: "The Daughters of the Late Colonel"](https://icla2022.jonreeve.com/texts/garden-party.html#3-the-daughters-of-the-late-colonel)
   - [Lecture 11: POS cont'd. Corpora.](https://youtu.be/esuj7jOK2lE)
   - [Homework 3 assigned. Due Monday, 7-26 at noon Berkeley time.)](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW3.ipynb)
 
@@ -257,25 +257,25 @@ Note: this schedule is subject to some change, so please check the course websit
 Text: Katherine Mansfield, *The Garden Party and Other Stories*
 Tools: NLTK, SpaCy
 
-### Unit 4.1 2021-07-26: Review of Week 3 and Homework 3. Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.
+### Unit 4.1 2022-07-25: Review of Week 3 and Homework 3. Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.
 
   - **Homework 3 due**
-  - [Texts: "The Young Girl"](https://icla2021.jonreeve.com/texts/garden-party.html#5-the-young-girl)
+  - [Texts: "The Young Girl"](https://icla2022.jonreeve.com/texts/garden-party.html#5-the-young-girl)
   - [Lecture 12: Corpora continued. Scikit-learn.](https://www.youtube.com/watch?v=szJU_q7hnkk)
 
-### Unit 4.2 2021-07-27: Comparative stylometry. Corpus-DB.
+### Unit 4.2 2022-07-26: Comparative stylometry. Corpus-DB.
 
-  - [Texts: "Marriage à la Mode"](https://icla2021.jonreeve.com/texts/garden-party.html#7-marriage-a-la-mode)
+  - [Texts: "Marriage à la Mode"](https://icla2022.jonreeve.com/texts/garden-party.html#7-marriage-a-la-mode)
   - [Lecture 13: Stylometry, Corpus-DB](https://www.youtube.com/watch?v=oNZiviyHVbE)
 
-### Unit 4.3 2021-07-28: Stylometry, continued.
+### Unit 4.3 2022-07-27: Stylometry, continued.
 
-  - [Texts: "Her First Ball"](https://icla2021.jonreeve.com/texts/garden-party.html#10-her-first-ball)
+  - [Texts: "Her First Ball"](https://icla2022.jonreeve.com/texts/garden-party.html#10-her-first-ball)
   - [Lecture 14: Stylometry Cont'd.](https://www.youtube.com/watch?v=43_Egqq0hsQ)
 
-### Unit 4.4 2021-07-29: Topic modeling with LDA. Quote parsing.
+### Unit 4.4 2022-07-28: Topic modeling with LDA. Quote parsing.
 
-  - [Texts: "An Ideal Family"](https://icla2021.jonreeve.com/texts/garden-party.html#14-an-ideal-family)
+  - [Texts: "An Ideal Family"](https://icla2022.jonreeve.com/texts/garden-party.html#14-an-ideal-family)
   - [Homework 4 assigned. Due Monday by 19:00 UTC (noon in Berkeley).](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW4.ipynb)
   - [Lecture 15: Topic Modeling](https://www.youtube.com/watch?v=5LKWD3fWyb0)
 
@@ -284,43 +284,49 @@ Tools: NLTK, SpaCy
 Text: James Joyce, *Dubliners*
 Tools: SpaCy
 
-### Unit 5.1 2021-08-02: Review of Week 4 and Homework 4. Using SpaCy. Named entity recognition.
+### Unit 5.1 2022-08-01: Review of Week 4 and Homework 4. Using SpaCy. Named entity recognition.
 
   - **Homework 4 due**
-  - [Texts: "The Sisters," "An Encounter"](https://icla2021.jonreeve.com/texts/dubliners.html#the-sisters)
-  - [Lecture 16: SpaCy and Named Entity Recognition](https://www.youtube.com/watch?v=OYHBujzwaGw)
+  - [Texts: "The Sisters," "An Encounter"](https://icla2022.jonreeve.com/texts/dubliners.html#the-sisters)
+  - [Lecture 17: SpaCy and Named Entity Recognition](https://www.youtube.com/watch?v=OYHBujzwaGw)
 
-### Unit 5.2 2021-08-03: Intro to final project. Sentiment analysis. Macro-etymological analysis.
+### Unit 5.2 2022-08-02: Intro to final project. Sentiment analysis. Macro-etymological analysis.
 
-  - [Texts: "Araby", "Eveline"](https://icla2021.jonreeve.com/texts/dubliners.html#araby)
-  - [Lecture 17: Sentiment Analysis and Macro-Etymological Analysis](https://www.youtube.com/watch?v=eYJMOwhNT70)
+  - [Texts: "Araby", "Eveline"](https://icla2022.jonreeve.com/texts/dubliners.html#araby)
+  - [Lecture 18: Sentiment Analysis and Macro-Etymological Analysis](https://www.youtube.com/watch?v=eYJMOwhNT70)
 
-### Unit 5.3 2021-08-04: Sentence structure analysis using SpaCy.
+### Unit 5.3 2022-08-03: Sentence structure analysis using SpaCy.
 
-  - [Texts: "The Boarding House"](https://icla2021.jonreeve.com/texts/dubliners.html#the-boarding-house)
-  - [Lecture 18: Sentence Structure Analysis Using SpaCy](https://www.youtube.com/watch?v=G4qQVnzDZRk)
+  - [Texts: "The Boarding House"](https://icla2022.jonreeve.com/texts/dubliners.html#the-boarding-house)
+  - [Lecture 19: Sentence Structure Analysis Using SpaCy]()
 
-### Unit 5.4 2021-08-05: Social Network Analysis
+### Unit 5.4 2022-08-04: Social Network Analysis
 
-  - [Texts: "Clay"](https://icla2021.jonreeve.com/texts/dubliners.html#clay)
-  - [Lecture 19: Social Network Analysis.](https://www.youtube.com/watch?v=qWDOXC9iFL8)
+  - [Texts: "Clay"](https://icla2022.jonreeve.com/texts/dubliners.html#clay)
+  - [Lecture 20: Social Network Analysis.]()
 
-## Week 6: Advanced Topics, Extras
+## Week 6: Advanced Topics
 
-Tools: SpaCy
+Tools: Scikit-Learn, SpaCy
 
-### Unit 6.1 2021-08-09: About the Final Project
+### Unit 6.1 2022-08-08: About the Final Project
 
-### Unit 6.2 2021-08-10: Extras: TEI XML.
+### Unit 6.2 2022-08-09: Extras: TEI XML.
 
-### Unit 6.3 2021-08-11: Extras: Metadata APIs.
+ - Lecture 21: Extras: TEI XML
 
-### Unit 6.4 2021-08-12: Final project presentations. Wrap-up.
+### Unit 6.3 2022-08-10: Extras: Metadata APIs.
 
- - Final project presentations due by noon, Berkeley time. 
+  - [Lecture 20: Social Network Analysis](https://us.tv/videos/watch/f0d5cd5c-e162-4c0b-ac4a-1c59bc36c1f0)
+  - Reading: ["The Boarding House"](https://icla2022.jonreeve.com/texts/dubliners.html#the-boarding-house)
+  - Reading: ["Clay"](https://icla2022.jonreeve.com/texts/dubliners.html#clay)
+
+### Unit 6.4 2022-08-11: Final project presentations. Wrap-up.
+
+ - Final project presentations due by 19:00 UTC. 
  
-### 2021-08-13: Final open lab.
+### 2022-08-12: Final open lab.
 
-### 2021-08-15: Final projects due.
+### 2022-08-13: Final projects due.
 
- - Final project notebooks due, via email, by midnight Berkeley time.
+ - [Final project notebooks due, via email, by the end of the day.]
