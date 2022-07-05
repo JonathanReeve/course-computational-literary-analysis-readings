@@ -76,12 +76,11 @@ To get set up for this course, you will need:
 
 Now that we have that, let's get started! First, let's set up a couple of accounts:
 
-1.  Fill out [this short course survey](https://jonreeve.typeform.com/to/O4gBFzxq), so I can keep track of who's who.
-2.  [Create a GitHub account](https://github.com/signup?user_email=&source=form-home-signup). Unless you're already well-established there, **please use your real name (or English name / preferred name, etc) as your username, and add a picture of yourself**.
-3.  Use that account to log into [our Zulip chatroom](https://icla2022.zulipchat.com/). (Click "sign up," then "sign up with GitHub.")
-4.  Introduce yourself to everyone in the chatroom.
-5.  Sign up for a user account on [hypothes.is](https://hypothes.is), our annotation platform.
-6.  Download and install *[Anaconda](https://www.anaconda.com/products/individual)*, a Python distribution, which contains a lot of useful data science packages.
+1.  [Create a GitHub account](https://github.com/signup?user_email=&source=form-home-signup). Unless you're already well-established there, **please use your real name (or English name / preferred name, etc) as your username, and add a picture of yourself**.
+2.  Use that account to log into [our Zulip chatroom](https://icla2022.zulipchat.com/). (Click "sign up," then "sign up with GitHub.")
+3.  Introduce yourself to everyone in the chatroom.
+4.  Sign up for a user account on [hypothes.is](https://hypothes.is), our annotation platform.
+5.  Download and install *[Anaconda](https://www.anaconda.com/products/individual)*, a Python distribution, which contains a lot of useful data science packages.
 
 ## Extra Resources
 
