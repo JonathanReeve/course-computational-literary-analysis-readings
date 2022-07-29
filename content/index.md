@@ -310,15 +310,13 @@ Tools: Scikit-Learn, SpaCy
 
 ### Unit 6.1 2022-08-08: About the Final Project
 
-### Unit 6.2 2022-08-09: Extras: TEI XML.
+### Unit 6.2 2022-08-09: Extras
+
+ - [Lecture 20: Social Network Analysis](https://us.tv/videos/watch/f0d5cd5c-e162-4c0b-ac4a-1c59bc36c1f0)
+
+### Unit 6.3 2022-08-10: Extras
 
  - Lecture 21: Extras: TEI XML
-
-### Unit 6.3 2022-08-10: Extras: Metadata APIs.
-
-  - [Lecture 20: Social Network Analysis](https://us.tv/videos/watch/f0d5cd5c-e162-4c0b-ac4a-1c59bc36c1f0)
-  - Reading: ["The Boarding House"](https://icla2022.jonreeve.com/texts/dubliners.html#the-boarding-house)
-  - Reading: ["Clay"](https://icla2022.jonreeve.com/texts/dubliners.html#clay)
 
 ### Unit 6.4 2022-08-11: Final project presentations. Wrap-up.
 
