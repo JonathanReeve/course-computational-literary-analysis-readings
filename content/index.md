@@ -264,7 +264,7 @@ Tools: NLTK, SpaCy
 
 ### Unit 4.2 2022-07-26: Comparative stylometry. Corpus-DB.
 
-  - [Texts: "Marriage à la Mode"](https://icla2022.jonreeve.com/texts/garden-party.html#7-marriage-a-la-mode)
+  - [Texts: "Marriage à la Mode"](https://icla2022.jonreeve.com/texts/garden-party.html#7-marriage-a-la-mode) 
   - [Lecture 13: Stylometry, Corpus-DB](https://www.youtube.com/watch?v=oNZiviyHVbE)
 
 ### Unit 4.3 2022-07-27: Stylometry, continued.
@@ -297,12 +297,12 @@ Tools: SpaCy
 ### Unit 5.3 2022-08-03: Sentence structure analysis using SpaCy.
 
   - [Texts: "The Boarding House"](https://icla2022.jonreeve.com/texts/dubliners.html#the-boarding-house)
-  - [Lecture 19: Sentence Structure Analysis Using SpaCy]()
+  - [Lecture 19: Social Network Analysis](https://www.youtube.com/watch?v=qWDOXC9iFL8)
 
 ### Unit 5.4 2022-08-04: Social Network Analysis
 
   - [Texts: "Clay"](https://icla2022.jonreeve.com/texts/dubliners.html#clay)
-  - [Lecture 20: Social Network Analysis.]()
+  - [Lecture 20: TEI XML.](https://www.youtube.com/watch?v=ykCf0WmVV2w&t=688s)
 
 ## Week 6: Advanced Topics
 
@@ -312,18 +312,18 @@ Tools: Scikit-Learn, SpaCy
 
 ### Unit 6.2 2022-08-09: Extras
 
- - [Lecture 20: Social Network Analysis](https://us.tv/videos/watch/f0d5cd5c-e162-4c0b-ac4a-1c59bc36c1f0)
+ - [Lecture 21: TBA]()
 
 ### Unit 6.3 2022-08-10: Extras
 
- - Lecture 21: Extras: TEI XML
+ - [Lecture 22: TBA]()
 
 ### Unit 6.4 2022-08-11: Final project presentations. Wrap-up.
 
- - Final project presentations due by 19:00 UTC. 
+ - Final project presentations due by noon Berkeley time. 
  
 ### 2022-08-12: Final open lab.
 
 ### 2022-08-13: Final projects due.
 
- - [Final project notebooks due, via email, by the end of the day.]
+ - Final project notebooks due, via email, by noon, Berkeley time.
