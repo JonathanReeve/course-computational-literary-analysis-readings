@@ -312,11 +312,11 @@ Tools: Scikit-Learn, SpaCy
 
 ### Unit 6.2 2022-08-09: Extras
 
- - [Lecture 21: TBA]()
+ - [Lecture 21: Syntactic Analysis](https://www.youtube.com/watch?v=bqHJ6Glae1w)
 
 ### Unit 6.3 2022-08-10: Extras
 
- - [Lecture 22: TBA]()
+ - [Lecture 22: Word Embeddings](https://tubedu.org/w/5746e37d-7581-4386-831b-e406cb6bb946)
 
 ### Unit 6.4 2022-08-11: Final project presentations. Wrap-up.
 
